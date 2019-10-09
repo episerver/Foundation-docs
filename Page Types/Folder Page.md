@@ -15,4 +15,4 @@ The following property list includes properties that are unique to this content 
 ## Technical Information
 
 ## Preview
-![Preview of Folder Page Content in All-properties view](https://github.com/egandalf/FoundationDocumentation/blob/master/Screenshots/Folder%20Page%20-%20Content.png?raw=true)
+![Preview of Folder Page Content in All-properties view](../Screenshots/Folder%20Page%20-%20Content.png?raw=true)
