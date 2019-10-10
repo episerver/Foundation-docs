@@ -24,4 +24,4 @@ Property Name | Type | Property Description
 * none
 
 ## Preview
-![Preview of Folder Page Content in All-properties view](../Screenshots/Two%20Column%20Landing%20Page%20-%20View.png?raw=true)
+![Preview of Two-Column Landing Page Content in Author / On-page-editing view](../Screenshots/Two%20Column%20Landing%20Page%20-%20View.png?raw=true)
