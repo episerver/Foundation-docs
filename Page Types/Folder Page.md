@@ -1,6 +1,6 @@
 # Folder Page
+"A page which allows you to structure pages"
 
-## Description
 A non-visual *Page Type* designed for organization of *Page* content within the page tree.
 
 ## Property List
@@ -13,6 +13,17 @@ The following property list includes properties that are unique to this content 
 *It is recommended that Folder Page or other similar structure-only types be used sparingly in order to avoid having URL paths which render no content. E.g. https://mysite.com/{folder-page-path}/*
 
 ## Technical Information
+
+### Category
+`Content`
+
+### Inherits
+[FoundationPageData](#)
+
+### Restrictions
+* Include on:
+    * [Home Page](#)
+    * Folder Page (self)
 
 ## Preview
 ![Preview of Folder Page Content in All-properties view](../Screenshots/Folder%20Page%20-%20Content.png?raw=true)
