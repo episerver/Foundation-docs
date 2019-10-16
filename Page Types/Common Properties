@@ -1,1 +1,27 @@
-Hellow
+# Common Properties and Tabs
+"What properties all page types have in common."
+
+There are several tabs in the All Properties view that are shared between all page types. Let's look at them one tab at a time.
+
+## Teaser
+The following property list includes properties that are specific to defining how a page looks and behaves when used as a teaser on another page (dragged into a content area on another page).
+
+Property Name | Type | Property Description
+--------------|------|---------------
+**Right hand content area** (RightHandContentArea) | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
+**Column quantity of Main content area** (MainContentAreaColumn) | Integer | Configures the *Main content area* column width in Bootstrap column integer values. *Main content area* is inherited from [FoundationPageData](#) as a global page property.
+**Column quantity of Right hand content area** (RightHandContentArea) | Integer | Configures the *Right hand content area* column width in Bootstrap column integer values.
+
+## Technical Information
+
+### Category
+`Content`
+
+### Inherits
+[Landing Page](#)
+
+### Restrictions
+* none
+
+## Preview
+![Preview of Folder Page Content in All-properties view](../Screenshots/Two%20Column%20Landing%20Page%20-%20View.png?raw=true)
