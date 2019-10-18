@@ -57,7 +57,7 @@ Property Name | Type | Property Description
 * None
 
 ### Preview
-![Preview of Metadata tab in All-properties view](../Screenshots/Metadata%20tab.png?raw=true)
+<img src="../Screenshots/Metadata%20tab.png?raw=true" alt="Preview of Metadata tab in All-properties view" width="50%" />
 
 ## Styles
 The following properties allow a skilled user to provide overrides of styles for this page and its children.
@@ -76,11 +76,10 @@ Property Name | Type | Property Description
 * None
 
 ### Preview
-![Preview of Scripts tab in All-properties view](../Screenshots/Styles%20Tab.png?raw=true)
+<img src="../Screenshots/Styles%20Tab.png?raw=true" alt="Preview of Styles tab in All-properties view" width="50%" />
 
 ## Scripts
 The following properties allow a skilled user to provide JavaScript for this page and its children.
-
 
 Property Name | Type | Property Description
 --------------|------|---------------
@@ -96,4 +95,4 @@ Property Name | Type | Property Description
 * None
 
 ### Preview
-![Preview of Teaser tab in All-properties view](../Screenshots/Scripts%20Tab.png?raw=true)
+<img src="../Screenshots/Scripts%20Tab.png?raw=true" alt="Preview of Scripts tab in All-properties view" width="50%" />
