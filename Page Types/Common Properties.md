@@ -9,10 +9,10 @@ The following property list includes properties that are specific to defining ho
 Property Name | Type | Property Description
 --------------|------|---------------
 **Image** | Image | Provides a place for placing an image that acts as the background when the page is viewed as a teaser.
-**Video** | Video | Provides a place for placing a video clip that acts as the background when the page is viewed as a teaser. Note: if both Image and Video have a value, Video wins.
+**Video** | Video | Provides a place for placing a video clip that acts as the background when the page is viewed as a teaser. **Note:** if both Image and Video have a value, Video wins.
 **Text**  | Text Area | Provides a box for entering plain text to be shown as the teaser text.
-**Text alignment**  | Dropdown | Provides a way to control the alignment of the teaser text. The default value is Left. The options are Left, Center and Right.
-**Color theme**  | Dropdown | Provides a way to control the tint of teaser text. The options are Light and Dark.
+**Text alignment**  | Dropdown | Provides a way to control the alignment of the teaser text. The default value is Left. The options are **Left**, **Center** and **Right**.
+**Color theme**  | Dropdown | Provides a way to control the tint of teaser text. The options are **Light** and **Dark*.
 **Button label**  | Text | Provides a box for entering the button text.
 **Display hover effect**  | Checkbox | Provides a way to choose whether a hover effect should be used on the teaser element. If selected, the teaser text and button are not shown until the user hovers over the element. If not selected, teaser text and button are always visible. See screen shots below for reference.
 
