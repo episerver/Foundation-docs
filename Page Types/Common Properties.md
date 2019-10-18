@@ -61,7 +61,7 @@ Property Name | Type | Property Description
 * None
 
 ### Preview
-<img src="../Screenshots/Metadata%20tab.png?raw=true" alt="Preview of Metadata tab in All-properties view" width="50%" />
+<img src="../Screenshots/Metadata%20Tab.png?raw=true" alt="Preview of Metadata tab in All-properties view" width="50%" />
 
 ---
 
