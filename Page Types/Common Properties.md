@@ -55,3 +55,22 @@ Property Name | Type | Property Description
 
 ### Preview
 ![Preview of Metadata tab in All-properties view](../Screenshots/Metadata%20tab.png?raw=true)
+
+## Styles
+The following properties allow a skilled user to provide overrides of styles for this page and its children.
+
+Property Name | Type | Property Description
+--------------|------|---------------
+**CSS files** | Content Area | Provides a place for dropping .css files to override the site defaults.
+**CSS** | Text area | Provides a text box for typing or pasting CSS directly.
+
+## Technical Information
+
+### Category
+`Content`
+
+### Restrictions
+* None
+
+### Preview
+![Preview of Scripts tab in All-properties view](../Screenshots/Scripts%20Tab.png?raw=true)
