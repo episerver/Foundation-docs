@@ -102,3 +102,25 @@ Property Name | Type | Property Description
 
 ### Preview
 <img src="../Screenshots/Scripts%20Tab.png?raw=true" alt="Preview of Scripts tab in All-properties view" width="50%" />
+
+---
+
+## Settings
+The following properties are what's added to the built-in options in the Settings tab.
+
+Property Name | Type | Property Description
+--------------|------|---------------
+**Hide site header** | Checkbox | Provides an option for selecting whether the site header element should be hidden on this page.
+**Hide site footer** | Checkbox | Provides an option for selecting whether the site footer element should be hidden on this page.
+**Exclude from search results** | Checkbox | Provides an option for determining whether this page should be shown in search results when an on-site search is performed.
+
+### Technical Information
+
+#### Category
+`Content`
+
+#### Restrictions
+* None
+
+### Preview
+<img src="../Screenshots/Settings%20Tab.png?raw=true" alt="The Setting tab in All Properties view" width="50%" />
