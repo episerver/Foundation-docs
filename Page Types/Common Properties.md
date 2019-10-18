@@ -30,7 +30,6 @@ Property Name | Type | Property Description
 ![Preview of Teaser tab in All-properties view and the rendering side-by-side](../Screenshots/Teaser%20Tab%20-%20properties%20to%20view.png?raw=true)
 
 
-![Preview of Folder Page Content in All-properties view](../Screenshots/Folder%20Page%20-%20Content.png?raw=true)
 
  
 
