@@ -29,7 +29,7 @@ Property Name | Type | Property Description
 #### The relationship between properties and the view
 ![Preview of Teaser tab in All-properties view and the rendering side-by-side](../Screenshots/Teaser%20Tab%20-%20properties%20to%20view.png?raw=true)
 #### How the teaser looks when Display Hover Effect is selected but it is not in focus
-<img src="../Screenshots/Teaser%20View%20-%20hover%20but%20no%20mouse-over.png?raw=true" alt="Preview of teaser with hove effect but not in focus" width="50%" />
+(<img src="../Screenshots/Teaser%20View%20-%20hover%20but%20no%20mouse-over.png?raw=true" alt="Preview of teaser with hove effect but not in focus" width="50%" />)
 #### How the teaser looks when Display Hover Effect is selected and it is in focus (hovered over)
 <img src="../Screenshots/Teaser%20View%20-%20hover%20with%20mouse-over.png?raw=true" alt="Preview of Teaser element with Hover effect selected when the mouse pointer is over it" width="50%" />
 #### How the teaser looks when Display Hover Effect is not selected
