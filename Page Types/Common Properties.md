@@ -33,9 +33,10 @@ Property Name | Type | Property Description
 <img src="../Screenshots/Teaser%20View%20-%20hover%20but%20no%20mouse-over.png?raw=true" alt="Preview of teaser with hover effect but not in focus" width="50%" />
 
 #### How the teaser looks when Display Hover Effect is selected and it is in focus (hovered over)
-![Preview of Metadata tab in All-properties view]<img src="../Screenshots/Teaser%20View%20-%20hover%20with%20mouse-over.png?raw=true" alt="Preview of Teaser element with Hover effect selected when the mouse pointer is over it" width="50%" border="1" />
+<img src="../Screenshots/Teaser%20View%20-%20hover%20with%20mouse-over.png?raw=true" alt="Preview of Teaser element with Hover effect selected when the mouse pointer is over it" width="50%" border="1" />
+
 #### How the teaser looks when Display Hover Effect is not selected
-(<img src="../Screenshots/Teaser%20View%20-%20no%20hover.png?raw=true" alt="Preview of Teaser element without Hover effect selected" width="50%" border="1" />)
+<img src="../Screenshots/Teaser%20View%20-%20no%20hover.png?raw=true" alt="Preview of Teaser element without Hover effect selected" width="50%" border="1" />
 
 ## Metadata
 The following property list includes properties for providing meta data for the page.
