@@ -29,16 +29,8 @@ Property Name | Type | Property Description
 #### The relationship between properties and the view
 ![Preview of Teaser tab in All-properties view and the rendering side-by-side](../Screenshots/Teaser%20Tab%20-%20properties%20to%20view.png?raw=true)
 
-
-
- 
-
-<img src="../Screenshots/Folder%20Page%20-%20Content.png?raw=true" alt="Preview of Folder Page Content in All-properties view" width="50%" />
-
-
 #### How the teaser looks when Display Hover Effect is selected but it is not in focus
 
-![Preview of Metadata tab in All-properties view](../Screenshots/Teaser%20View%20-%20hover%20but%20no%20mouse-over.png?raw=true)
 
 <img src="../Screenshots/Teaser%20View%20-%20hover%20but%20no%20mouse-over.png?raw=true" alt="Preview of teaser with hover effect but not in focus" width="50%" />
 
