@@ -37,7 +37,9 @@ Property Name | Type | Property Description
 
 #### How the teaser looks when Display Hover Effect is not selected
 <img src="../Screenshots/Teaser%20View%20-%20no%20hover.png?raw=true" alt="Preview of Teaser element without Hover effect selected" width="50%" border="1" />
----------------------------------------
+
+---
+
 ## Metadata
 The following property list includes properties for providing meta data for the page.
 
@@ -58,7 +60,9 @@ Property Name | Type | Property Description
 
 ### Preview
 <img src="../Screenshots/Metadata%20tab.png?raw=true" alt="Preview of Metadata tab in All-properties view" width="50%" />
----------------------------------------
+
+---
+
 ## Styles
 The following properties allow a skilled user to provide overrides of styles for this page and its children.
 
@@ -77,7 +81,9 @@ Property Name | Type | Property Description
 
 ### Preview
 <img src="../Screenshots/Styles%20Tab.png?raw=true" alt="Preview of Styles tab in All-properties view" width="50%" />
----------------------------------------
+
+---
+
 ## Scripts
 The following properties allow a skilled user to provide JavaScript for this page and its children.
 
