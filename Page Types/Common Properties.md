@@ -26,7 +26,7 @@ Property Name | Type | Property Description
 * If Text alignment is not set, the Page name, Text and Button properties are not shown at all. 
 
 ## Preview
-![Preview of Teaser tab in All-properties view](../Screenshots/Teaser%20Tab%20.png?raw=true)
+![Preview of Teaser tab in All-properties view and the rendering side-by-side](../Screenshots/Teaser%20Tab%20-%20properties%20to%20view.png?raw=true)
 ![Preview of Teaser element with Hover effect selected but before gaining focus](../Screenshots/Teaser%20View%20-%20hover%20but%20no%20mouse-over.png?raw=true)
 ![Preview of Teaser element with Hover effect selected when the mouse pointer is over it](../Screenshots/Teaser%20View%20-%20hover%20with%20mouse-over.png?raw=true)
 ![Preview of Teaser element without Hover effect selected](../Screenshots/Teaser%20View%20-%20no%20hover.png?raw=true)
