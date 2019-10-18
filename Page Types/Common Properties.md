@@ -16,16 +16,16 @@ Property Name | Type | Property Description
 **Button label**  | Text | Provides a box for entering the button text.
 **Display hover effect**  | Checkbox | Provides a way to choose whether a hover effect should be used on the teaser element. If selected, the teaser text and button are not shown until the user hovers over the element. If not selected, teaser text and button are always visible. See screen shots below for reference.
 
-## Technical Information
+### Technical Information
 
-### Category
+#### Category
 `Content`
 
-### Restrictions
+#### Restrictions
 * If both Image and Video are filled in, Video takes presedence.
 * If Text alignment is not set, the Page name, Text and Button properties are not shown at all. 
 
-## Preview
+### Preview
 #### The relationship between properties and the view
 ![Preview of Teaser tab in All-properties view and the rendering side-by-side](../Screenshots/Teaser%20Tab%20-%20properties%20to%20view.png?raw=true)
 
@@ -48,12 +48,12 @@ Property Name | Type | Property Description
 **Page description**  | Text Area | Provides a place for entering a plain text description for the page. **Note:** if the Text property in the Teaser tab is empty, the Page description will be used as teaser text.
 **Disable indexing**  | Checkbox | Provides a way to control whether the contents of this page should be indexed for search engines or not.
 
-## Technical Information
+### Technical Information
 
-### Category
+#### Category
 `Content`
 
-### Restrictions
+#### Restrictions
 * None
 
 ### Preview
@@ -67,12 +67,12 @@ Property Name | Type | Property Description
 **CSS files** | Content Area | Provides a place for dropping .css files to override the site defaults.
 **CSS** | Text area | Provides a text box for typing or pasting CSS directly.
 
-## Technical Information
+### Technical Information
 
-### Category
+#### Category
 `Content`
 
-### Restrictions
+#### Restrictions
 * None
 
 ### Preview
@@ -86,12 +86,12 @@ Property Name | Type | Property Description
 **Script files** | Content Area | Provides a place for dropping .js files to be utilized by this page and its children.
 **Script** | Text area | Provides a text box for typig or pasting JavaScript code directly.
 
-## Technical Information
+### Technical Information
 
-### Category
+#### Category
 `Content`
 
-### Restrictions
+#### Restrictions
 * None
 
 ### Preview
