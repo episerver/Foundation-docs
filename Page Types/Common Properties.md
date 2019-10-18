@@ -34,7 +34,7 @@ Property Name | Type | Property Description
 
  
 
-<img src="../Screenshots/Folder%20Page%20-%20Content.png?raw=true" alt="Preview of Folder Page Content in All-properties view" width="100" />
+<img src="../Screenshots/Folder%20Page%20-%20Content.png?raw=true" alt="Preview of Folder Page Content in All-properties view" width="50%" />
 
 
 #### How the teaser looks when Display Hover Effect is selected but it is not in focus
