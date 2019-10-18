@@ -54,4 +54,4 @@ Property Name | Type | Property Description
 * None
 
 ### Preview
-![Preview of Metadata tab in All-properties view](../Screenshots/Metadata%20Tab.png?raw=true)
+![Preview of Metadata tab in All-properties view](../Screenshots/Metadata%20tab.png?raw=true)
