@@ -1,6 +1,8 @@
 # Common Properties and Tabs
 "Properties that all page types have in common."
 
+<img src="../Screenshots/Common%20Tabs.png?raw=true" alt="Common tabs to all page types" />
+
 There are several tabs in the All Properties view that are shared between all page types. Let's look at them one tab at a time.
 
 ## Teaser
