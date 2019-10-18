@@ -6,7 +6,7 @@
 A longer content type description here.
 
 ## Property List
-The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](#) list.
+The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](https://github.com/egandalf/FoundationDocumentation/blob/master/Page%20Types/Common%20Properties.md) list.
 
 Property Name | Type | Property Description
 --------------|------|---------------
