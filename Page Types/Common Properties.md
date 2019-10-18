@@ -34,3 +34,24 @@ Property Name | Type | Property Description
 ![Preview of Teaser element with Hover effect selected when the mouse pointer is over it](../Screenshots/Teaser%20View%20-%20hover%20with%20mouse-over.png?raw=true)
 #### How the teaser looks when Display Hover Effect is not selected
 ![Preview of Teaser element without Hover effect selected](../Screenshots/Teaser%20View%20-%20no%20hover.png?raw=true)
+
+## Metadata
+The following property list includes properties for providing meta data for the page.
+
+Property Name | Type | Property Description
+--------------|------|---------------
+**Title** | Text | Provides a place for the title.
+**Keywords** | Text area | Provides a place for entering keywords for this page.
+**Page description**  | Text Area | Provides a place for entering a plain text description for the page. **Note:** if the Text property in the Teaser tab is empty, the Page description will be used as teaser text.
+**Disable indexing**  | Checkbox | Provides a way to control whether the contents of this page should be indexed for search engines or not.
+
+## Technical Information
+
+### Category
+`Content`
+
+### Restrictions
+* None
+
+### Preview
+![Preview of Metadata tab in All-properties view](../Screenshots/Metadata%20Tab%20.png?raw=true)
