@@ -74,3 +74,23 @@ Property Name | Type | Property Description
 
 ### Preview
 ![Preview of Scripts tab in All-properties view](../Screenshots/Styles%20Tab.png?raw=true)
+
+## Scripts
+The following properties allow a skilled user to provide JavaScript for this page and its children.
+
+
+Property Name | Type | Property Description
+--------------|------|---------------
+**Script files** | Content Area | Provides a place for dropping .js files to be utilized by this page and its children.
+**Script** | Text area | Provides a text box for typig or pasting JavaScript code directly.
+
+## Technical Information
+
+### Category
+`Content`
+
+### Restrictions
+* None
+
+### Preview
+![Preview of Teaser tab in All-properties view](../Screenshots/Scripts%20Tab.png?raw=true)
