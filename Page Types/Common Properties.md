@@ -61,7 +61,7 @@ Property Name | Type | Property Description
 * None
 
 ### Preview
-<img src="../Screenshots/Metadata%20Tab.png?raw=true" alt="Preview of Metadata tab in All-properties view" width="70%" border="1" />
+<img src="../Screenshots/Metadata%20Tab.png?raw=true" alt="Preview of Metadata tab in All-properties view" width="70%" />
 
 ---
 
@@ -82,7 +82,7 @@ Property Name | Type | Property Description
 * None
 
 ### Preview
-<img src="../Screenshots/Styles%20Tab.png?raw=true" alt="Preview of Styles tab in All-properties view" width="50%" />
+<img src="../Screenshots/Styles%20Tab.png?raw=true" alt="Preview of Styles tab in All-properties view" width="70%" />
 
 ---
 
@@ -103,7 +103,7 @@ Property Name | Type | Property Description
 * None
 
 ### Preview
-<img src="../Screenshots/Scripts%20Tab.png?raw=true" alt="Preview of Scripts tab in All-properties view" width="50%" />
+<img src="../Screenshots/Scripts%20Tab.png?raw=true" alt="Preview of Scripts tab in All-properties view" width="70%" />
 
 ---
 
@@ -126,4 +126,4 @@ Property Name | Type | Property Description
 * None
 
 ### Preview
-<img src="../Screenshots/Settings%20Tab.png?raw=true" alt="The Setting tab in All Properties view" width="50%" />
+<img src="../Screenshots/Settings%20Tab.png?raw=true" alt="The Setting tab in All Properties view" width="70%" />
