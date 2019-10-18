@@ -110,9 +110,10 @@ The following properties are what's added to the built-in options in the Setting
 
 Property Name | Type | Property Description
 --------------|------|---------------
+**Exclude from search results** | Checkbox | Provides an option for determining whether this page should be shown in search results when an on-site search is performed.
 **Hide site header** | Checkbox | Provides an option for selecting whether the site header element should be hidden on this page.
 **Hide site footer** | Checkbox | Provides an option for selecting whether the site footer element should be hidden on this page.
-**Exclude from search results** | Checkbox | Provides an option for determining whether this page should be shown in search results when an on-site search is performed.
+
 
 ### Technical Information
 
