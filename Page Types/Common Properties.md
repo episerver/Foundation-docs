@@ -73,4 +73,4 @@ Property Name | Type | Property Description
 * None
 
 ### Preview
-![Preview of Scripts tab in All-properties view](../Screenshots/Scripts%20Tab.png?raw=true)
+![Preview of Scripts tab in All-properties view](../Screenshots/Styles%20Tab.png?raw=true)
