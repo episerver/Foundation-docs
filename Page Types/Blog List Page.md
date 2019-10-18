@@ -1,6 +1,8 @@
 # Blog List Page
 "A short description of the content type here."
 
+<img src="../Screenshots/Blog%20List%20Page%20-%20icon.png?raw=true" alt="Blog List Page icon" width="40%" />
+
 A longer content type description here.
 
 ## Property List
