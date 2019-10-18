@@ -1,6 +1,8 @@
 # Calendar Event Page
 "A short description of the content type here."
 
+<img src="../Screenshots/Calendar%20Event%20Page%20-%20icon.png?raw=true" alt="Calendar Event Page icon" width="40%" />
+
 A longer content type description here.
 
 ## Property List
