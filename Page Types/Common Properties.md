@@ -29,7 +29,7 @@ Property Name | Type | Property Description
 #### The relationship between properties and the view
 ![Preview of Teaser tab in All-properties view and the rendering side-by-side](../Screenshots/Teaser%20Tab%20-%20properties%20to%20view.png?raw=true)
 
-## Preview
+
 ![Preview of Folder Page Content in All-properties view](../Screenshots/Folder%20Page%20-%20Content.png?raw=true)
 
  
@@ -39,10 +39,9 @@ Property Name | Type | Property Description
 
 #### How the teaser looks when Display Hover Effect is selected but it is not in focus
 
-[![Preview of Metadata tab in All-properties view](../Screenshots/Teaser%20View%20-%20hover%20but%20no%20mouse-over.png?raw=true "Preview of Metadata tab in All-properties view")]
-<img src="../Screenshots/Teaser%20View%20-%20hover%20but%20no%20mouse-over.png?raw=true" alt="Preview of teaser with hove effect but not in focus" width="50%" />
+![Preview of Metadata tab in All-properties view](../Screenshots/Teaser%20View%20-%20hover%20but%20no%20mouse-over.png?raw=true)
 
-[![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.flickr.com/photos/beaurogers/31833779864/in/photolist-Qv3rFw-34mt9F-a9Cmfy-5Ha3Zi-9msKdv-o3hgjr-hWpUte-4WMsJ1-KUQ8N-deshUb-vssBD-6CQci6-8AFCiD-zsJWT-nNfsgB-dPDwZJ-bn9JGn-5HtSXY-6CUhAL-a4UTXB-ugPum-KUPSo-fBLNm-6CUmpy-4WMsc9-8a7D3T-83KJev-6CQ2bK-nNusHJ-a78rQH-nw3NvT-7aq2qf-8wwBso-3nNceh-ugSKP-4mh4kh-bbeeqH-a7biME-q3PtTf-brFpgb-cg38zw-bXMZc-nJPELD-f58Lmo-bXMYG-bz8AAi-bxNtNT-bXMYi-bXMY6-bXMYv)
+<img src="../Screenshots/Teaser%20View%20-%20hover%20but%20no%20mouse-over.png?raw=true" alt="Preview of teaser with hover effect but not in focus" width="50%" />
 
 
 ![Preview of Metadata tab in All-properties view]<img src="../Screenshots/Teaser%20View%20-%20hover%20but%20no%20mouse-over.png?raw=true" alt="Preview of teaser with hove effect but not in focus" width="50%" />
