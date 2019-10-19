@@ -26,4 +26,9 @@ Property Name | Type | Property Description
 * none
 
 ## Preview
-<img src="../Screenshots/Two%20Column%20Landing%20Page%20-%20View.png?raw=true" alt="Preview of <PAGENAME HERE> Page Content in All-properties view" width="70%"/>
+<img src="../Screenshots/Calendar%20Event%20Page%20-%20Content%20Tab.png?raw=true" alt="Preview of Calendar Event Page Content tab in All-properties view" width="70%"/>
+
+<img src="../Screenshots/Calendar%20Event%20Page%20-%20Teaser%20Tab.png?raw=true" alt="Preview of Calendar Event Page Teaser tab in All-properties view" width="70%"/>
+
+<img src="../Screenshots/Calendar%20Event%20Page%20-%20View.png?raw=true" alt="Preview of Calendar Event Page Teaser tab in All-properties view" width="70%"/>
+
