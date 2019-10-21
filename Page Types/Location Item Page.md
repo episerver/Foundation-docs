@@ -16,7 +16,7 @@ Property Name | Type | Property Description
 **Yearly passengers** (`YearlyPassengers`) | Integer | A numeric estimate for the number of tourists per annum (as a measure of popularity) for this location.
 **Latitude** (`Latitude`) | Double | Numeric latitude value for the approximate geographical center of this location. Used for geographic radius filtering and map pin placement in [Location List Page](#).
 **Longitude** (`Longitude`) | Double | Numeric longitude value for the approximage geographical center of this location. Used for geographic radius filtering and map pin placement in [Location List Page](#).
-**Average temperature** (`AvgTemp`) | Double | Numberic average annual temperature for this location. Used for temperature filter in [Location List Page](#).
+**Average temperature** (`AvgTemp`) | Double | Numeric average annual temperature for this location. Used for temperature filter in [Location List Page](#).
 **Sidebar area** (`SidebarContentArea`) | ContentArea | Provides a drag-and-drop zone for including supplemental content for this location. E.g. videos, related destinations, promotions, etc.
 **Promoted destination** (`Promoted`) | Boolean | When 
 
