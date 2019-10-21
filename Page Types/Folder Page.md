@@ -26,4 +26,4 @@ The following property list includes properties that are unique to this content 
     * Folder Page (self)
 
 ## Preview
-![Preview of Folder Page Content in All-properties view](../Screenshots/Folder%20Page%20-%20Content.png?raw=true)
+![Preview of Folder Page Content in All-properties view](../Screenshots/Folder%20Page%20-%20Settings%20Tab.png?raw=true)
