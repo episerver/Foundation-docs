@@ -1,5 +1,5 @@
 # Blog Item Page
-"A short description of the content type here."
+"Blog Item Page created underneath the start page and moved to the right area."
 
 <img src="../Screenshots/Blog%20Item%20Page%20-%20icon.png?raw=true" alt="<PAGETYPE> icon" width="40%" />
 
@@ -8,16 +8,16 @@ A longer content type description here.
 ## Property List
 The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](https://github.com/egandalf/FoundationDocumentation/blob/master/Page%20Types/Common%20Properties.md) list.
 
-Property Name | Type | Property Description
+Display Name (Name in code) | Type | Property Description
 --------------|------|---------------
-**PropertyName** | PropertyType | Property description. Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
-**PropertyName** | PropertyType | Property description. Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
-**PropertyName** | PropertyType | Property description. Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
+**PropertyName** () | PropertyType | Property description. Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
+**PropertyName** () | PropertyType | Property description. Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
+**PropertyName** () | PropertyType | Property description. Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
 
 ## Technical Information
 
 ### Category
-`Content`
+`Blog`
 
 ### Inherits
 [Landing Page](#)

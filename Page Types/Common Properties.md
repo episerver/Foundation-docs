@@ -1,7 +1,7 @@
 # Common Properties and Tabs
 "Properties that all page types have in common."
 
-## Categories
+## Categories 
 
 Geta Tags is used for content categorization for both pages and blocks. The Categories are defined in the Assets panel:
 
