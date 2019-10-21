@@ -26,6 +26,7 @@ Property Name | Type | Property Description
 **Text alignment**  | Dropdown | Provides a way to control the alignment of the teaser text. The default value is Left. The options are **Left**, **Center** and **Right**.
 **Color theme**  | Dropdown | Provides a way to control the tint of teaser text. The options are **Light** and **Dark**.
 **Button label**  | Text | Provides a box for entering the button text.
+**Button theme**  | Dropdown | Provides a way to control the appearance of the button. The options are **Transparent Black**, **Transparent White**, **Dark** and **White**.
 **Display hover effect**  | Checkbox | Provides a way to choose whether a hover effect should be used on the teaser element. If selected, the teaser text and button are not shown until the user hovers over the element. If not selected, teaser text and button are always visible. See screen shots below for reference.
 
 ### Technical Information
