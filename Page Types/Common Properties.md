@@ -5,11 +5,11 @@
 
 Geta Tags is used for content categorization for both pages and blocks. The Categories are defined in the Assets panel:
 
-<img src="../Screenshots/Categories%20-%20Tree%20View.png?raw=true" alt="Categories pane in the Assets panel" width="50%" />
+<img src="../Screenshots/Categories%20-%20Tree%20View.png?raw=true" alt="Categories pane in the Assets panel" width="40%" />
 
 The category selector is in the header of the content type as shown below:
 
-<img src="../Screenshots/Page%20Type%20-%20Category%20Selector.png?raw=true" alt="Category selector in All Properties view" width="50%" />
+<img src="../Screenshots/Page%20Type%20-%20Category%20Selector.png?raw=true" alt="Category selector in All Properties view" width="70%" />
 
 There are several tabs in the All Properties view that are shared between all page types. Let's look at them one tab at a time.
 
