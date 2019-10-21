@@ -1,9 +1,19 @@
 # Common Properties and Tabs
 "Properties that all page types have in common."
 
-<img src="../Screenshots/Common%20Tabs.png?raw=true" alt="Common tabs to all page types" />
+## Categories
+
+Geta Tags is used for content categorization for both pages and blocks. The Categories are defined in the Assets panel:
+
+<img src="../Screenshots/Categories%20-%20Tree%20View.png?raw=true" alt="Categories pane in the Assets panel" width="50%" />
+
+The category selector is in the header of the content type as shown below:
+
+<img src="../Screenshots/Page%20Type%20-%20Category%20Selector.png?raw=true" alt="Category selector in All Properties view" width="50%" />
 
 There are several tabs in the All Properties view that are shared between all page types. Let's look at them one tab at a time.
+
+<img src="../Screenshots/Common%20Tabs.png?raw=true" alt="Common tabs to all page types" />
 
 ## Teaser
 The following property list includes properties that are specific to defining how a page looks and behaves when used as a teaser on another page (dragged into a content area on another page).
@@ -14,7 +24,7 @@ Property Name | Type | Property Description
 **Video** | Video | Provides a place for placing a video clip that acts as the background when the page is viewed as a teaser. **Note:** if both Image and Video have a value, Video wins.
 **Text**  | Text Area | Provides a box for entering plain text to be shown as the teaser text.
 **Text alignment**  | Dropdown | Provides a way to control the alignment of the teaser text. The default value is Left. The options are **Left**, **Center** and **Right**.
-**Color theme**  | Dropdown | Provides a way to control the tint of teaser text. The options are **Light** and **Dark*.
+**Color theme**  | Dropdown | Provides a way to control the tint of teaser text. The options are **Light** and **Dark**.
 **Button label**  | Text | Provides a box for entering the button text.
 **Display hover effect**  | Checkbox | Provides a way to choose whether a hover effect should be used on the teaser element. If selected, the teaser text and button are not shown until the user hovers over the element. If not selected, teaser text and button are always visible. See screen shots below for reference.
 
