@@ -15,7 +15,7 @@ There are several tabs in the All Properties view that are shared between all pa
 
 <img src="../Screenshots/Common%20Tabs.png?raw=true" alt="Common tabs to all page types" />
 
-## Teaser
+## Teaser tab
 The following property list includes properties that are specific to defining how a page looks and behaves when used as a teaser on another page (dragged into a content area on another page).
 
 Property Name | Type | Property Description
@@ -52,7 +52,7 @@ Property Name | Type | Property Description
 
 ---
 
-## Metadata
+## Metadata tab
 The following property list includes properties for providing meta data for the page.
 
 Property Name | Type | Property Description
@@ -75,7 +75,7 @@ Property Name | Type | Property Description
 
 ---
 
-## Styles
+## Styles tab
 The following properties allow a skilled user to provide overrides of styles for this page and its children.
 
 Property Name | Type | Property Description
@@ -96,7 +96,7 @@ Property Name | Type | Property Description
 
 ---
 
-## Scripts
+## Scripts tab
 The following properties allow a skilled user to provide JavaScript for this page and its children.
 
 Property Name | Type | Property Description
@@ -117,7 +117,7 @@ Property Name | Type | Property Description
 
 ---
 
-## Settings
+## Settings tab
 The following properties are what's added to the built-in options in the Settings tab.
 
 Property Name | Type | Property Description
