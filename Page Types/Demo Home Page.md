@@ -61,7 +61,7 @@ Display Name *(Name in code)* | Type | Property Description
 **Show contents in search results** *(ShowProductsInSearchResults)* | Boolean | Configures the *Main content area* column width in Bootstrap column integer values. *Main content area* is inherited from [FoundationPageData](#) as a global page property.
 **Search catalog** *(SearchCatalog)* | Dropdown | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
 
-<img src="../Screenshots/Demo%20Home%20Page%20-%20Search%20Settings%20tab.png?raw=true" alt="Content tab of Demo Home Page in All Properties view" width="60%" />
+<img src="../Screenshots/Demo%20Home%20Page%20-%20Search%20settings%20tab.png?raw=true" alt="Search settings tab of Demo Home Page in All Properties view" width="60%" />
 
 ---
 
