@@ -1,5 +1,5 @@
 # Calendar Event Page
-"A short description of the content type here."
+"A page for a calendar event. Provide start and end date, location and content."
 
 <img src="../Screenshots/Calendar%20Event%20Page%20-%20icon.png?raw=true" alt="Calendar Event Page icon" width="40%" />
 
@@ -17,7 +17,7 @@ Property Name | Type | Property Description
 ## Technical Information
 
 ### Category
-`Content`
+`Calendar`
 
 ### Inherits
 [Landing Page](#)

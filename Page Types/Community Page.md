@@ -1,5 +1,5 @@
 # Community Page
-"A short description of the content type here."
+"A reseller's community page using Episerver Social."
 
 <img src="../Screenshots/Community%20Page%20-%20icon.png?raw=true" alt="Community Page icon" width="40%" />
 

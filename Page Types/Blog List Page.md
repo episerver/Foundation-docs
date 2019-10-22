@@ -1,5 +1,5 @@
 # Blog List Page
-"A short description of the content type here."
+"Blog List Page for dates such as year and month."
 
 <img src="../Screenshots/Blog%20List%20Page%20-%20icon.png?raw=true" alt="Blog List Page icon" width="40%" />
 
@@ -17,7 +17,7 @@ Property Name | Type | Property Description
 ## Technical Information
 
 ### Category
-`Content`
+`Blog`
 
 ### Inherits
 [Landing Page](#)

@@ -61,7 +61,7 @@ Property Name | Type | Property Description
 **Title** | Text | Provides a place for the title.
 **Keywords** | Text area | Provides a place for entering keywords for this page.
 **Page description**  | Text Area | Provides a place for entering a plain text description for the page. **Note:** if the Text property in the Teaser tab is empty, the Page description will be used as teaser text.
-**Disable indexing**  | Checkbox | Provides a way to control whether the contents of this page should be indexed for search engines or not.
+**Disable indexing**  | Boolean | Provides a way to control whether the contents of this page should be indexed for search engines or not.
 
 ### Technical Information
 
@@ -123,9 +123,9 @@ The following properties are what's added to the built-in options in the Setting
 
 Property Name | Type | Property Description
 --------------|------|---------------
-**Exclude from search results** | Checkbox | Provides an option for determining whether this page should be shown in search results when an on-site search is performed.
-**Hide site header** | Checkbox | Provides an option for selecting whether the site header element should be hidden on this page.
-**Hide site footer** | Checkbox | Provides an option for selecting whether the site footer element should be hidden on this page.
+**Exclude from search results** | Boolean | Provides an option for determining whether this page should be shown in search results when an on-site search is performed.
+**Hide site header** | Boolean | Provides an option for selecting whether the site header element should be hidden on this page.
+**Hide site footer** | Boolean | Provides an option for selecting whether the site footer element should be hidden on this page.
 
 
 ### Technical Information
