@@ -1,5 +1,5 @@
 # Common Properties and Tabs
-"Properties that all page types have in common."
+"Properties that nearly all page types have in common."
 
 ## Categories 
 
@@ -11,7 +11,7 @@ The category selector is in the header of the content type as shown below:
 
 <img src="../Screenshots/Page%20Type%20-%20Category%20Selector.png?raw=true" alt="Category selector in All Properties view" width="70%" />
 
-There are several tabs in the All Properties view that are shared between all page types. Let's look at them one tab at a time.
+There are several tabs in the All Properties view that are shared between almost all page types. Let's look at them one tab at a time.
 
 <img src="../Screenshots/Common%20Tabs.png?raw=true" alt="Common tabs to all page types" />
 
@@ -30,9 +30,6 @@ Property Name | Type | Property Description
 **Display hover effect**  | Checkbox | Provides a way to choose whether a hover effect should be used on the teaser element. If selected, the teaser text and button are not shown until the user hovers over the element. If not selected, teaser text and button are always visible. See screen shots below for reference.
 
 ### Technical Information
-
-#### Category
-`Content`
 
 #### Restrictions
 * If both Image and Video are filled in, Video takes presedence.
@@ -65,13 +62,11 @@ Property Name | Type | Property Description
 
 ### Technical Information
 
-#### Category
-`Content`
-
 #### Restrictions
 * None
 
 ### Preview
+
 <img src="../Screenshots/Metadata%20Tab.png?raw=true" alt="Preview of Metadata tab in All-properties view" width="70%" />
 
 ---
@@ -86,13 +81,11 @@ Property Name | Type | Property Description
 
 ### Technical Information
 
-#### Category
-`Content`
-
 #### Restrictions
 * None
 
 ### Preview
+
 <img src="../Screenshots/Styles%20Tab.png?raw=true" alt="Preview of Styles tab in All-properties view" width="70%" />
 
 ---
@@ -107,13 +100,12 @@ Property Name | Type | Property Description
 
 ### Technical Information
 
-#### Category
-`Content`
 
 #### Restrictions
 * None
 
 ### Preview
+
 <img src="../Screenshots/Scripts%20Tab.png?raw=true" alt="Preview of Scripts tab in All-properties view" width="70%" />
 
 ---
@@ -130,11 +122,10 @@ Property Name | Type | Property Description
 
 ### Technical Information
 
-#### Category
-`Content`
 
 #### Restrictions
 * None
 
 ### Preview
+
 <img src="../Screenshots/Settings%20Tab.png?raw=true" alt="The Setting tab in All Properties view" width="70%" />
