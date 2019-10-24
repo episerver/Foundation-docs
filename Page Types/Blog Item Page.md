@@ -27,4 +27,4 @@ Display Name (Name in code) | Type | Property Description
 * Only pages of type Blog Item Page and Blog List Page can be created as a child page of this page type.
 
 ## Preview
-<img src="../Screenshots/Blog%20Item%20Page%20-%20Preview.png?raw=true" alt="Preview of Blog Item Page" width="800%"/>
+<img src="../Screenshots/Blog%20Item%20Page%20-%20Preview.png?raw=true" alt="Preview of Blog Item Page" width="50%"/>
