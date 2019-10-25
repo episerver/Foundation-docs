@@ -10,9 +10,11 @@ The following property list includes properties that are unique to this content 
 
 Property Name | Type | Property Description
 --------------|------|---------------
-**PropertyName** | PropertyType | Property description. Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
-**PropertyName** | PropertyType | Property description. Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
-**PropertyName** | PropertyType | Property description. Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
+**Start date** () | DateTime | Property description. Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
+**End date** () | DateTime | Property description. Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
+**Location** () | String | Property description. Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
+**Main body** () | XHTML string | Property description. Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
+**Main content area** () | ContentArea | Property description. Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
 
 ## Technical Information
 
