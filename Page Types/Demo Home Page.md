@@ -19,7 +19,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 ** **
 
-<img src="../Screenshots/Demo%20Home%20Page%20-%20Content%20tab.png?raw=true" alt="Content tab of Demo Home Page in All Properties view" width="70%" />
+<img src="../Screenshots/Demo%20Home%20Page%20-%20Content%20tab.png?raw=true" alt="Content tab of Demo Home Page in All Properties view" width="50%" />
 
 ---
 
@@ -36,7 +36,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 ** **  
 
-<img src="../Screenshots/Demo%20Home%20Page%20-%20Header%20tab.png?raw=true" alt="Header tab of Demo Home Page in All Properties view" width="70%" />
+<img src="../Screenshots/Demo%20Home%20Page%20-%20Header%20tab.png?raw=true" alt="Header tab of Demo Home Page in All Properties view" width="50%" />
 
 ---
 
@@ -57,7 +57,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 ** ** 
 
-<img src="../Screenshots/Demo%20Home%20Page%20-%20Footer%20tab.png?raw=true" alt="Footer tab of Demo Home Page in All Properties view" width="70%" />
+<img src="../Screenshots/Demo%20Home%20Page%20-%20Footer%20tab.png?raw=true" alt="Footer tab of Demo Home Page in All Properties view" width="50%" />
 
 ---
 
@@ -72,7 +72,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 ** **
 
-<img src="../Screenshots/Demo%20Home%20Page%20-%20Search%20settings%20tab.png?raw=true" alt="Search settings tab of Demo Home Page in All Properties view" width="70%" />
+<img src="../Screenshots/Demo%20Home%20Page%20-%20Search%20settings%20tab.png?raw=true" alt="Search settings tab of Demo Home Page in All Properties view" width="50%" />
 
 ---
 
@@ -88,7 +88,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 ** **
 
-<img src="../Screenshots/Demo%20Home%20Page%20-%20Menu%20tab.png?raw=true" alt="Menu tab of Demo Home Page in All Properties view" width="70%" />
+<img src="../Screenshots/Demo%20Home%20Page%20-%20Menu%20tab.png?raw=true" alt="Menu tab of Demo Home Page in All Properties view" width="50%" />
 
 ---
 
@@ -104,7 +104,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 ** **
 
-<img src="../Screenshots/Demo%20Home%20Page%20-%20Site%20labels%20tab.png?raw=true" alt="Site labels tab of Demo Home Page in All Properties view" width="70%" />
+<img src="../Screenshots/Demo%20Home%20Page%20-%20Site%20labels%20tab.png?raw=true" alt="Site labels tab of Demo Home Page in All Properties view" width="50%" />
 
 ---
 
@@ -132,7 +132,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 ** **
 
-<img src="../Screenshots/Demo%20Home%20Page%20-%20Site%20structure%20tab.png?raw=true" alt="Site structure tab of Demo Home Page in All Properties view" width="70%" />
+<img src="../Screenshots/Demo%20Home%20Page%20-%20Site%20structure%20tab.png?raw=true" alt="Site structure tab of Demo Home Page in All Properties view" width="50%" />
 
 ---
 
@@ -146,7 +146,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 ** **
 
-<img src="../Screenshots/Demo%20Home%20Page%20-%20Mail%20templates%20tab.png?raw=true" alt="Mail template tab of Demo Home Page in All Properties view" width="70%" />
+<img src="../Screenshots/Demo%20Home%20Page%20-%20Mail%20templates%20tab.png?raw=true" alt="Mail template tab of Demo Home Page in All Properties view" width="50%" />
 
 ---
 

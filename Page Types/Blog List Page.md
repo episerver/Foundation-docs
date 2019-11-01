@@ -12,12 +12,12 @@ The following property list includes properties that are unique to this content 
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
-**Author** *(Author)* | Long string (>255) | Allows for entering the author of the blog post.
-**PropertyName** | PropertyType | Property description. Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
-**PropertyName** | PropertyType | Property description. Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
+**Author** *(`Author`)* | Long string (>255) | Allows for entering the author of the blog post.
+**PropertyName** *(`name`)* | PropertyType | Property description. Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
+**PropertyName** *(`name`)* | PropertyType | Property description. Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
 
 ** **
-<img src="../Screenshots/Blog%20List%20Page%20-%20Content%20tab.png?raw=true" alt="Content tab of the Blog List Page in All-properties view" width="70%"/>
+<img src="../Screenshots/Blog%20List%20Page%20-%20Content%20tab.png?raw=true" alt="Content tab of the Blog List Page in All-properties view" width="50%"/>
 
 ---
 
@@ -26,11 +26,11 @@ Display Name *(Name in code)* | Type | Property Description
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
-**Author** *(Author)* | Long string (>255) | Allows for entering the author of the blog post.
+**Author** *(`Author`)* | Long string (>255) | Allows for entering the author of the blog post.
 
 ** **
 
-<img src="../Screenshots/Blog%20List%20Page%20-%20Blog%20list%20tab.png?raw=true" alt="Blog list tab of the Blog List Page in All-properties view" width="70%"/>
+<img src="../Screenshots/Blog%20List%20Page%20-%20Blog%20list%20tab.png?raw=true" alt="Blog list tab of the Blog List Page in All-properties view" width="50%"/>
 
 ---
 
@@ -48,4 +48,4 @@ Display Name *(Name in code)* | Type | Property Description
 * none
 
 ## Preview
-<img src="../Screenshots/Two%20Column%20Landing%20Page%20-%20View.png?raw=true" alt="Preview of <PAGENAME HERE> Page Content in All-properties view" width="70%"/>
+<img src="../Screenshots/Two%20Column%20Landing%20Page%20-%20View.png?raw=true" alt="Preview of <PAGENAME HERE> Page Content in All-properties view" width="100%"/>

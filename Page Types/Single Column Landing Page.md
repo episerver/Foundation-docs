@@ -15,7 +15,7 @@ Display Name *(Name in code)* | Type | Property Description
 **Main content area** *(MainContentArea)* | ContentArea | Configures the *Main content area* column width in Bootstrap column integer values. *Main content area* is inherited from [FoundationPageData](#) as a global page property.
 
 ** **
-<img src="../Screenshots/Single%20Column%20Landing%20Page%20-%20Content%20tab.png?raw=true" alt="Preview of Single Column Landing Page" width="70%"/>
+<img src="../Screenshots/Single%20Column%20Landing%20Page%20-%20Content%20tab.png?raw=true" alt="Preview of Single Column Landing Page" width="50%"/>
 
 ## Technical Information
 
