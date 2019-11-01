@@ -3,17 +3,17 @@
 
 <img src="../Screenshots/Standard%20Page%20-%20icon.png?raw=true" alt="Preview of a Standard Page" width="50%"/>
 
-An open-format *Page Type* designed for a variety of page types including marketing landing pages, product promotion pages, etc. Consists of Content Area that is....
+Standard Page is designed for a variety of use cases, including marketing landing pages, product promotion pages, etc. Consists of a background image or video, a main body element and a main content area.
 
 ## Property List
-The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Page Global Properties*](#) list as well as the System [*Global Page Properties*](#) list.
+The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](#) list.
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
-**Main body** *(MainBody)* | XHTML string | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
-**Main content area** *(MainContentArea)* | ContentArea | Configures the *Main content area* column width in Bootstrap column integer values. *Main content area* is inherited from [FoundationPageData](#) as a global page property.
-**Background video** *(BackgroundVideo)* | Video | Configures the *Right hand content area* column width in Bootstrap column integer values.
-**Top padding mode** *(TopPaddingMode)* | Dropdown | Configures the *Right hand content area* column width in Bootstrap column integer values.
+**Main body** *(`MainBody`)* | XHTML string (>255) | Provides an area for rich, formatted content. 
+**Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
+**Background video** *(`BackgroundVideo`)* | Content Item | Allows for inserting a video clip that plays as the background of the page. **Note:** if nothing is provided here, the *Image* from the Teaser tab will be used as the background instead.
+**Top padding mode** *(`TopPaddingMode`)* | Long string (>255) | Determines the way in which the background image or video is positioned on the page. The options are: **None**, **Half** or **Full**.
 
 ## Technical Information
 

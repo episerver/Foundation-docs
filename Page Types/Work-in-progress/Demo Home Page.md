@@ -1,21 +1,21 @@
 # Demo Home Page
 "Used for home page of all sites."
 
-<img src="../Screenshots/Blog%20Item%20Page%20-%20icon.png?raw=true" alt="Blog Item Page icon" width="40%" />
+<img src="../Screenshots/Demo%20Home%20Page%20-%20icon.png?raw=true" alt="Blog Item Page icon" width="40%" />
 
-An open-format *Page Type* designed for a variety of page types including marketing landing pages, product promotion pages, etc. Consists of two side-by-side columns (ContentAreas) that are width-adjustable by the content author using Bootstrap column size rules. Columns are stacked in mobile view.
+An open-format *Page Type* designed to act as the home page or root of your website. Consists of three content areas and a main body area. 
 
 ## Property List
-The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Page Global Properties*](#) list as well as the System [*Global Page Properties*](#) list.
+The following property list includes properties that are unique to this content type. For a list of shared properties, view our [*Common Page Properties*](#) list.
 
 ### Content tab
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
-**Main body** *(MainBody)* | XHTML string (>255) | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
-**Top content area** *(TopContentArea)* | ContentArea | Configures the *Main content area* column width in Bootstrap column integer values. *Main content area* is inherited from [FoundationPageData](#) as a global page property.
-**Main content area** *(MainContentArea)* | ContentArea | Configures the *Right hand content area* column width in Bootstrap column integer values.
-**Bottom content area** *(BottomContentArea)* | ContentArea | Configures the *Right hand content area* column width in Bootstrap column integer values.
+**Main body** *(`MainBody`)* | XHTML string (>255) | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
+**Top content area** *(`TopContentArea`)* | ContentArea | Configures the *Main content area* column width in Bootstrap column integer values. *Main content area* is inherited from [FoundationPageData](#) as a global page property.
+**Main content area** *(`MainContentArea`)* | ContentArea | Configures the *Right hand content area* column width in Bootstrap column integer values.
+**Bottom content area** *(`BottomContentArea`)* | ContentArea | Configures the *Right hand content area* column width in Bootstrap column integer values.
 
 ** **
 
@@ -27,11 +27,11 @@ Display Name *(Name in code)* | Type | Property Description
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
-**Site logo** *(SiteLogo)* | Content Item | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
-**Banner text** *(BannerText)* | XHTML string (>255) | Configures the *Main content area* column width in Bootstrap column integer values. *Main content area* is inherited from [FoundationPageData](#) as a global page property.
-**Menu style** *(HeaderMenuStyle)* | Long string (>255) | Configures the *Right hand content area* column width in Bootstrap column integer values.
-**Show commerce header components** *(ShowCommerceHeaderComponents)* | Selected/not selected | Configures the *Right hand content area* column width in Bootstrap column integer values.
-**Show product ratings on all product tiles** *(ShowProductRatingsOnListings)* | Selected/not selected | Configures the *Right hand content area* column width in Bootstrap column integer values.
+**Site logo** *(`SiteLogo`)* | Content Item | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
+**Banner text** *(`BannerText`)* | XHTML string (>255) | Configures the *Main content area* column width in Bootstrap column integer values. *Main content area* is inherited from [FoundationPageData](#) as a global page property.
+**Menu style** *(`HeaderMenuStyle`)* | Long string (>255) | Configures the *Right hand content area* column width in Bootstrap column integer values.
+**Show commerce header components** *(`ShowCommerceHeaderComponents`)* | Selected/not selected | Configures the *Right hand content area* column width in Bootstrap column integer values.
+**Show product ratings on all product tiles** *(`ShowProductRatingsOnListings`)* | Selected/not selected | Configures the *Right hand content area* column width in Bootstrap column integer values.
 
 
 ** **  
@@ -44,16 +44,16 @@ Display Name *(Name in code)* | Type | Property Description
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
-**Introduction** *(Introduction)* | Long string (>255) | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
-**Company header** *(CompanyHeader)* | Long string (>255) | Configures the *Main content area* column width in Bootstrap column integer values. *Main content area* is inherited from [FoundationPageData](#) as a global page property.
-**Company address** *(CompanyAddress)* | Long string (>255) | Configures the *Right hand content area* column width in Bootstrap column integer values.
-**Company phone** *(CompanyPhone)* | Long string (>255) | Configures the *Right hand content area* column width in Bootstrap column integer values.
-**Company email** *(CompanyEmail)* | Long string (>255) | Configures the *Right hand content area* column width in Bootstrap column integer values.
-**Links header** *(LinksHeader)* | Long string (>255) | Configures the *Right hand content area* column width in Bootstrap column integer values.
-**Links** *(Links)* | Link collection | Configures the *Right hand content area* column width in Bootstrap column integer values.
-**Social header** *(SocialHeader)* | Long string (>255) | Configures the *Right hand content area* column width in Bootstrap column integer values.
-**Content area** *(ContentArea)* | ContentArea | Description here.
-**Copyright** *(FooterCopyrightText)* | Long string (>255) | Configures the *Right hand content area* column width in Bootstrap column integer values.
+**Introduction** *(`Introduction`)* | Long string (>255) | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
+**Company header** *(`CompanyHeader`)* | Long string (>255) | Configures the *Main content area* column width in Bootstrap column integer values. *Main content area* is inherited from [FoundationPageData](#) as a global page property.
+**Company address** *(`CompanyAddress`)* | Long string (>255) | Configures the *Right hand content area* column width in Bootstrap column integer values.
+**Company phone** *(`CompanyPhone`)* | Long string (>255) | Configures the *Right hand content area* column width in Bootstrap column integer values.
+**Company email** *(`CompanyEmail`)* | Long string (>255) | Configures the *Right hand content area* column width in Bootstrap column integer values.
+**Links header** *(`LinksHeader`)* | Long string (>255) | Configures the *Right hand content area* column width in Bootstrap column integer values.
+**Links** *(`Links`)* | Link collection | Configures the *Right hand content area* column width in Bootstrap column integer values.
+**Social header** *(`SocialHeader`)* | Long string (>255) | Configures the *Right hand content area* column width in Bootstrap column integer values.
+**Content area** *(`ContentArea`)* | ContentArea | Description here.
+**Copyright** *(`FooterCopyrightText`)* | Long string (>255) | Configures the *Right hand content area* column width in Bootstrap column integer values.
 
 ** ** 
 
