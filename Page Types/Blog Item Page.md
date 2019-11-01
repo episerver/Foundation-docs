@@ -14,7 +14,7 @@ Display Name *(Name in code)* | Type | Property Description
 **Main body** *(`MainBody`)* | XHTML string (>255) | Provides a rich-text editor for entering formatted content.
 **Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
 **Comments per page** *(`CommentsPerPage`)* | Integer | Provides a numeric control for selecting the number of reader comments to show on the blog item page.
-**Block padding** (`BlockPadding`) | Floating point number | Provides a numeric control for selecting the padding for the comments block on the page.
+**Block padding** *(`BlockPadding`)* | Floating point number | Provides a numeric control for selecting the padding for the comments block on the page.
 
 
 ** **
@@ -30,7 +30,7 @@ Display Name *(Name in code)* | Type | Property Description
 [Landing Page](#)
 
 ### Restrictions
-* Only pages of type Blog Item Page and Blog List Page can be created as a child page of this page type.
+* Only pages of type *Blog Item Page* and *Blog List Page* can be created as a child page of this page type.
 
 ## Preview
 <img src="../Screenshots/Blog%20Item%20Page%20-%20Preview.png?raw=true" alt="Preview of Blog Item Page" width="70%"/>
