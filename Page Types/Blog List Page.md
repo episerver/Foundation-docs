@@ -8,11 +8,33 @@ A longer content type description here.
 ## Property List
 The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](../Page%20%Types/Common%20Properties.md) list.
 
-Property Name | Type | Property Description
+### Content tab
+
+Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
+**Author** *(Author)* | Long string (>255) | Allows for entering the author of the blog post.
 **PropertyName** | PropertyType | Property description. Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
 **PropertyName** | PropertyType | Property description. Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
-**PropertyName** | PropertyType | Property description. Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
+
+** **
+<img src="../Screenshots/Blog%20List%20Page%20-%20Content%20tab.png?raw=true" alt="Content tab of the Blog List Page in All-properties view" width="70%"/>
+
+---
+
+
+### Blog list tab
+
+Display Name *(Name in code)* | Type | Property Description
+--------------|------|---------------
+**Author** *(Author)* | Long string (>255) | Allows for entering the author of the blog post.
+
+** **
+
+<img src="../Screenshots/Blog%20List%20Page%20-%20Blog%20list%20tab.png?raw=true" alt="Blog list tab of the Blog List Page in All-properties view" width="70%"/>
+
+---
+
+
 
 ## Technical Information
 

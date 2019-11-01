@@ -18,16 +18,16 @@ There are several tabs in the All Properties view that are shared between almost
 ## Teaser tab
 The following property list includes properties that are specific to defining how a page looks and behaves when used as a teaser on another page (dragged into a content area on another page).
 
-Property Name | Type | Property Description
+Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
-**Image** | Image | Provides a place for placing an image that acts as the background when the page is viewed as a teaser.
-**Video** | Video | Provides a place for placing a video clip that acts as the background when the page is viewed as a teaser. **Note:** if both Image and Video have a value, Video wins.
-**Text**  | Long String | Provides a box for entering plain text to be shown as the teaser text.
-**Text alignment**  | Dropdown | Provides a way to control the alignment of the teaser text. The default value is Left. The options are **Left**, **Center** and **Right**.
-**Color theme**  | Dropdown | Provides a way to control the tint of teaser text. The options are **Light** and **Dark**.
-**Button label**  | String | Provides a box for entering the button text.
-**Button theme**  | Dropdown | Provides a way to control the appearance of the button. The options are **Transparent Black**, **Transparent White**, **Dark** and **White**.
-**Display hover effect**  | Boolean | Provides a way to choose whether a hover effect should be used on the teaser element. If selected, the teaser text and button are not shown until the user hovers over the element. If not selected, teaser text and button are always visible. See screen shots below for reference.
+**Image** *(PageImage)* | Content Item | Provides a place for placing an image that acts as the background when the page is viewed as a teaser.
+**Video** *(TeaserVideo)* | Content Item | Provides a place for placing a video clip that acts as the background when the page is viewed as a teaser. **Note:** if both Image and Video have a value, Video wins.
+**Text** *(TeaserText)* | Long string (>255) | Provides a box for entering plain text to be shown as the teaser text.
+**Text alignment** *(TeaserTextAlignment)* | Long string (>255) | Provides a way to control the alignment of the teaser text. The default value is Left. The options are **Left**, **Center** and **Right**.
+**Color theme** *(TeaserColorTheme)* | Long string (>255) | Provides a way to control the tint of teaser text. The options are **Light** and **Dark**.
+**Button label** *(TeaserButtonText)* | Long string (>255) | Provides a box for entering the button text.
+**Button theme** *(TeaserButtonStyle)* | Long string (>255) | Provides a way to control the appearance of the button. The options are **Transparent Black**, **Transparent White**, **Dark** and **White**.
+**Display hover effect** *(ApplyHoverEffect)* | Selected/not selected | Provides a way to choose whether a hover effect should be used on the teaser element. If selected, the teaser text and button are not shown until the user hovers over the element. If not selected, teaser text and button are always visible. See screen shots below for reference.
 
 ### Technical Information
 
@@ -53,12 +53,12 @@ Property Name | Type | Property Description
 ## Metadata tab
 The following property list includes properties for providing meta data for the page.
 
-Property Name | Type | Property Description
+Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
-**Title** | String | Provides a place for the title.
-**Keywords** | Long String | Provides a place for entering keywords for this page.
-**Page description**  | Long String | Provides a place for entering a plain text description for the page. **Note:** if the Text property in the Teaser tab is empty, the Page description will be used as teaser text.
-**Disable indexing**  | Boolean | Provides a way to control whether the contents of this page should be indexed for search engines or not.
+**Title** *(MetaTitle)* | Long string (>255) | Provides a place for the title.
+**Keywords** *(Keywords)* | Long string (>255) | Provides a place for entering keywords for this page.
+**Page description** *(PageDescription)* | Long string (>255) | Provides a place for entering a plain text description for the page. **Note:** if the Text property in the Teaser tab is empty, the Page description will be used as teaser text.
+**Disable indexing** *(DisableIndexing)*  | Selected/not selected | Provides a way to control whether the contents of this page should be indexed for search engines or not.
 
 ### Technical Information
 
@@ -74,10 +74,10 @@ Property Name | Type | Property Description
 ## Styles tab
 The following properties allow a skilled user to provide overrides of styles for this page and its children.
 
-Property Name | Type | Property Description
+Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
-**CSS files** | ContentArea | Provides a place for dropping .css files to override the site defaults.
-**CSS** | Long String | Provides a text box for typing or pasting CSS directly.
+**CSS files** *(CssFiles)* | Link collection | Provides a place for dropping .css files to override the site defaults.
+**CSS** *(Css)* | Long string (>255) | Provides a text box for typing or pasting CSS directly.
 
 ### Technical Information
 
@@ -93,10 +93,10 @@ Property Name | Type | Property Description
 ## Scripts tab
 The following properties allow a skilled user to provide JavaScript for this page and its children.
 
-Property Name | Type | Property Description
+Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
-**Script files** | ContentArea | Provides a place for dropping .js files to be utilized by this page and its children.
-**Script** | Long String | Provides a text box for typig or pasting JavaScript code directly.
+**Script files** *(ScriptFiles)* | Link collection | Provides a place for dropping .js files to be utilized by this page and its children.
+**Scripts** *(Script)* | Long string (>255) | Provides a text box for typig or pasting JavaScript code directly.
 
 ### Technical Information
 
@@ -113,11 +113,11 @@ Property Name | Type | Property Description
 ## Settings tab
 The following properties are what's added to the built-in options in the Settings tab.
 
-Property Name | Type | Property Description
+Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
-**Exclude from search results** | Boolean | Provides an option for determining whether this page should be shown in search results when an on-site search is performed.
-**Hide site header** | Boolean | Provides an option for selecting whether the site header element should be hidden on this page.
-**Hide site footer** | Boolean | Provides an option for selecting whether the site footer element should be hidden on this page.
+**Exclude from search results** *(ExcludeFromSearch)* | Selected/not selected | Provides an option for determining whether this page should be shown in search results when an on-site search is performed.
+**Hide site header** *(HideSiteHeader)* | Selected/not selected | Provides an option for selecting whether the site header element should be hidden on this page.
+**Hide site footer** *(HideSiteFooter)* | Selected/not selected | Provides an option for selecting whether the site footer element should be hidden on this page.
 
 
 ### Technical Information

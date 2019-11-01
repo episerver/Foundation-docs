@@ -8,12 +8,18 @@ The Blog Item is meant for writing blog posts. The page consists of an image tha
 ## Property List
 The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](https://github.com/egandalf/FoundationDocumentation/blob/master/Page%20Types/Common%20Properties.md) list.
 
-Display Name (Name in code) | Type | Property Description
+Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
-**Author** (Author) | String | Allos for entering the author of the blog post.
-**Main body** (MaibBody) | XHTML String | Provides a rich-text editor for entering formatted content.
-**Main content area** (MainContentArea) | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
-**Comments per page** (CommentsPerPage) | Integer | Provides a numeric control for selecting the number of reader comments to show on the blog item page.
+**Author** *(Author)* | Long string (>255) | Allows for entering the author of the blog post.
+**Main body** *(MainBody)* | XHTML string (>255) | Provides a rich-text editor for entering formatted content.
+**Main content area** *(MainContentArea)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
+**Comments per page** *(CommentsPerPage)* | Integer | Provides a numeric control for selecting the number of reader comments to show on the blog item page.
+**Block padding** (BlockPadding) | Floating point number | Provides a numeric control for selecting the padding for the comments block on the page.
+
+
+** **
+
+<img src="../Screenshots/Blog%20Item%20Page%20-%20Content%20tab.png?raw=true" alt="Content tab of Blog Item Page" width="70%"/>
 
 ## Technical Information
 

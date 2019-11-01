@@ -8,13 +8,13 @@ A longer content type description here.
 ## Property List
 The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](#) list.
 
-Property Name | Type | Property Description
+Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
-**Start date** () | DateTime | Property description. Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
-**End date** () | DateTime | Property description. Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
-**Location** () | String | Property description. Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
-**Main body** () | XHTML string | Property description. Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
-**Main content area** () | ContentArea | Property description. Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
+**Start date** *(EventStartDate)* | Date/Time | Property description. Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
+**End date** *(EventEndDate)* | Date/Time | Property description. Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
+**Location** *(Location)* | Long string (>255) | Property description. Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
+**Main body** *(MainBody)* | XHTML string (>255) | Property description. Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
+**Main content area** *(MainContentArea)* | ContentArea | Property description. Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
 
 ## Technical Information
 
