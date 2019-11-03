@@ -1,12 +1,12 @@
-# <Page Type Name> Page
+# Tags Page
 "(Description from the icon.)"
 
-<img src="../Screenshots/Blog%20Item%20Page%20-%20icon.png?raw=true" alt="<PAGETYPE> icon" width="40%" />
+<img src="../../Screenshots/Tags%20Page%20-%20icon.png?raw=true" alt="Tags Page icon" width="40%" />
 
 (Longer description of usage) The Blog Item is meant for writing blog posts. The page consists of an image that acts as the teaser image, Main content area, Main body and block for leaving and showing comments about this article.
 
 ## Property List
-The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](./Common%20Page%20Properties.md) list.
+The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](./Page%20Types/Common%20Properties.md) list.
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------

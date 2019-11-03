@@ -6,7 +6,7 @@
 A longer content type description here.
 
 ## Property List
-The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](../Page%20%Types/Common%20Properties.md) list.
+The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](./Common%20Page%20Properties.md) list.
 
 ### Content tab
 

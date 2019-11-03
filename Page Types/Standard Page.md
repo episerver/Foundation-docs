@@ -6,7 +6,7 @@
 Standard Page is designed for a variety of use cases, including marketing landing pages, product promotion pages, etc. Consists of a background image or video, a main body element and a main content area.
 
 ## Property List
-The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](#) list.
+The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](./Common%20Page%20Properties.md) list.
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------

@@ -6,7 +6,7 @@
 An open-format *Page Type* designed for a variety of page types including marketing landing pages, product promotion pages, etc. Consists of a top content area, main body and main content area.
 
 ## Property List
-The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](#) list.
+The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](./Common%20Page%20Properties.md) list.
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------

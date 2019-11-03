@@ -1,7 +1,7 @@
-# <Page Type Name> Page
+# Search Results Page
 "(Description from the icon.)"
 
-<img src="../Screenshots/Blog%20Item%20Page%20-%20icon.png?raw=true" alt="<PAGETYPE> icon" width="40%" />
+<img src="../Screenshots/Search%20Results%20Page%20-%20icon.png?raw=true" alt="<PAGETYPE> icon" width="40%" />
 
 (Longer description of usage) The Blog Item is meant for writing blog posts. The page consists of an image that acts as the teaser image, Main content area, Main body and block for leaving and showing comments about this article.
 

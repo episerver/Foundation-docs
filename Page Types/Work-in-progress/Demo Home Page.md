@@ -6,7 +6,7 @@
 An open-format *Page Type* designed to act as the home page or root of your website. Consists of three content areas and a main body area. 
 
 ## Property List
-The following property list includes properties that are unique to this content type. For a list of shared properties, view our [*Common Page Properties*](#) list.
+The following property list includes properties that are unique to this content type. For a list of shared properties, view our [*Common Page Properties*](./Common%20Page%20Properties.md) list.
 
 ### Content tab
 

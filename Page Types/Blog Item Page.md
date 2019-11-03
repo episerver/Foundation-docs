@@ -6,7 +6,7 @@
 The Blog Item is meant for writing blog posts. The page consists of an image that acts as the teaser image, Main content area, Main body and block for leaving and showing comments about this article.
 
 ## Property List
-The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](https://github.com/egandalf/FoundationDocumentation/blob/master/Page%20Types/Common%20Properties.md) list.
+The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](./Common%20Page%20Properties.md) list.
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
