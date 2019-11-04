@@ -12,13 +12,13 @@ The following property list includes properties that are unique to this content 
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
-**Main body** *(`MainBody`)* | XHTML string (>255) | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
-**Top content area** *(`TopContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
-**Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
-**Bottom content area** *(`BottomContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
+**Main body** *(`MainBody`)* | XHTML string (>255) | Provides a rich-text editor for entering formatted content.
+**Top content area** *(`TopContentArea`)* | ContentArea | Provides a drag-and-drop interface for placing media, blocks, or other content onto the page.
+**Main content area** *(`MainContentArea`)* | ContentArea | Provides a drag-and-drop interface for placing media, blocks, or other content onto the page.
+**Bottom content area** *(`BottomContentArea`)* | ContentArea | Provides a drag-and-drop interface for placing media, blocks, or other content onto the page.
 
 ** **
-
+#### Preview of the Content tab
 <img src="../../Screenshots/Demo%20Home%20Page%20-%20Content%20tab.png?raw=true" alt="Content tab of Demo Home Page in All Properties view" width="50%" />
 
 ---
@@ -27,14 +27,18 @@ Display Name *(Name in code)* | Type | Property Description
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
-**Site logo** *(`SiteLogo`)* | Content Item | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
-**Banner text** *(`BannerText`)* | XHTML string (>255) | Configures the *Main content area* column width in Bootstrap column integer values. *Main content area* is inherited from [FoundationPageData](#) as a global page property.
-**Menu style** *(`HeaderMenuStyle`)* | Long string (>255) | Configures the *Right hand content area* column width in Bootstrap column integer values.
-**Show commerce header components** *(`ShowCommerceHeaderComponents`)* | Selected/not selected | Configures the *Right hand content area* column width in Bootstrap column integer values.
-**Show product ratings on all product tiles** *(`ShowProductRatingsOnListings`)* | Selected/not selected | Configures the *Right hand content area* column width in Bootstrap column integer values.
+**Site logo** *(`SiteLogo`)* | Content Item | Provides a drag-and-drop interface for placing a logo image for the entire site.
+**Banner text** *(`BannerText`)* | XHTML string (>255) | Provides a rich-text editor for entering formatted content that appears on the top of each page of the site.
+**Menu style** *(`HeaderMenuStyle`)* | Long string (>255) | Allows for selecting the position of the site logo relative to the main navigation. The options are **Left logo** or **Center logo**.
+**Show commerce header components** *(`ShowCommerceHeaderComponents`)* | Selected/not selected | When selected, three extra options will be available in the site header: Wishlist, Shopping cart and the Market selector.
+  
+<img src="../../Screenshots/Demo%20Home%20Page%20-%20Header%20tab%20-%20Show%20commerce%20header%20components.png?raw=true" alt="Header tab of Demo Home Page in All Properties view" width="80%" /> 
 
+*Show commerce header components* option selected on the left.
 
 ** **  
+
+#### Peview of the Header tab
 
 <img src="../../Screenshots/Demo%20Home%20Page%20-%20Header%20tab.png?raw=true" alt="Header tab of Demo Home Page in All Properties view" width="50%" />
 
@@ -57,6 +61,8 @@ Display Name *(Name in code)* | Type | Property Description
 
 ** ** 
 
+#### Preview of the Footer tab
+
 <img src="../../Screenshots/Demo%20Home%20Page%20-%20Footer%20tab.png?raw=true" alt="Footer tab of Demo Home Page in All Properties view" width="50%" />
 
 ---
@@ -71,6 +77,8 @@ Display Name *(Name in code)* | Type | Property Description
 **Search catalog** *(SearchCatalog)* | Integer | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
 
 ** **
+
+#### Preview of the Search settings tab
 
 <img src="../../Screenshots/Demo%20Home%20Page%20-%20Search%20settings%20tab.png?raw=true" alt="Search settings tab of Demo Home Page in All Properties view" width="50%" />
 
@@ -88,6 +96,8 @@ Display Name *(Name in code)* | Type | Property Description
 
 ** **
 
+#### Preview of teh Menu tab
+
 <img src="../../Screenshots/Demo%20Home%20Page%20-%20Menu%20tab.png?raw=true" alt="Menu tab of Demo Home Page in All Properties view" width="50%" />
 
 ---
@@ -103,6 +113,8 @@ Display Name *(Name in code)* | Type | Property Description
 **Shared cart** *(SharedCartLabel)* | Long string (>255) | Configures the *Right hand content area* column width in Bootstrap column integer values.
 
 ** **
+
+#### Preview of the Site labels tab
 
 <img src="../../Screenshots/Demo%20Home%20Page%20-%20Site%20labels%20tab.png?raw=true" alt="Site labels tab of Demo Home Page in All Properties view" width="50%" />
 
@@ -129,8 +141,12 @@ Display Name *(Name in code)* | Type | Property Description
 **Order confirmation page** *(OrderConfirmationPage)* | Content Item | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
 **Checkout page** *(CheckoutPage)* | Content Item | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
 **Resource not found page** *(PageNotFound)* | Content Item | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
+**Show product ratings on all product tiles** *(`ShowProductRatingsOnListings`)* | Selected/not selected | When selected, the product ratings will be shown with each product tile.
+
 
 ** **
+
+#### Preview of the Site structure tab
 
 <img src="../../Screenshots/Demo%20Home%20Page%20-%20Site%20structure%20tab.png?raw=true" alt="Site structure tab of Demo Home Page in All Properties view" width="50%" />
 
@@ -145,6 +161,8 @@ Display Name *(Name in code)* | Type | Property Description
 **Reset password** *(ResetPasswordMail)* | Content Item | Description here.
 
 ** **
+
+#### Preview of the Mail templates tab
 
 <img src="../../Screenshots/Demo%20Home%20Page%20-%20Mail%20templates%20tab.png?raw=true" alt="Mail template tab of Demo Home Page in All Properties view" width="50%" />
 
