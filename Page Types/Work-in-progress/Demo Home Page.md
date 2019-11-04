@@ -1,7 +1,7 @@
 # Demo Home Page
 "Used for home page of all sites."
 
-<img src="../Screenshots/Demo%20Home%20Page%20-%20icon.png?raw=true" alt="Blog Item Page icon" width="40%" />
+<img src="../../Screenshots/Demo%20Home%20Page%20-%20icon.png?raw=true" alt="Blog Item Page icon" width="40%" />
 
 An open-format *Page Type* designed to act as the home page or root of your website. Consists of three content areas and a main body area. 
 
@@ -13,13 +13,13 @@ The following property list includes properties that are unique to this content 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
 **Main body** *(`MainBody`)* | XHTML string (>255) | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
-**Top content area** *(`TopContentArea`)* | ContentArea | Configures the *Main content area* column width in Bootstrap column integer values. *Main content area* is inherited from [FoundationPageData](#) as a global page property.
-**Main content area** *(`MainContentArea`)* | ContentArea | Configures the *Right hand content area* column width in Bootstrap column integer values.
-**Bottom content area** *(`BottomContentArea`)* | ContentArea | Configures the *Right hand content area* column width in Bootstrap column integer values.
+**Top content area** *(`TopContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
+**Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
+**Bottom content area** *(`BottomContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
 
 ** **
 
-<img src="../Screenshots/Demo%20Home%20Page%20-%20Content%20tab.png?raw=true" alt="Content tab of Demo Home Page in All Properties view" width="50%" />
+<img src="../../Screenshots/Demo%20Home%20Page%20-%20Content%20tab.png?raw=true" alt="Content tab of Demo Home Page in All Properties view" width="50%" />
 
 ---
 
@@ -36,7 +36,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 ** **  
 
-<img src="../Screenshots/Demo%20Home%20Page%20-%20Header%20tab.png?raw=true" alt="Header tab of Demo Home Page in All Properties view" width="50%" />
+<img src="../../Screenshots/Demo%20Home%20Page%20-%20Header%20tab.png?raw=true" alt="Header tab of Demo Home Page in All Properties view" width="50%" />
 
 ---
 
@@ -57,7 +57,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 ** ** 
 
-<img src="../Screenshots/Demo%20Home%20Page%20-%20Footer%20tab.png?raw=true" alt="Footer tab of Demo Home Page in All Properties view" width="50%" />
+<img src="../../Screenshots/Demo%20Home%20Page%20-%20Footer%20tab.png?raw=true" alt="Footer tab of Demo Home Page in All Properties view" width="50%" />
 
 ---
 
@@ -72,7 +72,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 ** **
 
-<img src="../Screenshots/Demo%20Home%20Page%20-%20Search%20settings%20tab.png?raw=true" alt="Search settings tab of Demo Home Page in All Properties view" width="50%" />
+<img src="../../Screenshots/Demo%20Home%20Page%20-%20Search%20settings%20tab.png?raw=true" alt="Search settings tab of Demo Home Page in All Properties view" width="50%" />
 
 ---
 
@@ -88,7 +88,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 ** **
 
-<img src="../Screenshots/Demo%20Home%20Page%20-%20Menu%20tab.png?raw=true" alt="Menu tab of Demo Home Page in All Properties view" width="50%" />
+<img src="../../Screenshots/Demo%20Home%20Page%20-%20Menu%20tab.png?raw=true" alt="Menu tab of Demo Home Page in All Properties view" width="50%" />
 
 ---
 
@@ -104,7 +104,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 ** **
 
-<img src="../Screenshots/Demo%20Home%20Page%20-%20Site%20labels%20tab.png?raw=true" alt="Site labels tab of Demo Home Page in All Properties view" width="50%" />
+<img src="../../Screenshots/Demo%20Home%20Page%20-%20Site%20labels%20tab.png?raw=true" alt="Site labels tab of Demo Home Page in All Properties view" width="50%" />
 
 ---
 
@@ -132,7 +132,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 ** **
 
-<img src="../Screenshots/Demo%20Home%20Page%20-%20Site%20structure%20tab.png?raw=true" alt="Site structure tab of Demo Home Page in All Properties view" width="50%" />
+<img src="../../Screenshots/Demo%20Home%20Page%20-%20Site%20structure%20tab.png?raw=true" alt="Site structure tab of Demo Home Page in All Properties view" width="50%" />
 
 ---
 
@@ -146,7 +146,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 ** **
 
-<img src="../Screenshots/Demo%20Home%20Page%20-%20Mail%20templates%20tab.png?raw=true" alt="Mail template tab of Demo Home Page in All Properties view" width="50%" />
+<img src="../../Screenshots/Demo%20Home%20Page%20-%20Mail%20templates%20tab.png?raw=true" alt="Mail template tab of Demo Home Page in All Properties view" width="50%" />
 
 ---
 
@@ -163,4 +163,4 @@ Display Name *(Name in code)* | Type | Property Description
 * none
 
 ## Preview
-<img src="../Screenshots/Demo%20Home%20Page%20-%20OPE.png?raw=true" alt="Demo Home Page" width="100%" />
+<img src="../../Screenshots/Demo%20Home%20Page%20-%20OPE.png?raw=true" alt="Demo Home Page" width="100%" />

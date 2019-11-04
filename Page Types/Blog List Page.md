@@ -26,7 +26,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
-**Root** *(`Root`)* | Page | Let's the user determine the root page for a blog listing.
+**Root** *(`Root`)* | Page | Lets the user determine the root page for a blog listing.
 **Recursive** *(`Recursive`)* | Selected/not selected | Determines whether sub-items under the items under the root level should be searched for Blog Item Pages.
 **Sort order** *(`SortOrder`)* | Integer | Defines the order in which the Blog Item Pages should be sorted in the list.
 **Include publish date** *(`IncludePublishDate`)* | Selected/not selected | Lets the user select whether the publish date of the *Blog Item Page* should be included in the listing or not.
