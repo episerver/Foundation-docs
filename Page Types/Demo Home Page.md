@@ -1,7 +1,7 @@
 # Demo Home Page
 "Used for home page of all sites."
 
-<img src="../../Screenshots/Demo%20Home%20Page%20-%20icon.png?raw=true" alt="Home Page icon" width="40%" />
+<img src="../Screenshots/Demo%20Home%20Page%20-%20icon.png?raw=true" alt="Home Page icon" width="40%" />
 
 An open-format *Page Type* designed to act as the home page or root of your website. Consists of three content areas and a main body area. 
 
