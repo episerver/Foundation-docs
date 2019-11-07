@@ -12,8 +12,8 @@ Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
 **Start date** *(EventStartDate)* | Date/Time | Define the starting date and time for the event.
 **End date** *(EventEndDate)* | Date/Time | Define the ending date and time for the event.
-**Location** *(Location)* | Long string (>255) | Define the location for the event (could be a city, a venue).
-**Main body** *(MainBody)* | XHTML string (>255) | Provides a rich-text editor for entering formatted content.
+**Location** *(Location)* | String | Define the location for the event (could be a city, a venue).
+**Main body** *(MainBody)* | XhtmlString | Provides a rich-text editor for entering formatted content.
 **Main content area** *(MainContentArea)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
 
 ## Technical Information
