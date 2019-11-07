@@ -10,10 +10,10 @@ The following property list includes properties that are unique to this content 
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
-**Main body** *(`MainBody`)* | XHTML string (>255) | Provides an area for rich, formatted content. 
+**Main body** *(`MainBody`)* | XhtmlString | Provides an area for rich, formatted content. 
 **Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
 **Background video** *(`BackgroundVideo`)* | Content Item | Allows for inserting a video clip that plays as the background of the page. **Note:** if nothing is provided here, the *Image* from the Teaser tab will be used as the background instead.
-**Top padding mode** *(`TopPaddingMode`)* | Long string (>255) | Determines the way in which the background image or video is positioned on the page. The options are: **None**, **Half** or **Full**.
+**Top padding mode** *(`TopPaddingMode`)* | String | Determines the way in which the background image or video is positioned on the page. The options are: **None**, **Half** or **Full**.
 
 ## Technical Information
 
