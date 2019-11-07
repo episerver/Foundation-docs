@@ -24,12 +24,12 @@ Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
 **Image** *(`PageImage`)* | Content Item | Provides a place for inserting an image that acts as the background when the page is viewed as a teaser.
 **Video** *(`TeaserVideo`)* | Content Item | Provides a place for inserting a video clip that acts as the background when the page is viewed as a teaser. **Note:** if both *Image* and *Video* have a value, *Video* wins.
-**Text** *(`TeaserText`)* | Long string (>255) | Provides a box for entering plain text to be shown as the teaser text.
-**Text alignment** *(`TeaserTextAlignment`)* | Long string (>255) | Provides a way to control the alignment of the teaser text. The default value is Left. The options are **Left**, **Center** and **Right**.
-**Color theme** *(`TeaserColorTheme`)* | Long string (>255) | Provides a way to control the tint of teaser text. The options are **Light** and **Dark**.
-**Button label** *(`TeaserButtonText`)* | Long string (>255) | Provides a box for entering the button text.
-**Button theme** *(`TeaserButtonStyle`)* | Long string (>255) | Provides a way to control the appearance of the button. The options are **Transparent Black**, **Transparent White**, **Dark** and **White**.
-**Display hover effect** *(`ApplyHoverEffect`)* | Selected/not selected | Provides a way to choose whether a hover effect should be used on the teaser element. If selected, the teaser text and button are not shown until the user hovers over the element. If not selected, teaser text and button are always visible. See screen shots below for reference.
+**Text** *(`TeaserText`)* | String | Provides a box for entering plain text to be shown as the teaser text.
+**Text alignment** *(`TeaserTextAlignment`)* | String | Provides a way to control the alignment of the teaser text. The default value is Left. The options are **Left**, **Center** and **Right**.
+**Color theme** *(`TeaserColorTheme`)* | String | Provides a way to control the tint of teaser text. The options are **Light** and **Dark**.
+**Button label** *(`TeaserButtonText`)* | String | Provides a box for entering the button text.
+**Button theme** *(`TeaserButtonStyle`)* | String | Provides a way to control the appearance of the button. The options are **Transparent Black**, **Transparent White**, **Dark** and **White**.
+**Display hover effect** *(`ApplyHoverEffect`)* | Boolean | Provides a way to choose whether a hover effect should be used on the teaser element. If selected, the teaser text and button are not shown until the user hovers over the element. If not selected, teaser text and button are always visible. See screen shots below for reference.
 
 ### Technical Information
 
@@ -57,10 +57,10 @@ The following property list includes properties for providing meta data for the 
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
-**Title** *(`MetaTitle`)* | Long string (>255) | Provides a place for the title.
-**Keywords** *(`Keywords`)* | Long string (>255) | Provides a place for entering keywords for this page.
-**Page description** *(`PageDescription`)* | Long string (>255) | Provides a place for entering a plain text description for the page. **Note:** if the *Text* property in the *Teaser* tab is empty, the Page description will be used as teaser text.
-**Disable indexing** *(`DisableIndexing`)*  | Selected/not selected | Provides a way to control whether the contents of this page should be indexed for search engines or not.
+**Title** *(`MetaTitle`)* | String | Provides a place for the title.
+**Keywords** *(`Keywords`)* | String | Provides a place for entering keywords for this page.
+**Page description** *(`PageDescription`)* | String | Provides a place for entering a plain text description for the page. **Note:** if the *Text* property in the *Teaser* tab is empty, the Page description will be used as teaser text.
+**Disable indexing** *(`DisableIndexing`)*  | Boolean | Provides a way to control whether the contents of this page should be indexed for search engines or not.
 
 ### Technical Information
 
@@ -79,7 +79,7 @@ The following properties allow a skilled user to provide overrides of styles for
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
 **CSS files** *(`CssFiles`)* | Link collection | Provides a place for dropping .css files to override the site defaults.
-**CSS** *(`Css`)* | Long string (>255) | Provides a text box for typing or pasting CSS directly.
+**CSS** *(`Css`)* | String | Provides a text box for typing or pasting CSS directly.
 
 ### Technical Information
 
@@ -98,7 +98,7 @@ The following properties allow a skilled user to provide JavaScript for this pag
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
 **Script files** *(`ScriptFiles`)* | Link collection | Provides a place for dropping .js files to be utilized by this page and its children.
-**Scripts** *(`Script`)* | Long string (>255) | Provides a text box for typig or pasting JavaScript code directly.
+**Scripts** *(`Script`)* | String | Provides a text box for typig or pasting JavaScript code directly.
 
 ### Technical Information
 
@@ -117,9 +117,9 @@ The following properties are what's added to the built-in options in the Setting
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
-**Exclude from search results** *(`ExcludeFromSearch`)* | Selected/not selected | Provides an option for determining whether this page should be shown in search results when an on-site search is performed.
-**Hide site header** *(`HideSiteHeader`)* | Selected/not selected | Provides an option for selecting whether the site header element should be hidden on this page.
-**Hide site footer** *(`HideSiteFooter`)* | Selected/not selected | Provides an option for selecting whether the site footer element should be hidden on this page.
+**Exclude from search results** *(`ExcludeFromSearch`)* | Boolean | Provides an option for determining whether this page should be shown in search results when an on-site search is performed.
+**Hide site header** *(`HideSiteHeader`)* | Boolean | Provides an option for selecting whether the site header element should be hidden on this page.
+**Hide site footer** *(`HideSiteFooter`)* | Boolean | Provides an option for selecting whether the site footer element should be hidden on this page.
 
 
 ### Technical Information
