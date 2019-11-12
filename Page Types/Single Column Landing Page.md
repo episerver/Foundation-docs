@@ -11,7 +11,7 @@ The following property list includes properties that are unique to this content 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
 **Top content area** *(`TopContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
-**Main body** *(`MainBody`)* | XhtmlString | Provides an rich-text area for entering formatted contwent.
+**Main body** *(`MainBody`)* | XhtmlString | Provides an rich-text area for entering formatted content.
 **Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
 
 ** **

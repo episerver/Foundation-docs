@@ -12,8 +12,8 @@ The following property list includes properties that are unique to this content 
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
-**Intro text** *(`MainIntro`)* | String | Supplies....
-**Main body** *(`MainBody`)* | XhtmlString | Supplies....
+**Intro text** *(`MainIntro`)* | String | Supplies the introductory text, or a brief synopsis, of the location. This text will be shown in the listing on the [Locations List Page](./Locations%20List%20Page.md).
+**Main body** *(`MainBody`)* | XhtmlString | Provides an rich-text area for entering formatted content.
 **Image** *(`Image`)* | Content Item | Supplies the content with the image for this location. This property is separate from the Page Main Image property inherited from [FoundationPageData](#).
 **Tags** *(`Tags`)* | ContentArea | An area for "tagging" this location content with "Tags" defined as [Tag Page](#). Used for filtering/faceting of Locations in the [Locations List Page](./Locations%20List%20Page.md).
 **Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
