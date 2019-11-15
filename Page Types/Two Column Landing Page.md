@@ -14,8 +14,8 @@ Display Name *(Name in code)* | Type | Property Description
 **Main body** *(`MainBody`)* | XhtmlString | Provides an rich-text area for entering formatted content.
 **Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
 **Right content area** *(`RightHandContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
-**Left column** *(MainContentAreaColumn)* | Integer | Configures the *Main content area* (or left) column width in Bootstrap column integer values. 
-**Right column** *(RightHandContentAreaColumn)* | Integer | Configures the *Right content area* column width in Bootstrap column integer values.
+**Left column** *(`MainContentAreaColumn`)* | Integer | Configures the *Main content area* (or left) column width in Bootstrap column integer values. 
+**Right column** *(`RightHandContentAreaColumn`)* | Integer | Configures the *Right content area* column width in Bootstrap column integer values.
 
 
 ** **
