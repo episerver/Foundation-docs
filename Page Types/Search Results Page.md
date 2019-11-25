@@ -13,7 +13,7 @@ Display Name *(Name in code)* | Type | Property Description
 **Main body** *(`MainBody`)* | XhtmlString | Provides an rich-text area for entering formatted content.
 **Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
 **Top content area** *(`TopContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
-**Show recommendations** *(`ShowRecommendations`)* | Boolean | Provides a ....
+**Show recommendations** *(`ShowRecommendations`)* | Boolean | Provides a switch to determine whether product and content recommendations should be included on the *Search Results Page*.
 
 
 ** **
