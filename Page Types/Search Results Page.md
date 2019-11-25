@@ -15,7 +15,6 @@ Display Name *(Name in code)* | Type | Property Description
 **Top content area** *(`TopContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
 **Show recommendations** *(`ShowRecommendations`)* | Boolean | Provides a switch to determine whether product and content recommendations should be included on the *Search Results Page*.
 
-
 ** **
 <img src="../Screenshots/Search%20Results%20Page%20-%20Content%20tab.png?raw=true" alt="Preview of Search Results Page" width="50%"/>
 
@@ -28,7 +27,9 @@ Display Name *(Name in code)* | Type | Property Description
 [Landing Page](#)
 
 ### Restrictions
-* none
+* The *Search Results Page* has to be configured for the site by pointing to it in the *Site Structure* tab of the *Demo Home Page*.
+
+<img src="../Screenshots/Demo%20Home Page - Site structure tab - Search.png?raw=true" alt="Search configuration on the Demo Home Page" width="100%"/>
 
 ## Preview
 <img src="../Screenshots/Search%20Results%20Page%20-%20OPE.png?raw=true" alt="Preview of Search Results Page" width="100%"/>
