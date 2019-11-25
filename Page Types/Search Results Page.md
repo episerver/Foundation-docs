@@ -29,7 +29,7 @@ Display Name *(Name in code)* | Type | Property Description
 ### Restrictions
 * The *Search Results Page* has to be configured for the site by pointing to it in the *Site Structure* tab of the *Demo Home Page*.
 
-<img src="../Screenshots/Demo%20Home Page - Site structure tab - Search.png?raw=true" alt="Search configuration on the Demo Home Page" width="100%"/>
+<img src="../Screenshots/Demo%20Home Page - Site structure tab - Search.png?raw=true" alt="Search configuration on the Demo Home Page" width="50%"/>
 
 ## Preview
 <img src="../Screenshots/Search%20Results%20Page%20-%20OPE.png?raw=true" alt="Preview of Search Results Page" width="100%"/>
