@@ -1,7 +1,7 @@
 # Blog Item Page
 "Blog Item Page created underneath the start page and moved to the right area."
 
-<img src="../Screenshots/Blog%20Item%20Page%20-%20icon.png?raw=true" alt="<PAGETYPE> icon" width="40%" />
+<img src="Screenshots/Blog%20Item%20Page%20-%20icon.png?raw=true" alt="<PAGETYPE> icon" width="40%" />
 
 The Blog Item is meant for writing blog posts. The page consists of an image that acts as the teaser image, Main content area, Main body and block for leaving and showing comments about this article.
 
@@ -19,7 +19,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 ** **
 
-<img src="../Screenshots/Blog%20Item%20Page%20-%20Content%20tab.png?raw=true" alt="Content tab of Blog Item Page" width="50%"/>
+<img src="Screenshots/Blog%20Item%20Page%20-%20Content%20tab.png?raw=true" alt="Content tab of Blog Item Page" width="50%"/>
 
 ## Technical Information
 
@@ -33,4 +33,4 @@ Display Name *(Name in code)* | Type | Property Description
 * Only pages of type *Blog Item Page* and *Blog List Page* can be created as a child page of this page type.
 
 ## Preview
-<img src="../Screenshots/Blog%20Item%20Page%20-%20Preview.png?raw=true" alt="Preview of Blog Item Page" width="70%"/>
+<img src="Screenshots/Blog%20Item%20Page%20-%20Preview.png?raw=true" alt="Preview of Blog Item Page" width="70%"/>

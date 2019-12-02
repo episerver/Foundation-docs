@@ -1,7 +1,7 @@
 # Blog List Page
 "Blog List Page for dates such as year and month."
 
-<img src="../Screenshots/Blog%20List%20Page%20-%20icon.png?raw=true" alt="Blog List Page icon" width="40%" />
+<img src="Screenshots/Blog%20List%20Page%20-%20icon.png?raw=true" alt="Blog List Page icon" width="40%" />
 
 The *Blog List Page* acts as a entry point to blog items ([Blog Item Page](./Blog%20Item%20Page.md)). There are controls for determining the appearance and order of the blog items on the *Blog List Page*.
 
@@ -17,7 +17,7 @@ Display Name *(Name in code)* | Type | Property Description
 **Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
 
 ** **
-<img src="../Screenshots/Blog%20List%20Page%20-%20Content%20tab.png?raw=true" alt="Content tab of the Blog List Page in All-properties view" width="50%"/>
+<img src="Screenshots/Blog%20List%20Page%20-%20Content%20tab.png?raw=true" alt="Content tab of the Blog List Page in All-properties view" width="50%"/>
 
 ---
 
@@ -40,15 +40,15 @@ Display Name *(Name in code)* | Type | Property Description
 
 #### Blog list when *Template of blogs listing* is set to "Grid".
 
-<img src="../Screenshots/Blog%20List%20Page%20-%20Blog%20list%20tab%20-%20Grid.png?raw=true" alt="Blog list tab of the Blog List Page in All-properties view -- Grid" width="100%"/>
+<img src="Screenshots/Blog%20List%20Page%20-%20Blog%20list%20tab%20-%20Grid.png?raw=true" alt="Blog list tab of the Blog List Page in All-properties view -- Grid" width="100%"/>
 
 #### Blog list when *Template of blogs listing* is set to "Image on the top".
 
-<img src="../Screenshots/Blog%20List%20Page%20-%20Blog%20list%20tab%20-%20ImageOnTheTop.png?raw=true" alt="Blog list tab of the Blog List Page in All-properties view -- Image on the top" width="100%"/>
+<img src="Screenshots/Blog%20List%20Page%20-%20Blog%20list%20tab%20-%20ImageOnTheTop.png?raw=true" alt="Blog list tab of the Blog List Page in All-properties view -- Image on the top" width="100%"/>
 
 #### Blog list when *Template of blog listing*"* is set to "Image on the left".
 
-<img src="../Screenshots/Blog%20List%20Page%20-%20Blog%20list%20tab%20-%20ImageOnTheLeft.png?raw=true" alt="Blog list tab of the Blog List Page in All-properties view -- Image on the left" width="100%"/>
+<img src="Screenshots/Blog%20List%20Page%20-%20Blog%20list%20tab%20-%20ImageOnTheLeft.png?raw=true" alt="Blog list tab of the Blog List Page in All-properties view -- Image on the left" width="100%"/>
 
 ---
 
@@ -68,4 +68,4 @@ Display Name *(Name in code)* | Type | Property Description
 * The *Preview option* in the *Blog list* tab is effective only when *Image on the top* is selected in the *Template of blogs listing* property.
 
 ## Preview
-<img src="../Screenshots/Blog%20List%20Page%20-%20OPE.png?raw=true" alt="Preview of the Blog List Page" width="100%"/>
+<img src="Screenshots/Blog%20List%20Page%20-%20OPE.png?raw=true" alt="Preview of the Blog List Page" width="100%"/>

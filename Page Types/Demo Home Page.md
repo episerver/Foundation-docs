@@ -1,13 +1,13 @@
 # Demo Home Page
 "Used for home page of all sites."
 
-<img src="../Screenshots/Demo%20Home%20Page%20-%20icon.png?raw=true" alt="Home Page icon" width="40%" />
+<img src="Screenshots/Demo%20Home%20Page%20-%20icon.png?raw=true" alt="Home Page icon" width="40%" />
 
 An open-format *Page Type* designed to act as the home page or root of your website. Consists of three content areas and a main body area. 
 
 ## Preview: Property name (Tab name) in red
 
-<img src="../Screenshots/Demo%20Home%20Page%20-%20OPE%20-%20Explained.png?raw=true" alt="Demo Home Page" width="100%" />
+<img src="Screenshots/Demo%20Home%20Page%20-%20OPE%20-%20Explained.png?raw=true" alt="Demo Home Page" width="100%" />
 
 ## Property List
 The following property list includes properties that are unique to this content type. For a list of shared properties, view our [*Common Page Properties*](./Common%20Page%20Properties.md) list.
@@ -23,7 +23,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 ** **
 #### Preview of the Content tab
-<img src="../Screenshots/Demo%20Home%20Page%20-%20Content%20tab.png?raw=true" alt="Content tab of Demo Home Page in All Properties view" width="50%" />
+<img src="Screenshots/Demo%20Home%20Page%20-%20Content%20tab.png?raw=true" alt="Content tab of Demo Home Page in All Properties view" width="50%" />
 
 ---
 
@@ -36,7 +36,7 @@ Display Name *(Name in code)* | Type | Property Description
 **Menu style** *(`HeaderMenuStyle`)* | String | Allows for selecting the position of the site logo relative to the main navigation. The options are **Left logo** or **Center logo**.
 **Show commerce header components** *(`ShowCommerceHeaderComponents`)* | Boolean | When selected, three extra options will be available in the site header: Wishlist, Shopping cart and the Market selector (see below).
   
-<img src="../Screenshots/Demo%20Home%20Page%20-%20Header%20tab%20-%20Show%20commerce%20header%20components.png?raw=true" alt="Header tab of Demo Home Page in All Properties view" width="80%" /> 
+<img src="Screenshots/Demo%20Home%20Page%20-%20Header%20tab%20-%20Show%20commerce%20header%20components.png?raw=true" alt="Header tab of Demo Home Page in All Properties view" width="80%" /> 
 
 *Show commerce header components* option selected on the left.
 
@@ -44,7 +44,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 #### Peview of the Header tab
 
-<img src="../Screenshots/Demo%20Home%20Page%20-%20Header%20tab.png?raw=true" alt="Header tab of Demo Home Page in All Properties view" width="50%" />
+<img src="Screenshots/Demo%20Home%20Page%20-%20Header%20tab.png?raw=true" alt="Header tab of Demo Home Page in All Properties view" width="50%" />
 
 ---
 
@@ -67,7 +67,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 #### Preview of the Footer tab
 
-<img src="../Screenshots/Demo%20Home%20Page%20-%20Footer%20tab.png?raw=true" alt="Footer tab of Demo Home Page in All Properties view" width="50%" />
+<img src="Screenshots/Demo%20Home%20Page%20-%20Footer%20tab.png?raw=true" alt="Footer tab of Demo Home Page in All Properties view" width="50%" />
 
 ---
 
@@ -84,7 +84,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 #### Preview of the Search settings tab
 
-<img src="../Screenshots/Demo%20Home%20Page%20-%20Search%20settings%20tab.png?raw=true" alt="Search settings tab of Demo Home Page in All Properties view" width="50%" />
+<img src="Screenshots/Demo%20Home%20Page%20-%20Search%20settings%20tab.png?raw=true" alt="Search settings tab of Demo Home Page in All Properties view" width="50%" />
 
 ---
 
@@ -102,7 +102,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 #### Preview of the Menu tab
 
-<img src="../Screenshots/Demo%20Home%20Page%20-%20Menu%20tab.png?raw=true" alt="Menu tab of Demo Home Page in All Properties view" width="50%" />
+<img src="Screenshots/Demo%20Home%20Page%20-%20Menu%20tab.png?raw=true" alt="Menu tab of Demo Home Page in All Properties view" width="50%" />
 
 ---
 
@@ -120,7 +120,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 #### Preview of the Site labels tab
 
-<img src="../Screenshots/Demo%20Home%20Page%20-%20Site%20labels%20tab.png?raw=true" alt="Site labels tab of Demo Home Page in All Properties view" width="50%" />
+<img src="Screenshots/Demo%20Home%20Page%20-%20Site%20labels%20tab.png?raw=true" alt="Site labels tab of Demo Home Page in All Properties view" width="50%" />
 
 ---
 
@@ -152,7 +152,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 #### Preview of the Site structure tab
 
-<img src="../Screenshots/Demo%20Home%20Page%20-%20Site%20structure%20tab.png?raw=true" alt="Site structure tab of Demo Home Page in All Properties view" width="50%" />
+<img src="Screenshots/Demo%20Home%20Page%20-%20Site%20structure%20tab.png?raw=true" alt="Site structure tab of Demo Home Page in All Properties view" width="50%" />
 
 ---
 
@@ -168,7 +168,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 #### Preview of the Mail templates tab
 
-<img src="../Screenshots/Demo%20Home%20Page%20-%20Mail%20templates%20tab.png?raw=true" alt="Mail template tab of Demo Home Page in All Properties view" width="50%" />
+<img src="Screenshots/Demo%20Home%20Page%20-%20Mail%20templates%20tab.png?raw=true" alt="Mail template tab of Demo Home Page in All Properties view" width="50%" />
 
 ---
 
@@ -185,4 +185,4 @@ Display Name *(Name in code)* | Type | Property Description
 * None.
 
 ## Preview
-<img src="../Screenshots/Demo%20Home%20Page%20-%20OPE.png?raw=true" alt="Demo Home Page" width="100%" />
+<img src="Screenshots/Demo%20Home%20Page%20-%20OPE.png?raw=true" alt="Demo Home Page" width="100%" />

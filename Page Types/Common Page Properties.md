@@ -5,15 +5,15 @@
 
 Geta Tags is used for content categorization for both pages and blocks. The Categories are defined in the Assets panel:
 
-<img src="../Screenshots/Categories%20-%20Tree%20View.png?raw=true" alt="Categories pane in the Assets panel" width="30%" />
+<img src="Screenshots/Categories%20-%20Tree%20View.png?raw=true" alt="Categories pane in the Assets panel" width="30%" />
 
 The category selector is in the header of the content type as shown below:
 
-<img src="../Screenshots/Page%20Type%20-%20Category%20Selector.png?raw=true" alt="Category selector in All Properties view" width="70%" />
+<img src="Screenshots/Page%20Type%20-%20Category%20Selector.png?raw=true" alt="Category selector in All Properties view" width="70%" />
 
 There are several tabs in the *All Properties* view that are shared between almost all page types. Let's look at them one tab at a time.
 
-<img src="../Screenshots/Common%20Tabs.png?raw=true" alt="Common tabs for nearly all page types" />
+<img src="Screenshots/Common%20Tabs.png?raw=true" alt="Common tabs for nearly all page types" />
 
 *Common tabs for nearly all page types.*
 
@@ -39,16 +39,16 @@ Display Name *(Name in code)* | Type | Property Description
 
 ### Preview
 #### The relationship between properties and the view
-<img src="../Screenshots/Teaser%20Tab%20-%20properties%20to%20view.png?raw=true" alt="Category selector in All Properties view" width="100%" />
+<img src="Screenshots/Teaser%20Tab%20-%20properties%20to%20view.png?raw=true" alt="Category selector in All Properties view" width="100%" />
 
 #### How the teaser looks when Display Hover Effect is selected but the teaser is not in focus
-<img src="../Screenshots/Teaser%20View%20-%20hover%20but%20no%20mouse-over.png?raw=true" alt="Preview of teaser with hover effect but not in focus" width="50%" />
+<img src="Screenshots/Teaser%20View%20-%20hover%20but%20no%20mouse-over.png?raw=true" alt="Preview of teaser with hover effect but not in focus" width="50%" />
 
 #### How the teaser looks when Display Hover Effect is selected and the teaser is in focus (hovered over)
-<img src="../Screenshots/Teaser%20View%20-%20hover%20with%20mouse-over.png?raw=true" alt="Preview of Teaser element with Hover effect selected when the mouse pointer is over it" width="50%"/>
+<img src="Screenshots/Teaser%20View%20-%20hover%20with%20mouse-over.png?raw=true" alt="Preview of Teaser element with Hover effect selected when the mouse pointer is over it" width="50%"/>
 
 #### How the teaser looks when Display Hover Effect is not selected
-<img src="../Screenshots/Teaser%20View%20-%20no%20hover.png?raw=true" alt="Preview of Teaser element without Hover effect selected" width="50%"/>
+<img src="Screenshots/Teaser%20View%20-%20no%20hover.png?raw=true" alt="Preview of Teaser element without Hover effect selected" width="50%"/>
 
 ---
 
@@ -69,7 +69,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 ### Preview
 
-<img src="../Screenshots/Metadata%20Tab.png?raw=true" alt="Preview of Metadata tab in All-properties view" width="50%" />
+<img src="Screenshots/Metadata%20Tab.png?raw=true" alt="Preview of Metadata tab in All-properties view" width="50%" />
 
 ---
 
@@ -88,7 +88,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 ### Preview
 
-<img src="../Screenshots/Styles%20Tab.png?raw=true" alt="Preview of Styles tab in All-properties view" width="50%" />
+<img src="Screenshots/Styles%20Tab.png?raw=true" alt="Preview of Styles tab in All-properties view" width="50%" />
 
 ---
 
@@ -108,7 +108,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 ### Preview
 
-<img src="../Screenshots/Scripts%20Tab.png?raw=true" alt="Preview of Scripts tab in All-properties view" width="50%" />
+<img src="Screenshots/Scripts%20Tab.png?raw=true" alt="Preview of Scripts tab in All-properties view" width="50%" />
 
 ---
 
@@ -130,4 +130,4 @@ Display Name *(Name in code)* | Type | Property Description
 
 ### Preview
 
-<img src="../Screenshots/Settings%20Tab.png?raw=true" alt="The Setting tab in All Properties view" width="50%" />
+<img src="Screenshots/Settings%20Tab.png?raw=true" alt="The Setting tab in All Properties view" width="50%" />

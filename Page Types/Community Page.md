@@ -1,7 +1,7 @@
 # Community Page
 "A reseller's community page using Episerver Social."
 
-<img src="screenshots/Community%20Page%20-%20icon.png?raw=true" alt="Community Page icon" width="40%" />
+<img src="Screenshots/Community%20Page%20-%20icon.png?raw=true" alt="Community Page icon" width="40%" />
 
 A longer content type description here.
 

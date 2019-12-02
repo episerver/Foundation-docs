@@ -1,7 +1,7 @@
 # Folder Page
 "A page which allows you to structure pages"
 
-<img src="../Screenshots/Folder%20Page%20-%20icon.png?raw=true" alt="Folder Page icon" width="40%" />
+<img src="Screenshots/Folder%20Page%20-%20icon.png?raw=true" alt="Folder Page icon" width="40%" />
 
 
 A non-visual *Page Type* designed for organization of *Page* content within the page tree.
@@ -30,4 +30,4 @@ The following property list includes properties that are unique to this content 
 * Pages of type *Calendar Event Page* must be under a Folder Page in order for them to be listed in a *Calendar block*.
 
 ## Preview
-<img src="../Screenshots/Folder%20Page%20-%20Settings%20Tab.png?raw=true" alt="Folder Page" width="100%" />
+<img src="Screenshots/Folder%20Page%20-%20Settings%20Tab.png?raw=true" alt="Folder Page" width="100%" />

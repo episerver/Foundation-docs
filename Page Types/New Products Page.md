@@ -1,11 +1,11 @@
 # New Products Page
 "Show the top new products by sorted by the creation date"
 
-<img src="../Screenshots/New%20Products%20Page%20-%20icon.png?raw=true" alt="New Products Page icon" width="40%" />
+<img src="Screenshots/New%20Products%20Page%20-%20icon.png?raw=true" alt="New Products Page icon" width="40%" />
 
 This is a page type that allows for creating a listing of products marked as "New arrival" in the product's *Content* tab.
 
-<img src="../Screenshots/Product - Content tab - New arrival.png?raw=true" alt="New Products Page icon" width="30%" />
+<img src="Screenshots/Product - Content tab - New arrival.png?raw=true" alt="New Products Page icon" width="30%" />
 
 ## Property List
 The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](./Common%20Page%20Properties.md) list.
@@ -22,7 +22,7 @@ Display Name *(Name in code)* | Type | Property Description
 **Manual exclusion** *(`ManualExclusion`)* | ContentReferenceList | Allows for manually excluding products or product categories to be excluded from the listing.
 
 ** **
-<img src="../Screenshots/New Products Page%20-%20Content%20tab.png?raw=true" alt="Preview of Search Results Page" width="50%"/>
+<img src="Screenshots/New Products Page%20-%20Content%20tab.png?raw=true" alt="Preview of Search Results Page" width="50%"/>
 
 ## Technical Information
 
@@ -35,6 +35,5 @@ Display Name *(Name in code)* | Type | Property Description
 ### Restrictions
 * none
 
-
 ## Preview
-<img src="../Screenshots/New Products Page -%20OPE.png?raw=true" alt="Preview of New Products Page" width="100%"/>
+<img src="Screenshots/New Products Page -%20OPE.png?raw=true" alt="Preview of New Products Page" width="100%"/>

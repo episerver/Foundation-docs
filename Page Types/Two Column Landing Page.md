@@ -1,7 +1,7 @@
 # Two Column Landing Page
 "Two column landing page with properties to determine column size"
 
-<img src="../Screenshots/Two%20Column%20Landing%20Page%20-%20icon.png?raw=true" alt="Two Column Landing Page icon" width="40%" />
+<img src="Screenshots/Two%20Column%20Landing%20Page%20-%20icon.png?raw=true" alt="Two Column Landing Page icon" width="40%" />
 
 An open-format *Page Type* designed for a variety of page types including marketing landing pages, product promotion pages, etc. Consists of a top content area, main body, main content area and right content area.
 
@@ -19,7 +19,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 
 ** **
-<img src="../Screenshots/Two%20Column%20Landing%20Page%20-%20Content%20tab.png?raw=true" alt="Preview of Two Column Landing Page" width="50%"/>
+<img src="Screenshots/Two%20Column%20Landing%20Page%20-%20Content%20tab.png?raw=true" alt="Preview of Two Column Landing Page" width="50%"/>
 
 ## Technical Information
 
@@ -33,4 +33,4 @@ Display Name *(Name in code)* | Type | Property Description
 * The combined column width of *Left column* and *Right column* must equal 12. The default valu for each column width is 6.
 
 ## Preview
-<img src="../Screenshots/Two%20Column%20Landing%20Page%20-%20OPE.png?raw=true" alt="Preview of Two Column Landing Page" width="100%"/>
+<img src="Screenshots/Two%20Column%20Landing%20Page%20-%20OPE.png?raw=true" alt="Preview of Two Column Landing Page" width="100%"/>

@@ -1,7 +1,7 @@
 # Location Item Page
 "Used to display the details of a location"
 
-<img src="../Screenshots/Location%20Item%20Page%20-%20icon.png?raw=true" alt="Location Item Page icon" width="40%" />
+<img src="Screenshots/Location%20Item%20Page%20-%20icon.png?raw=true" alt="Location Item Page icon" width="40%" />
 
 Longer description
 
@@ -24,7 +24,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 ** **
 
-<img src="../Screenshots/Location%20Item%20Page%20-%20Content%20tab.png?raw=true" alt="<PAGETYPE> icon" width="50%" />
+<img src="Screenshots/Location%20Item%20Page%20-%20Content%20tab.png?raw=true" alt="<PAGETYPE> icon" width="50%" />
 
 ### Location tab
 
@@ -40,7 +40,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 ** **
 
-<img src="../Screenshots/Location%20Item%20Page%20-%20Location%20tab.png?raw=true" alt="<PAGETYPE> icon" width="50%" />
+<img src="Screenshots/Location%20Item%20Page%20-%20Location%20tab.png?raw=true" alt="<PAGETYPE> icon" width="50%" />
 
 
 ## Technical Information
@@ -55,4 +55,4 @@ Display Name *(Name in code)* | Type | Property Description
 * none
 
 ## Preview
-<img src="../Screenshots/Location%20Item%20Page%20-%20OPE.png?raw=true" alt="Location Item Page" width="100%" />
+<img src="Screenshots/Location%20Item%20Page%20-%20OPE.png?raw=true" alt="Location Item Page" width="100%" />

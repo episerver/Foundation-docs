@@ -1,7 +1,7 @@
 # Search Results Page
 "Page to allow customer to search the site"
 
-<img src="../Screenshots/Search%20Results%20Page%20-%20icon.png?raw=true" alt="Search Results Page icon" width="40%" />
+<img src="Screenshots/Search%20Results%20Page%20-%20icon.png?raw=true" alt="Search Results Page icon" width="40%" />
 
 A page for displaying the results of a search on the site. Properties included are top content area, main body, and main content area.
 
@@ -16,7 +16,7 @@ Display Name *(Name in code)* | Type | Property Description
 **Show recommendations** *(`ShowRecommendations`)* | Boolean | Provides a switch to determine whether product and content recommendations should be included on the *Search Results Page*.
 
 ** **
-<img src="../Screenshots/Search%20Results%20Page%20-%20Content%20tab.png?raw=true" alt="Preview of Search Results Page" width="50%"/>
+<img src="Screenshots/Search%20Results%20Page%20-%20Content%20tab.png?raw=true" alt="Preview of Search Results Page" width="50%"/>
 
 ## Technical Information
 
@@ -29,7 +29,7 @@ Display Name *(Name in code)* | Type | Property Description
 ### Restrictions
 * The *Search Results Page* has to be configured for the site by pointing to it in the *Site Structure* tab of the *Demo Home Page*.
 
-<img src="../Screenshots/Demo%20Home Page - Site structure tab - Search.png?raw=true" alt="Search configuration on the Demo Home Page" width="50%"/>
+<img src="Screenshots/Demo%20Home Page - Site structure tab - Search.png?raw=true" alt="Search configuration on the Demo Home Page" width="50%"/>
 
 ## Preview
-<img src="../Screenshots/Search%20Results%20Page%20-%20OPE.png?raw=true" alt="Preview of Search Results Page" width="100%"/>
+<img src="Screenshots/Search%20Results%20Page%20-%20OPE.png?raw=true" alt="Preview of Search Results Page" width="100%"/>

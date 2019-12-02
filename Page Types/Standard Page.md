@@ -1,7 +1,7 @@
 # Standard Page
 "Allows for creation of rich standard pages."
 
-<img src="../Screenshots/Standard%20Page%20-%20icon.png?raw=true" alt="Preview of a Standard Page" width="50%"/>
+<img src="Screenshots/Standard%20Page%20-%20icon.png?raw=true" alt="Preview of a Standard Page" width="50%"/>
 
 Standard Page is designed for a variety of use cases, including marketing landing pages, product promotion pages, etc. Consists of a background image or video, a main body element and a main content area.
 
@@ -27,4 +27,4 @@ Display Name *(Name in code)* | Type | Property Description
 * none
 
 ## Preview
-<img src="../Screenshots/Standard%20Page%20-%20All props to view.png?raw=true" alt="Preview of a Standard Page" width="100%"/>
+<img src="Screenshots/Standard%20Page%20-%20All props to view.png?raw=true" alt="Preview of a Standard Page" width="100%"/>

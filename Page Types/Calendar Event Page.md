@@ -1,7 +1,7 @@
 # Calendar Event Page
 "A page for a calendar event. Provide start and end date, location and content."
 
-<img src="../Screenshots/Calendar%20Event%20Page%20-%20icon.png?raw=true" alt="Calendar Event Page icon" width="40%" />
+<img src="Screenshots/Calendar%20Event%20Page%20-%20icon.png?raw=true" alt="Calendar Event Page icon" width="40%" />
 
 This page type is used for creating a calendar event, complete with the start and end dates, the location of the event and other properties for enriching the event.
 
@@ -28,6 +28,6 @@ Display Name *(Name in code)* | Type | Property Description
 * The *Calendar Event Pages* must be created inside a [Folder Page](./Folder%20Page.md) for the *Calendar Block* to be able to create a collection of calendar events.
 
 ## Preview
-<img src="../Screenshots/Calendar%20Event%20Page%20-%20Properties%20to%20View.png?raw=true" alt="Preview of Calendar Event Page Content tab in All-properties view" width="100%"/>
+<img src="Screenshots/Calendar%20Event%20Page%20-%20Properties%20to%20View.png?raw=true" alt="Preview of Calendar Event Page Content tab in All-properties view" width="100%"/>
 
 

@@ -1,7 +1,7 @@
 # Locations List Page
 "Used to disploay of list of all locations"
 
-<img src="../Screenshots/Locations%20List%20Page%20-%20icon.png?raw=true" alt="<PAGETYPE> icon" width="40%" />
+<img src="Screenshots/Locations%20List%20Page%20-%20icon.png?raw=true" alt="<PAGETYPE> icon" width="40%" />
 
 A Locations List Page gathers all [Location Item Pages](./Location%20Item%20Page.md) in one list. The user can then filter the list using various filters, such as temperature, tags, distance from current location, etc.
 
@@ -16,7 +16,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 ** **
 
-<img src="../Screenshots/Locations%20List%20Page%20-%20Content%20tab.png?raw=true" alt="Content tab of the Locations List Page in All-properties view" width="50%"/>
+<img src="Screenshots/Locations%20List%20Page%20-%20Content%20tab.png?raw=true" alt="Content tab of the Locations List Page in All-properties view" width="50%"/>
 
 ## Technical Information
 
@@ -30,4 +30,4 @@ Display Name *(Name in code)* | Type | Property Description
 * Only pages of type [Location Item Page](./Location%20Item%20Page.md) can be created as a child page of this page type.
 
 ## Preview
-<img src="../Screenshots/Locations%20List%20Page%20-%20OPE.png?raw=true" alt="Preview of Blog Item Page" width="100%"/>
+<img src="Screenshots/Locations%20List%20Page%20-%20OPE.png?raw=true" alt="Preview of Blog Item Page" width="100%"/>

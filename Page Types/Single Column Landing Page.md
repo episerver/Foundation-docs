@@ -1,7 +1,7 @@
 # Single Column Landing Page
 "Default standard page that has top content area, main body, and main content area."
 
-<img src="../Screenshots/Single%20Column%20Landing%20Page%20-%20icon.png?raw=true" alt="Single Column Landing Page icon" width="40%" />
+<img src="Screenshots/Single%20Column%20Landing%20Page%20-%20icon.png?raw=true" alt="Single Column Landing Page icon" width="40%" />
 
 An open-format *Page Type* designed for a variety of page types including marketing landing pages, product promotion pages, etc. Consists of a top content area, main body and main content area.
 
@@ -15,7 +15,7 @@ Display Name *(Name in code)* | Type | Property Description
 **Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
 
 ** **
-<img src="../Screenshots/Single%20Column%20Landing%20Page%20-%20Content%20tab.png?raw=true" alt="Preview of Single Column Landing Page" width="50%"/>
+<img src="Screenshots/Single%20Column%20Landing%20Page%20-%20Content%20tab.png?raw=true" alt="Preview of Single Column Landing Page" width="50%"/>
 
 ## Technical Information
 
@@ -29,4 +29,4 @@ Display Name *(Name in code)* | Type | Property Description
 * none
 
 ## Preview
-<img src="../Screenshots/Single%20Column%20Landing%20Page%20-%20OPE.png?raw=true" alt="Preview of Single Column Landing Page" width="100%"/>
+<img src="Screenshots/Single%20Column%20Landing%20Page%20-%20OPE.png?raw=true" alt="Preview of Single Column Landing Page" width="100%"/>
