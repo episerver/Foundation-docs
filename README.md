@@ -27,12 +27,49 @@ Including as of now projects for CMS, Commerce, Personalisation, Find and Social
 
 ## Introduction
 
+* [*Common Page Properties*](Page%20Types/Common%20Page%20Properties.md)
 
 ---
 
 ## Foundation.Cms
 
+
+
 ### Page Types
+
+* [*Blog Item Page*](Page%20Types/Blog%20Item%20Page.md)
+
+* [*Blog List Page*](Page%20Types/Blog%20List%20Page.md)
+
+* [*Calendar Event Page*](Page%20Types/Calendar%20Event%20Page.md)
+
+* [*Community Page*](Page%20Types/Community%20Page.md)
+
+* [*Demo Home Page*](Page%20Types/Demo%20Home%20Page.md)
+
+* [*Folder Page*](Page%20Types/Folder%20Page.md)
+
+* [*Location Item Page*](Page%20Types/Location%20Item%20Page.md)
+
+* [*Locations List Page*](Page%20Types/Locations%20List%20Page.md)
+
+* [*New Products Page*](Page%20Types/New%20Products%20Page.md)
+
+* [*Organization Orders Page*](Page%20Types/Organization%20Orders%20Page.md)
+
+* [*Search Results Page*](Page%20Types/Search%20Results%20Page.md)
+
+* [*Single Column Landing Page*](Page%20Types/Single%20Column%20Landing%20Page.md)
+
+* [*Standard Page*](Page%20Types/Standard%20Page.md)
+
+* [*Three Column Landing Page*](Page%20Types/Three%20Column%20Landing%20Page.md)
+
+* [*Two Column Landing Page*](Page%20Types/Two%20Column%20Landing%20Page.md)
+
+
+
+
 
 ### Block Types
 
