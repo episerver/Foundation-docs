@@ -27,45 +27,31 @@ Including as of now projects for CMS, Commerce, Personalisation, Find and Social
 
 ## Introduction
 
-* [*Common Page Properties*](Page%20Types/Common%20Page%20Properties.md)
+- [Common Page Properties](Common%20Page%20Properties.md)
 
 ---
 
 ## Foundation.Cms
 
-
-
 ### Page Types
 
-* [*Blog Item Page*](Page%20Types/Blog%20Item%20Page.md)
-
-* [*Blog List Page*](Page%20Types/Blog%20List%20Page.md)
-
-* [*Calendar Event Page*](Page%20Types/Calendar%20Event%20Page.md)
-
-* [*Community Page*](Page%20Types/Community%20Page.md)
-
-* [*Demo Home Page*](Page%20Types/Demo%20Home%20Page.md)
-
-* [*Folder Page*](Page%20Types/Folder%20Page.md)
-
-* [*Location Item Page*](Page%20Types/Location%20Item%20Page.md)
-
-* [*Locations List Page*](Page%20Types/Locations%20List%20Page.md)
-
-* [*New Products Page*](Page%20Types/New%20Products%20Page.md)
-
-* [*Organization Orders Page*](Page%20Types/Organization%20Orders%20Page.md)
-
-* [*Search Results Page*](Page%20Types/Search%20Results%20Page.md)
-
-* [*Single Column Landing Page*](Page%20Types/Single%20Column%20Landing%20Page.md)
-
-* [*Standard Page*](Page%20Types/Standard%20Page.md)
-
-* [*Three Column Landing Page*](Page%20Types/Three%20Column%20Landing%20Page.md)
-
-* [*Two Column Landing Page*](Page%20Types/Two%20Column%20Landing%20Page.md)
+- [Bookmarks Page](Foundation.CMs/Page%20Types/Bookmarks%20Page.md)
+- [Foundation Page Data](Foundation.CMs/Page%20Types/Foundation%20Page%20Data.md)
+- [Mail Base Page](Foundation.CMs/Page%20Types/Mail%20Base%20Page.md)
+- [Profile Page](Foundation.CMs/Page%20Types/Profile%20Page.md)
+- [Reset Password Mail Page](Foundation.CMs/Page%20Types/Reset%20Password%20Mail%20Page.md)
+- [Reset Password Page](Foundation.CMs/Page%20Types/Rest%20Password%20Page.md)
+- [Blog Item Page](Foundation.CMs/Page%20Types/Blog%20Item%20Page.md)
+- [Blog List Page](Foundation.CMs/Page%20Types/Blog%20List%20Page.md)
+- [Calendar Event Page](Foundation.CMs/Page%20Types/Calendar%20Event%20Page.md)
+- [Demo Home Page](Foundation.CMs/Page%20Types/Demo%20Home%20Page.md)
+- [Folder Page](Foundation.CMs/Page%20Types/Folder%20Page.md)
+- [Search Results Page](Foundation.CMs/Page%20Types/Search%20Results%20Page.md)
+- [Single Column Landing Page](Foundation.CMs/Page%20Types/Single%20Column%20Landing%20Page.md)
+- [Standard Page](Foundation.CMs/Page%20Types/Standard%20Page.md)
+- [Tags Page](Foundation.CMs/Page%20Types/Tags%20Page.md)
+- [Three Column Landing Page](Foundation.CMs/Page%20Types/Three%20Column%20Landing%20Page.md)
+- [Two Column Landing Page](Foundation.CMs/Page%20Types/Two%20Column%20Landing%20Page.md)
 
 
 
@@ -90,6 +76,8 @@ Including as of now projects for CMS, Commerce, Personalisation, Find and Social
 ## Foundation.Commerce
 
 ### Page Types
+- [New Products Page](Foundation.Commerce/Page%20Types/New%20Products%20Page.md)
+- [Organization Orders Page](Foundation.Commerce/Page%20Types/Organization%20Orders%20Page.md)
 
 ### Block Types
 
@@ -110,6 +98,9 @@ Including as of now projects for CMS, Commerce, Personalisation, Find and Social
 ## Foundation.Find.Cms
 
 ### Page Types
+- [Find Page](Foundation.Find.CMs/Page%20Types/Find%20Page.md)
+- [Location Item Page](Foundation.Find.CMs/Page%20Types/Location%20Item%20Page.md)
+- [Locations List Page](Foundation.Find.CMs/Page%20Types/Locations%20List%20Page.md)
 
 ### Block Types
 
@@ -130,6 +121,9 @@ Including as of now projects for CMS, Commerce, Personalisation, Find and Social
 ## Foundation.Social
 
 ### Page Types
+
+- [Community Page](Foundation.Social/Page%20Types/Community%20Page.md)
+- [Social Profile Page](Foundation.Social/Page%20Types/Social%20Profile%20Page.md)
 
 ### Block Types
 
