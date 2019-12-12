@@ -31,7 +31,7 @@ Display Name *(Name in code)* | Type | Property Description
 * It is not possible to add a Bookmarks Page as an editor; it is part of the My Account area.
 * The list of one's bookmarks can be retrieved from under "My Account" as shown below.
 
-<img src="Screenshots/Bookmarks%20Page%20-%20Bookmarks%20in My Account.png?raw=true" alt="Content tab of Bookmarks Page" width="50%"/>
+<img src="Screenshots/Bookmarks%20Page%20-%20Bookmarks%20in%20My%20Account.png?raw=true" alt="Bookmarks in the My Account menu" width="40%"/>
 
 ## Preview
 <img src="Screenshots/Bookmarks%20Page%20-%20OPE.png?raw=true" alt="Preview of a Bookmarks Page" width="100%"/>
