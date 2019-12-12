@@ -40,7 +40,7 @@ Including as of now projects for CMS, Commerce, Personalisation, Find and Social
 - [Mail Base Page](Foundation.Cms/Page%20Types/Mail%20Base%20Page.md)
 - [Profile Page](Foundation.Cms/Page%20Types/Profile%20Page.md)
 - [Reset Password Mail Page](Foundation.Cms/Page%20Types/Reset%20Password%20Mail%20Page.md)
-- [Reset Password Page](Foundation.Cms/Page%20Types/Rest%20Password%20Page.md)
+- [Reset Password Page](Foundation.Cms/Page%20Types/Reset%20Password%20Page.md)
 - [Blog Item Page](Foundation.Cms/Page%20Types/Blog%20Item%20Page.md)
 - [Blog List Page](Foundation.Cms/Page%20Types/Blog%20List%20Page.md)
 - [Calendar Event Page](Foundation.Cms/Page%20Types/Calendar%20Event%20Page.md)
