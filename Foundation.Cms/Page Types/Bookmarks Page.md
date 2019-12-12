@@ -1,9 +1,9 @@
 # Bookmarks Page
 "This page displays list the different content that has been bookmarked belonging to an user"
 
-The Bookmarks Page is used for  Consists of a background image or video, a main body element and a main content area.
+The Bookmarks Page is used for storing a logged-in user's bookmarks; pages that the user has actively bookmarked. The page consiste of a main body element and a main content area.
 
-<img src="Screenshots/Bookmarks%20Page%20-%20Bookmark%20selection.png?raw=true" alt="Content tab of Bookmarks Page" width="50%"/>
+<img src="Screenshots/Bookmarks%20Page%20-%20Bookmark%20selection.png?raw=true" alt="Bookmark selection on a page" width="50%"/>
 
 ## Property List
 The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](./Common%20Page%20Properties.md) list.
