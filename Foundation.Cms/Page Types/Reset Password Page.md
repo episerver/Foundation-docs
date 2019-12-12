@@ -29,7 +29,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 <img src="Screenshots/Reset%20Password%20Page%20-%20Forgot%20password.png?raw=true" alt="Forgot password link in the login area." width="50%"/>
 
-* It is not possible to add a Bookmarks Page as an editor; it is part of the My Account area.
+* It is not possible to add a Reset Password Page as an editor.
 
 ## Preview
 <img src="Screenshots/Reset%20Password%20Page%20-%20OPE.png?raw=true" alt="Preview of a Reset Password Page" width="100%"/>
