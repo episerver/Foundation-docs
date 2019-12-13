@@ -1,0 +1,1 @@
+Blocks to show links for assets to download. One to point to a folder and render a link for all of the assets in that folder. Another to point to a product and render all of the assets with a particular Group Name.

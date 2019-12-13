@@ -1,5 +1,7 @@
-# Standard Page
-"Allows for creation of rich standard pages."
+# Social Profile Page
+"Page to show and manage profile information"
+
+Page to show/manage profile information and not available in edit mode (don't need create more than one). Anw, if an editor want to create a new one, you can go to Admin and set it to "Available in edit view".
 
 <img src="Screenshots/Standard%20Page%20-%20icon.png?raw=true" alt="Preview of a Standard Page" width="50%"/>
 

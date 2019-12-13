@@ -54,6 +54,7 @@ Including as of now projects for CMS, Commerce, Personalisation, Find and Social
 ### Block Types
 
 - [Blog Comment Block](Foundation.Cms/Block%20Types/Blog%20Comment%20Block.md)
+- [Bread Crumb Block](Foundation.Cms/Block%20Types/Bread%20Crumb%20Block.md)
 - [Button Block](Foundation.Cms/Block%20Types/Button%20Block.md)
 - [Calendar Block](Foundation.Cms/Block%20Types/Calendar%20Block.md)
 - [Call to Action Block](Foundation.Cms/Block%20Types/Call%20to%20Action%20Block.md)

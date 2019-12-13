@@ -1,5 +1,5 @@
 # Profile Page
-"Profile Page"
+"Page to show and manage profile information"
 
 <img src="Screenshots/Profile%20Page%20-%20icon.png?raw=true" alt="Preview of a Profile Page" width="50%"/>
 
