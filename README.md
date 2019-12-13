@@ -97,11 +97,11 @@ Including as of now projects for CMS, Commerce, Personalisation, Find and Social
 - [Organization Orders Page](Foundation.Commerce/Page%20Types/Organization%20Orders%20Page.md)
 
 ### Block Types
-- [Assets Download Links Block](Foundation.Commerce/Block%20Types/Assets%20Download%20Links%20Block.md)
-- [Elevated Role Block](Foundation.Commerce/Block%20Types/Elevated%20Role%20Block.md)
-- [Order History Block](Foundation.Commerce/Block%20Types/Order%20History%20Block.md)
-- [Product Search Block](Foundation.Commerce/Block%20Types/Product%20Search%20Block.md)
-- [Quick Order Block](Foundation.Commerce/Block%20Types/Quick%20Order%20Block.md)
+- [*Assets Download Links Block](Foundation.Commerce/Block%20Types/Assets%20Download%20Links%20Block.md)
+- [*Elevated Role Block](Foundation.Commerce/Block%20Types/Elevated%20Role%20Block.md)
+- [*Order History Block](Foundation.Commerce/Block%20Types/Order%20History%20Block.md)
+- [*Product Search Block](Foundation.Commerce/Block%20Types/Product%20Search%20Block.md)
+- [*Quick Order Block](Foundation.Commerce/Block%20Types/Quick%20Order%20Block.md)
 
 ### Other Information
 
@@ -124,10 +124,10 @@ Including as of now projects for CMS, Commerce, Personalisation, Find and Social
 - [Locations List Page](Foundation.Find.Cms/Page%20Types/Locations%20List%20Page.md)
 
 ### Block Types
-- [Filter Activities Block](Foundation.Find.Cms/Block%20Types/Filter%20Activities%20Block.md)
-- [Filter Continents Block](Foundation.Find.Cms/Block%20Types/Filter%20Continents%20Block.md)
-- [Filter Distances Block](Foundation.Find.Cms/Block%20Types/Filter%20Distances%20Block.md)
-- [Filter Temperatures Block](Foundation.Find.Cms/Block%20Types/Filter%20Temperatures%20Block.md)
+- [*Filter Activities Block](Foundation.Find.Cms/Block%20Types/Filter%20Activities%20Block.md)
+- [*Filter Continents Block](Foundation.Find.Cms/Block%20Types/Filter%20Continents%20Block.md)
+- [*Filter Distances Block](Foundation.Find.Cms/Block%20Types/Filter%20Distances%20Block.md)
+- [*Filter Temperatures Block](Foundation.Find.Cms/Block%20Types/Filter%20Temperatures%20Block.md)
 
 ### Other Information
 
@@ -150,15 +150,15 @@ Including as of now projects for CMS, Commerce, Personalisation, Find and Social
 - [Community Page](Foundation.Social/Page%20Types/Community%20Page.md)
 
 ### Block Types
-- [Comments Block](Foundation.Social/Block%20Types/Comments%20Block.md)
-- [Feed Block](Foundation.Social/Block%20Types/Feed%20Block.md)
-- [Group Admission Block](Foundation.Social/Block%20Types/Group%20Admission%20Block.md)
-- [Group Creation Block](Foundation.Social/Block%20Types/Group%20Creation%20Block.md)
-- [Like Button Block](Foundation.Social/Block%20Types/Like%20Button%20Block.md)
-- [Membership Affiliation Block](Foundation.Social/Block%20Types/Membership%20Affiliation%20Block.md)
-- [Membership Display Block](Foundation.Social/Block%20Types/Membership%20Display%20Block.md)
-- [Rating Block](Foundation.Social/Block%20Types/Rating%20Block.md)
-- [Subscription Block](Foundation.Social/Block%20Types/Subscription%20Block.md)
+- [*Comments Block](Foundation.Social/Block%20Types/Comments%20Block.md)
+- [*Feed Block](Foundation.Social/Block%20Types/Feed%20Block.md)
+- [*Group Admission Block](Foundation.Social/Block%20Types/Group%20Admission%20Block.md)
+- [*Group Creation Block](Foundation.Social/Block%20Types/Group%20Creation%20Block.md)
+- [*Like Button Block](Foundation.Social/Block%20Types/Like%20Button%20Block.md)
+- [*Membership Affiliation Block](Foundation.Social/Block%20Types/Membership%20Affiliation%20Block.md)
+- [*Membership Display Block](Foundation.Social/Block%20Types/Membership%20Display%20Block.md)
+- [*Rating Block](Foundation.Social/Block%20Types/Rating%20Block.md)
+- [*Subscription Block](Foundation.Social/Block%20Types/Subscription%20Block.md)
 
 
 
