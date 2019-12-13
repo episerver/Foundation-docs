@@ -147,7 +147,9 @@ Including as of now projects for CMS, Commerce, Personalisation, Find and Social
 
 ### Page Types
 
-- [Community Page](Foundation.Social/Page%20Types/Community%20Page.md)
+- [*Community Page](Foundation.Social/Page%20Types/Community%20Page.md)
+- [*Social Profile Page](Foundation.Social/Page%20Types/Social%20Profile%20Page.md)
+
 
 ### Block Types
 - [*Comments Block](Foundation.Social/Block%20Types/Comments%20Block.md)

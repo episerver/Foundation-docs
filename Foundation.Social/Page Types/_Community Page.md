@@ -29,4 +29,4 @@ Display Name *(Name in code)* | Type | Property Description
 * none
 
 ## Preview
-<img src="../Screenshots/Community Page - OPE.png?raw=true" alt="Preview of Community Page" width="100%"/>
+<img src="Screenshots/Community Page - OPE.png?raw=true" alt="Preview of Community Page" width="100%"/>

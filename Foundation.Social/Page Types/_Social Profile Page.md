@@ -3,7 +3,7 @@
 
 Page to show/manage profile information and not available in edit mode (don't need create more than one). Anw, if an editor want to create a new one, you can go to Admin and set it to "Available in edit view".
 
-<img src="Screenshots/Standard%20Page%20-%20icon.png?raw=true" alt="Preview of a Standard Page" width="50%"/>
+
 
 Standard Page is designed for a variety of use cases, including marketing landing pages, product promotion pages, etc. Consists of a background image or video, a main body element and a main content area.
 
@@ -14,8 +14,8 @@ Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
 **Main body** *(`MainBody`)* | XhtmlString | Provides an area for rich, formatted content. 
 **Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
-**Background video** *(`BackgroundVideo`)* | Content Item | Allows for inserting a video clip that plays as the background of the page. **Note:** if nothing is provided here, the *Image* from the Teaser tab will be used as the background instead.
-**Top padding mode** *(`TopPaddingMode`)* | String | Determines the way in which the background image or video is positioned on the page. The options are: **None**, **Half** or **Full**.
+
+<img src="Screenshots/Social%20Profile%20Page%20-%20Content%20tab.png?raw=true" alt="Preview of a Standard Page" width="50%"/>
 
 ## Technical Information
 
@@ -29,4 +29,4 @@ Display Name *(Name in code)* | Type | Property Description
 * none
 
 ## Preview
-<img src="Screenshots/Standard%20Page%20-%20All props to view.png?raw=true" alt="Preview of a Standard Page" width="100%"/>
+<img src="Screenshots/Social%20Profile%20Page%20-%20OPE.png?raw=true" alt="Preview of a Social Profile Page" width="100%"/>
