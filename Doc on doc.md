@@ -7,7 +7,7 @@
 The overall folder structure is as follows:
 
 
-<img src="Screenshots/Doc%20-%20Folder%20Structure%2001.PNG?raw=true" alt="Doc Folder Structure view" width="50%" />
+<img src="Screenshots/Doc%20-%20Folder%20Structure%2001.png?raw=true" alt="Doc Folder Structure view" width="50%" />
 
 Each Foundation Project has its own folder (like Foundation.Cms). In it there is a folder for *Page Types* and *Block Types*. In each of those there is a *Screenshots* folder for any screenshots used in the documentation.
 
@@ -15,7 +15,7 @@ Each Foundation Project has its own folder (like Foundation.Cms). In it there is
 
 For each documentable item there is a separate file (such as *Standard Page.md*). So, one file per page type and per block type!
 
-<img src="Screenshots/Doc%20-%20Folder%20Contents%2001.PNG?raw=true" alt="Doc Folders Contents view" width="100%" />
+<img src="Screenshots/Doc%20-%20Folder%20Contents%2001.png?raw=true" alt="Doc Folders Contents view" width="100%" />
 
 ## Naming Convention
 
@@ -30,7 +30,7 @@ There are genarally three screen shots per doucumentable item:
 - Content tab (where the content type-specific properties reside)
 - OPE view
 
-<img src="Screenshots/Doc%20-%20Screenshot%20Naming.PNG?raw=true" alt="Doc Screenshot Naming view" width="100%" />
+<img src="Screenshots/Doc%20-%20Screenshot%20Naming.png?raw=true" alt="Doc Screenshot Naming view" width="100%" />
 
 ## Structure of an .md file
 
@@ -45,8 +45,8 @@ Each file consist of these standard sections:
 
 ### Sample text of a Page Type documentation
 
-<img src="Screenshots/Doc%20-%20Sample%20md%20file.PNG?raw=true" alt="Doc Sample md file view" width="100%" />
+<img src="Screenshots/Doc%20-%20Sample%20md%20file.png?raw=true" alt="Doc Sample md file view" width="100%" />
 
 ### Sample view of the same Page Type documentation
 
-<img src="Screenshots/Doc%20-%20Sample%20doc.PNG?raw=true" alt="Doc Sample doc view" width="100%" />
+<img src="Screenshots/Doc%20-%20Sample%20doc.png?raw=true" alt="Doc Sample doc view" width="100%" />
