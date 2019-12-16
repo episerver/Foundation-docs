@@ -110,6 +110,14 @@ Including as of now projects for CMS, Commerce, Personalisation, Find and Social
 - [*Organization Page](Foundation.Commerce/Page%20Types/Organization%20Page.md)
 - [Organization Orders Page](Foundation.Commerce/Page%20Types/Organization%20Orders%20Page.md)
 - [*Quick Order Page](Foundation.Commerce/Page%20Types/Quick%20Order%20Page.md)
+- [*Sales Page](Foundation.Commerce/Page%20Types/Sales%20Page.md)
+- [*Shared Cart Page](Foundation.Commerce/Page%20Types/Shared%20Cart%20Page.md)
+- [*Store Page](Foundation.Commerce/Page%20Types/Store%20Page.md)
+- [*Sub-Organization Page](Foundation.Commerce/Page%20Types/Sub-Organization%20Page.md)
+- [*Subscription Details Page](Foundation.Commerce/Page%20Types/Subscription%20Details%20Page.md)
+- [*Subscription History Page](Foundation.Commerce/Page%20Types/Subscription%20History%20Page.md)
+- [*Users Page](Foundation.Commerce/Page%20Types/Users%20Page.md)
+- [*Wish List Page](Foundation.Commerce/Page%20Types/Wish%20List%20Page.md)
 
 ### Block Types
 - [*Assets Download Links Block](Foundation.Commerce/Block%20Types/Assets%20Download%20Links%20Block.md)
