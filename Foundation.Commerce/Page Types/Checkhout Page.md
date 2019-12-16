@@ -1,28 +1,32 @@
-# Profile Page
-"Page to show and manage profile information"
+# Checkout Page
+"description"
 
-<img src="Screenshots/Profile%20Page%20-%20icon.png?raw=true" alt="Preview of a Profile Page" width="50%"/>
+<img src="Screenshots/Checkout%20Page%20-%20icon.png?raw=true" alt="Checkout Page icon" width="40%" />
 
-Profile Page is designed for a... Consists of a background image or video, a main body element and a main content area.
+The...
 
 ## Property List
 The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](./Common%20Page%20Properties.md) list.
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
-**Main body** *(`MainBody`)* | XhtmlString | Provides an area for rich, formatted content. 
+**Main body** *(`MainBody`)* | XhtmlString | Provides a rich-text editor for entering formatted content.
 **Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
+
+** **
+
+<img src="Screenshots/Checkout%20Page%20-%20Content%20tab.png?raw=true" alt="Content tab of the Checkout Page" width="50%"/>
+
 
 ## Technical Information
 
 ### Category
-`Content`
+`Commerce`
 
 ### Inherits
-[FoundationPageData](#)
+[check](#)
 
 ### Restrictions
-* none
 
 ## Preview
-<img src="Screenshots/Profile%20Page%20-%2Content tab.png?raw=true" alt="Content tab of a Profile Page" width="100%"/>
+<img src="Screenshots/Checkout%20Page%20-%20OPE.png?raw=true" alt="Preview of Checkout Page" width="100%"/>

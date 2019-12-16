@@ -14,7 +14,7 @@ Display Name *(Name in code)* | Type | Property Description
 **PropertyName** *()* | PropertyType | Property description. Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
 **PropertyName** *()* | PropertyType | Property description. Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
 
-<img src="Screenshots/Community Page - Content tab.png?raw=true" alt="Preview of Community Page Content in All-properties view" width="40%"/>
+<img src="Screenshots/Community%20Page%20-%20Content tab.png?raw=true" alt="Preview of Community Page Content in All-properties view" width="50%"/>
 
 
 ## Technical Information
@@ -29,4 +29,4 @@ Display Name *(Name in code)* | Type | Property Description
 * none
 
 ## Preview
-<img src="Screenshots/Community Page - OPE.png?raw=true" alt="Preview of Community Page" width="100%"/>
+<img src="Screenshots/Community%20Page%20-%20OPE.png?raw=true" alt="Preview of Community Page" width="100%"/>

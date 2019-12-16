@@ -35,13 +35,15 @@ Including as of now projects for CMS, Commerce, Personalisation, Find and Social
 
 ### Page Types
 
-- [Bookmarks Page](Foundation.Cms/Page%20Types/Bookmarks%20Page.md)
 - [Blog Item Page](Foundation.Cms/Page%20Types/Blog%20Item%20Page.md)
 - [Blog List Page](Foundation.Cms/Page%20Types/Blog%20List%20Page.md)
+- [Bookmarks Page](Foundation.Cms/Page%20Types/Bookmarks%20Page.md)
 - [Calendar Event Page](Foundation.Cms/Page%20Types/Calendar%20Event%20Page.md)
 - [Demo Home Page](Foundation.Cms/Page%20Types/Demo%20Home%20Page.md)
 - [Folder Page](Foundation.Cms/Page%20Types/Folder%20Page.md)
 - [FoundationPageData](Foundation.Cms/Page%20Types/Foundation%20Page%20Data.md)
+- [*Mail Base Page](Foundation.Cms/Page%20Types/Mail%20Base%20Page.md)
+- [*Profile Page](Foundation.Cms/Page%20Types/Profile%20Base%20Page.md)
 - [Reset Password Mail Page](Foundation.Cms/Page%20Types/Reset%20Password%20Mail%20Page.md)
 - [Reset Password Page](Foundation.Cms/Page%20Types/Reset%20Password%20Page.md)
 - [Search Results Page](Foundation.Cms/Page%20Types/Search%20Results%20Page.md)
@@ -93,6 +95,10 @@ Including as of now projects for CMS, Commerce, Personalisation, Find and Social
 ## Foundation.Commerce
 
 ### Page Types
+- [*Address Book Page](Foundation.Commerce/Page%20Types/Address%20Book%20Page.md)
+- [*Budgeting Page](Foundation.Commerce/Page%20Types/Budgeting%20Page.md)
+- [*Cart Page](Foundation.Commerce/Page%20Types/Cart%20Page.md)
+- [*Checkout Page](Foundation.Commerce/Page%20Types/Checkout%20Page.md)
 - [New Products Page](Foundation.Commerce/Page%20Types/New%20Products%20Page.md)
 - [Organization Orders Page](Foundation.Commerce/Page%20Types/Organization%20Orders%20Page.md)
 
