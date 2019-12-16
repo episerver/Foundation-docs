@@ -5,6 +5,8 @@
 Foundation offers a starting point that is intuitive, well-structured and modular allowing developers to select Episerver products as projects to include or exclude from their solution. 
 Including as of now projects for CMS, Commerce, Personalisation, Find and Social, with the rest to follow.
 
+For source code and installation instructions, see the [Episerver Foundation repository: https://github.com/episerver/Foundation](https://github.com/episerver/Foundation).
+
 ---
 
 ## Table of Contents
