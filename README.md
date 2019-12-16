@@ -99,7 +99,11 @@ Including as of now projects for CMS, Commerce, Personalisation, Find and Social
 - [*Budgeting Page](Foundation.Commerce/Page%20Types/Budgeting%20Page.md)
 - [*Cart Page](Foundation.Commerce/Page%20Types/Cart%20Page.md)
 - [*Checkout Page](Foundation.Commerce/Page%20Types/Checkout%20Page.md)
+- [*Credit Card Page](Foundation.Commerce/Page%20Types/Credict%20Card%20Page.md)
+- [*Gift Card Page](Foundation.Commerce/Page%20Types/Credict%20Card%20Page.md)
 - [New Products Page](Foundation.Commerce/Page%20Types/New%20Products%20Page.md)
+- [*Order Confirmation Mail Page](Foundation.Commerce/Page%20Types/Order%20Confirmation%20Mail%20Page.md)
+- [*Order Confirmation Page](Foundation.Commerce/Page%20Types/Order%20Confirmation%20Page.md)
 - [Organization Orders Page](Foundation.Commerce/Page%20Types/Organization%20Orders%20Page.md)
 
 ### Block Types
