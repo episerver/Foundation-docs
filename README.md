@@ -104,6 +104,8 @@ Including as of now projects for CMS, Commerce, Personalisation, Find and Social
 - [New Products Page](Foundation.Commerce/Page%20Types/New%20Products%20Page.md)
 - [*Order Confirmation Mail Page](Foundation.Commerce/Page%20Types/Order%20Confirmation%20Mail%20Page.md)
 - [*Order Confirmation Page](Foundation.Commerce/Page%20Types/Order%20Confirmation%20Page.md)
+- [*Order Details Page](Foundation.Commerce/Page%20Types/Order%20Details%20Page.md)
+- [*Order History Page](Foundation.Commerce/Page%20Types/Order%History%20Page.md)
 - [Organization Orders Page](Foundation.Commerce/Page%20Types/Organization%20Orders%20Page.md)
 
 ### Block Types
