@@ -1,7 +1,7 @@
 # YouTube block
 "Display YouTube video"
 
-![YouTube Block](Screenshots/YouTube Block - icon.png)
+![YouTube Block](Screenshots/YouTube%20Block%20-%20icon.png)
 
 A *Block Type* designed to embed a video uploaded on YouTube.
 
@@ -26,4 +26,4 @@ Display Name *(Name in code)* | Type | Property Description
 None
 
 ## Preview
-![YouTube Block](Screenshots/YouTube Block - Preview.png)
+![YouTube Block](Screenshots/YouTube%20Block%20-%20Preview.png)
