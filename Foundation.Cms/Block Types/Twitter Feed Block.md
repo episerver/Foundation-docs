@@ -1,7 +1,7 @@
 # Twitter Feed block
 "Displays Twitter feed block"
 
-![Twitter feed block](Twitter%20Feed%20Block%20-%20icon.png)
+![Twitter feed block](Screenshots/Twitter%20Feed%20Block%20-%20icon.png)
 
 
 A *Block Type* designed to embed a Twitter feed.
@@ -26,4 +26,4 @@ Display Name *(Name in code)* | Type | Property Description
 None
 
 ## Preview
-![Twitter feed block](Twitter%20Feed%20Block%20-%20Preview.png)
+![Twitter feed block](Screenshots/Twitter%20Feed%20Block%20-%20Preview.png)
