@@ -14,6 +14,9 @@ Display Name *(Name in code)* | Type | Property Description
 **Account name** *(`AccountName`)* | String | Provides an area for name of the Twitter account to be embedded. 
 **Number of items** *(`NumberOfItems`)* | Integer | Provides a numeric control for selecting the number of tweets to show on the Twitter Feed block.
 
+** **
+![Twitter Feed Block - Content tab](Screenshots/Twitter%20Feed%20Block%20-%20Content%20tab.png)
+
 ## Technical Information
 
 ### Category
