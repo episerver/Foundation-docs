@@ -13,6 +13,9 @@ Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
 **Video** *(`Video`)* | Content Item | Allows for inserting a video clip. The video clip must be uploaded to the assets pane to be available for selection. 
 
+** **
+![Video Block - Content tab](Screenshots/Video%20Block%20-%20Content%20tab.png)
+
 ## Technical Information
 
 ### Category
