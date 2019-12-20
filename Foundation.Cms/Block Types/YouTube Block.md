@@ -14,6 +14,9 @@ Display Name *(Name in code)* | Type | Property Description
 **Heading** *(`Heading`)* | String | Allows for entering a heading for the video.
 **Main body** *(`MainBody`)* | XhtmlString | Provides an area for a description of the video. 
 
+** **
+![YouTube Block - Content tab](Screenshots/YouTube%20Block%20-%20Content%20tab.png)
+
 ## Technical Information
 
 ### Category
