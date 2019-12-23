@@ -74,10 +74,10 @@ For source code and installation instructions, see the [Episerver Foundation rep
 - [*Recent Page Category Recommendation Block](Foundation.Cms/Block%20Types/Recent%20Page%20Category%20Recommendation%20Block.md)
 - [*RSS Reader Block](Foundation.Cms/Block%20Types/RSS%20Reader%20Block.md)
 - [*Teaser Block](Foundation.Cms/Block%20Types/Teaser%20Block.md)
-- [*Twitter Feed Block](Foundation.Cms/Block%20Types/Twitter%20Feed%20Block.md)
-- [*Video Block](Foundation.Cms/Block%20Types/Video%20Block.md)
-- [*Vimeo Block](Foundation.Cms/Block%20Types/Vimeo%20Block.md)
-- [*YouTube Block](Foundation.Cms/Block%20Types/YouTube%20Block.md)
+- [Twitter Feed Block](Foundation.Cms/Block%20Types/Twitter%20Feed%20Block.md)
+- [Video Block](Foundation.Cms/Block%20Types/Video%20Block.md)
+- [Vimeo Block](Foundation.Cms/Block%20Types/Vimeo%20Block.md)
+- [YouTube Block](Foundation.Cms/Block%20Types/YouTube%20Block.md)
 
 ### Other Information
 
