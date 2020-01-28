@@ -27,7 +27,7 @@ Display Name *(Name in code)* | Type | Property Description
 `Blog`
 
 ### Inherits
-[Landing Page](#)
+[FoundationPageData](Foundation%20Page%20Data.md)
 
 ### Restrictions
 * Only pages of type *Blog Item Page* and *Blog List Page* can be created as a child page of this page type.
