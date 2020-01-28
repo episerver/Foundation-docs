@@ -21,7 +21,7 @@ Display Name *(Name in code)* | Type | Property Description
 `Content`
 
 ### Inherits
-[Landing Page](#)
+[FoundationPageData](Foundation%20Page%20Data.md)
 
 ### Restrictions
 * none
