@@ -22,7 +22,7 @@ Display Name *(Name in code)* | Type | Property Description
 ``
 
 ### Inherits
-[FoundationPageData](#)
+[FoundationPageData](Foundation%20Page%20Data.md)
 
 ### Restrictions
 * One can only get to the Reset Password Page by clicking the "Forgot your password?" link in the login area as shown below.
