@@ -60,7 +60,7 @@ Display Name *(Name in code)* | Type | Property Description
 `Blog`
 
 ### Inherits
-[Landing Page](#)
+[FoundationPageData](Foundation%20Page%20Data.md)
 
 ### Restrictions
 * This page type lists only pages of type [Blog Item Page](./Blog%20Item%20Page.md).
