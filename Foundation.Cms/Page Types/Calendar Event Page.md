@@ -22,7 +22,7 @@ Display Name *(Name in code)* | Type | Property Description
 `Calendar`
 
 ### Inherits
-[Landing Page](#)
+[FoundationPageData](Foundation%20Page%20Data.md)
 
 ### Restrictions
 * The *Calendar Event Pages* must be created inside a [Folder Page](./Folder%20Page.md) for the *Calendar Block* to be able to create a collection of calendar events.
