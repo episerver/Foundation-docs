@@ -20,10 +20,10 @@ Display Name *(Name in code)* | Type | Property Description
 ## Technical Information
 
 ### Category
-`check this`
+`Content`
 
 ### Inherits
-[check this](#)
+[FoundationPageData](Foundation%20Page%20Data.md)
 
 ### Restrictions
 * none
