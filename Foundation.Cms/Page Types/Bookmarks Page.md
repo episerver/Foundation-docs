@@ -24,7 +24,7 @@ Display Name *(Name in code)* | Type | Property Description
 ``
 
 ### Inherits
-[FoundationPageData](#)
+[FoundationPageData](Foundation%20Page%20Data.md)
 
 ### Restrictions
 * One can only bookmark pages when logged in.
