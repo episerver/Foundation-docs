@@ -29,7 +29,7 @@ Display Name *(Name in code)* | Type | Property Description
 `Content`
 
 ### Inherits
-[Landing Page](#)
+[FoundationPageData](Foundation%20Page%20Data.md)
 
 ### Restrictions
 * The *Tags Page* only acts upon *Location Item Page* instances as only those have the *Tags* property.
