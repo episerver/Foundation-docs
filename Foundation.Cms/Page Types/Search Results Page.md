@@ -24,7 +24,7 @@ Display Name *(Name in code)* | Type | Property Description
 `Content`
 
 ### Inherits
-[Landing Page](#)
+[FoundationPageData](Foundation%20Page%20Data.md)
 
 ### Restrictions
 * The *Search Results Page* has to be configured for the site by pointing to it in the *Site Structure* tab of the *Demo Home Page*.
