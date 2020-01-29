@@ -21,7 +21,7 @@ The following property list includes properties that are unique to this content 
 `Content`
 
 ### Inherits
-[FoundationPageData](#)
+[PageData](#)
 
 ### Restrictions
 * Include on:
