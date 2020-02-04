@@ -1,7 +1,7 @@
 # Credit Card Page
 "description"
 
-<img src="Screenshots/Credit%20Card%20Page%20-%20icon.png?raw=true" alt="Credit Card Page icon" width="40%" />
+<img src="Screenshots/Commerce/CMS-icon-page-14.png?raw=true" alt="<PAGETYPE> icon" width="40%" />
 
 This is a page type that...
 
