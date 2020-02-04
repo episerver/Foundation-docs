@@ -1,9 +1,9 @@
 # Wish List Page
-"description"
+"Page for customers to manage their wish list."
 
-<img src="Screenshots/Wish%20List%20Page%20-%20icon.png?raw=true" alt="Wish List Page icon" width="40%" />
+<img src="Screenshots/wish%20list%20page.png?raw=true" alt="Wish List Page icon" width="40%" />
 
-This is a page type that...
+This page type lets customers to manage their wish list.
 
 
 ## Property List
