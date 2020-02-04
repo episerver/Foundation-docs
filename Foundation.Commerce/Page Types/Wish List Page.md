@@ -29,4 +29,4 @@ Display Name *(Name in code)* | Type | Property Description
 * none
 
 ## Preview
-<img src="Screenshots/Wishn%20List%20Page%20-%20OPE.png?raw=true" alt="Preview of Wish List Page" width="100%"/>
+<img src="Screenshots/wishlist%20preview.png?raw=true" alt="Preview of Wish List Page" width="100%"/>
