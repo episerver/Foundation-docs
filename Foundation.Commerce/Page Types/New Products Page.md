@@ -13,13 +13,13 @@ The following property list includes properties that are unique to this content 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
 **Main body** *(`MainBody`)* | XhtmlString | Provides an rich-text area for entering formatted content.
-**Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
-**Number of products** *(`NumberOfProducts`)* | Integer | Determines the maximum number of new products to show in the listing of new products.
+**Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable, drag-and-drop interface for placing media, blocks, or other content on the page.
+**Number of products** *(`NumberOfProducts`)* | Integer | Determines the maximum number of new products to show in the list.
 **Number of products per page** *(`PageSize`)* | Integer | Determines the maximum number of new products to show per page.
-**Allow paging** *(`AllowPaging`)* | Boolean | When selected, adds, if necessary, paging controls to browse the new products listed on this page. The paging functionality will be used if the value of *Number of products per page* property is less than the value of *Number of products*, and there are a greater number of products to show than the *Number of products per page*.
-**Manual inclusion** *(`ManualInclusion`)* | ContentReferenceList | Allows for manually including products or product categories to be included in the listing, regardless of the "New arrival" status of a product.
-**Manual inclusion ordering** *(`ManualInclusionOrdering`)* | String | Controls where in the list of new products the manually included products should be. The options are **Beginning**, **End** and **Random**.
-**Manual exclusion** *(`ManualExclusion`)* | ContentReferenceList | Allows for manually excluding products or product categories to be excluded from the listing.
+**Allow paging** *(`AllowPaging`)* | Boolean | If true, adds, if necessary, paging controls to browse new products on the page. The paging functionality is used if the value of *Number of products per page* property is less than the value of *Number of products*, and the number of products to show exceeds the *Number of products per page*.
+**Manual inclusion** *(`ManualInclusion`)* | ContentReferenceList | Allows for the manual inclusion of products or product categories in the listing, regardless of a product's "New arrival" status.
+**Manual inclusion ordering** *(`ManualInclusionOrdering`)* | String | Controls where in the list of new products the manually included products appear. The options are **Beginning**, **End** and **Random**.
+**Manual exclusion** *(`ManualExclusion`)* | ContentReferenceList | Allows for the manual exclusion of products or product categories from the listing.
 
 ** **
 <img src="Screenshots/New Products Page%20-%20Content%20tab.png?raw=true" alt="Preview of Search Results Page" width="50%"/>
