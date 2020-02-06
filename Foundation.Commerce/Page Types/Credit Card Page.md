@@ -1,5 +1,5 @@
 # Credit Card Page
-"description"
+"This page lets you perform all activities related to credit cards"
 
 ![Credit card page](Screenshots/Commerce%20credit%20card%20page.png)
 
@@ -23,7 +23,7 @@ Display Name *(Name in code)* | Type | Property Description
 `Commerce`
 
 ### Inherits
-[check](#)
+[FoundationPageData, IDisableOPE](#)
 
 ### Restrictions
 * none
