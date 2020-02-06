@@ -1,9 +1,9 @@
 # Wish List Page
 "Page for customers to manage their wish list."
 
-![Wish List Page](Screenshots/Wish%20list%20page.png)
+![Wish list page](Screenshots/Wish%20list%20page.png)
 
-This page type lets customers to manage their wish list.
+This page type lets customers manage their wish list.
 
 
 ## Property List
