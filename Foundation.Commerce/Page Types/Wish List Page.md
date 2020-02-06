@@ -1,7 +1,7 @@
 # Wish List Page
 "Page for customers to manage their wish list."
 
-<img src="Screenshots/wish%20list%20page.png?raw=true" alt="Wish List Page icon" width="40%" />
+![Wish List Page](Screenshots/Wishlist%20preview.png)
 
 This page type lets customers to manage their wish list.
 
