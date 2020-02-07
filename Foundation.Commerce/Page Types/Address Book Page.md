@@ -29,4 +29,4 @@ Display Name *(Name in code)* | Type | Property Description
 * none
 
 ## Preview
-<img src="Screenshots/Address%20Book%20Page%20-%20OPE.png?raw=true" alt="Preview of Address Book Page" width="100%"/>
+![ Address book](screenshots/Address%20book.png) 
