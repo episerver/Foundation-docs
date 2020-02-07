@@ -29,4 +29,4 @@ Display Name *(Name in code)* | Type | Property Description
 * none
 
 ## Preview
-![ Address book](screenshots/Address%20book.png) 
+![Address book](screenshots/Address%20book.png) 
