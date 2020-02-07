@@ -1,5 +1,5 @@
 # Address Book Page
-"Show the top new products by sorted by the creation date"
+"Manages a customer's address book."
 
 <img src="Screenshots/Address%20Book%20Page%20-%20icon.png?raw=true" alt="Address Book Page icon" width="40%" />
 
