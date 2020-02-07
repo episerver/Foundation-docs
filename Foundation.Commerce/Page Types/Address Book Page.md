@@ -23,10 +23,10 @@ Display Name *(Name in code)* | Type | Property Description
 `Commerce`
 
 ### Inherits
-[Landing Page](#)
+[FoundationPageData](#)
 
 ### Restrictions
 * none
 
 ## Preview
-![Address book](screenshots/Address%20book.png) 
+![Address book](Screenshots/Address%20book.png) 
