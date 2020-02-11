@@ -29,7 +29,7 @@ Display Name *(Name in code)* | Type | Property Description
 [FoundationPageData, IDisableOPE](#)
 
 ### Restrictions
-* It is not possible to add an Address Book page as an editor.
+* It is not possible to add a credit card page as an editor.
 
 ## Preview
 <img src="Screenshots/Credit%20Card%20Page%20-%20OPE.png?raw=true" alt="Preview of Credit Card Page" width="100%"/>
