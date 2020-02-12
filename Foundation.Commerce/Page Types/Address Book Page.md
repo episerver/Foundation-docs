@@ -18,7 +18,7 @@ Display Name *(Name in code)* | Type | Property Description
 **AuthorMetaData** *(`Author`)* | LongString(>255) |
 
 ** **
-<img src="Screenshots/Address%20Book%20Page%20-%20Content%20tab.png?raw=true" alt="Content tab of Address Book Page" width="50%"/>
+<img src="Screenshots/Address%20book%20page%20content%20tab.png?raw=true" alt="Content tab of Address Book Page" width="50%"/>
 
 ## Technical Information
 
