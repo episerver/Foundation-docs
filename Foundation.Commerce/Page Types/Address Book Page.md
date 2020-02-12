@@ -32,4 +32,4 @@ Display Name *(Name in code)* | Type | Property Description
 * It is not possible to add an Address Book page as an editor.
 
 ## Preview
-![Address book page](Screenshots/Address%2book.png)
+![Address book page](Screenshots/Address%20book.png)
