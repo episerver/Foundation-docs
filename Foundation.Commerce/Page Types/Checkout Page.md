@@ -3,7 +3,7 @@
 
 <img src="Screenshots/Checkout%20Page%20-%20icon.png?raw=true" alt="Checkout Page - icon" width="40%" />
 
-The Checkout Page shows all items in the customer's shopping cart. It contains detailed information such as price, delivery options, coupon code or payment.
+The Checkout Page shows all items in the customer's shopping cart. It contains detailed information such as price, coupon code, delivery and payment options.
 
 ## Property List
 The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](./Common%20Page%20Properties.md) list.
