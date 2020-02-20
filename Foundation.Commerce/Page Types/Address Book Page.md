@@ -1,9 +1,9 @@
 # Address Book Page
-"Manages a customer's address book."
+"Manages address book for customer."
 
-<img src="Screenshots/Address%20Book%20Page%20-%20icon.png?raw=true" alt="Address Book Page icon" width="40%" />
+![Address book page](Screenshots/Address%20Book%20Page%20-%20icon.png)
 
-This is a page type that...
+This page type lets customers manage and edit their billing and shipping address.
 
 
 ## Property List
@@ -13,12 +13,10 @@ Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
 **Main body** *(`MainBody`)* | XhtmlString | Provides an rich-text area for entering formatted content.
 **Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
-**MetaContentType** *(`Content Type`)* | LongString(>255) |
-**Industry** *(`Industry`)* | LongString(>255) |
-**AuthorMetaData** *(`Author`)* | LongString(>255) |
+
 
 ** **
-<img src="Screenshots/Address%20book%20page%20content%20tab.png?raw=true" alt="Content tab of Address Book Page" width="50%"/>
+![Address book page](Screenshots/Address%20Book%20Page%20-%20Content%20tab.png)
 
 ## Technical Information
 
@@ -26,10 +24,10 @@ Display Name *(Name in code)* | Type | Property Description
 `Commerce`
 
 ### Inherits
-[FoundationPageData](#)
+[FoundationPageData](Foundation%20Page%20Data.md)
 
 ### Restrictions
-* It is not possible to add an Address Book page as an editor.
+The Checkout Page is not available in edit view by default. To enable it, go to Admin view > Content type > [Commerce] Checkout Page > Settings and select the **Available in edit view** check box.
 
 ## Preview
-![Address book page](Screenshots/Address%20book.png)
+![Address book page](Screenshots/Address%20Book%20Page%20-%20Preview.png)
