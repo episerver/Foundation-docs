@@ -3,7 +3,7 @@
 
 ![Address book page](Screenshots/Address%20Book%20Page%20-%20icon.png)
 
-This page type lets customers manage and edit their billing and shipping address.
+This page type lets customers manage and edit their billing and shipping addresses.
 
 
 ## Property List
