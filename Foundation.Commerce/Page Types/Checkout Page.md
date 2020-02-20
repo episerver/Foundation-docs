@@ -1,7 +1,7 @@
 # Checkout Page
 "Checkout page."
 
-<img src="Screenshots/Checkout%20Page%20-%20icon.png?raw=true" alt="Checkout Page - icon" width="40%" />
+![Checkout page](Screenshots/Checkout%20Page%20-%20icon.png)
 
 The Checkout Page shows all items in the customer's shopping cart. It contains detailed information such as price, coupon code, delivery and payment options.
 
@@ -15,7 +15,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 ** **
 
-<img src="Screenshots/Checkout%20Page%20-%20Content%20tab.png?raw=true" alt="Checkout Page - Content tab" width="50%"/>
+![Checkout page](Screenshots/Checkout%20Page%20-%20Content%20tab.png)
 
 
 ## Technical Information
@@ -31,4 +31,4 @@ The Checkout Page is not available in edit view by default. To enable it, go to 
 
 ## Preview
 
-<img src="Screenshots/Checkout%20Page%20-%20Preview.png?raw=true" alt="Checkout Page - Preview" width="50%"/>
+![Checkout page](Screenshots/Checkout%20Page%20-%20Preview.png)
