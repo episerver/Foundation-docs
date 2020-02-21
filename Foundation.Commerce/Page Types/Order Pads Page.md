@@ -1,9 +1,9 @@
 # Order Pads Page
-"description"
+"Page to manage an organization member's order pad."
 
-<img src="Screenshots/Order%20Pads%20Page%20-%20icon.png?raw=true" alt="Order Pads Page icon" width="40%" />
+![Order pads](Screenshots/Order%20Pads%20Page%20-%20icon.png)
 
-This is a page type that...
+Customers can use the page to manage an organization member's order pad.
 
 
 ## Property List
@@ -15,7 +15,7 @@ Display Name *(Name in code)* | Type | Property Description
 **Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
 
 ** **
-<img src="Screenshots/Order%20Pads%20Page%20-%20Content%20tab.png?raw=true" alt="Content tab of Order Pads Page" width="50%"/>
+![Order pads](Screenshots/Order%20Pads%20Page%20-%20Content%20tab.png)
 
 ## Technical Information
 
@@ -23,10 +23,10 @@ Display Name *(Name in code)* | Type | Property Description
 `Commerce`
 
 ### Inherits
-[check](#)
+[FoundationPageData](Foundation%20Page%20Data.md), IDisableOPE
 
 ### Restrictions
-* none
+The Checkout Page is not available in edit view by default. To enable it, go to Admin view > Content type > [Commerce] Checkout Page > Settings and select the **Available in edit view** check box.
 
 ## Preview
-<img src="Screenshots/Order%20Pads%20Page%20-%20OPE.png?raw=true" alt="Preview of Order Pads Page" width="100%"/>
+![Order pads](Screenshots/Order%20Pads%20Page%20-%20Preview.png)
