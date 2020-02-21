@@ -1,9 +1,9 @@
 # Order Details Page
-"description"
+"Page for customer to view their order."
 
-<img src="Screenshots/Order%20Details%20Page%20-%20icon.png?raw=true" alt="Order Details Page icon" width="40%" />
+![Order details](Screenshots/Order%20Details%20Page%20-%20icon.png)
 
-This is a page type that...
+A page that provides an overview over the ordered items.
 
 
 ## Property List
@@ -15,7 +15,8 @@ Display Name *(Name in code)* | Type | Property Description
 **Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
 
 ** **
-<img src="Screenshots/Order%20Details%20Page%20-%20Content%20tab.png?raw=true" alt="Content tab of Order Details Page" width="50%"/>
+
+![Order details](Screenshots/Order%20Details%20Page%20-%20Content%20tab.png)
 
 ## Technical Information
 
@@ -23,10 +24,10 @@ Display Name *(Name in code)* | Type | Property Description
 `Commerce`
 
 ### Inherits
-[check](#)
+[FoundationPageData](Foundation%20Page%20Data.md)
 
 ### Restrictions
-* none
+The Checkout Page is not available in edit view by default. To enable it, go to Admin view > Content type > [Commerce] Checkout Page > Settings and select the **Available in edit view** check box.
 
 ## Preview
-<img src="Screenshots/Order%20Details%20Page%20-%20OPE.png?raw=true" alt="Preview of Order Detials Page" width="100%"/>
+![Order details](Screenshots/Order%20Details%20Page%20-%20Preview.png)
