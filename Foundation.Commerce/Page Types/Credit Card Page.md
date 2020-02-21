@@ -27,7 +27,7 @@ Display Name *(Name in code)* | Type | Property Description
 `Commerce`
 
 ### Inherits
-[FoundationPageData](Foundation%20Page%20Data.md), [IDisableOPE]
+[FoundationPageData](Foundation%20Page%20Data.md), IDisableOPE
 
 ### Restrictions
 The Checkout Page is not available in edit view by default. To enable it, go to Admin view > Content type > [Commerce] Checkout Page > Settings and select the **Available in edit view** check box.
