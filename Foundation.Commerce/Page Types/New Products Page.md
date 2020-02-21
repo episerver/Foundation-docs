@@ -30,7 +30,7 @@ Display Name *(Name in code)* | Type | Property Description
 `Commerce`
 
 ### Inherits
-[Landing Page](#)
+BaseInclusionExclusionPage
 
 ### Restrictions
 * none
