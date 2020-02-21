@@ -29,4 +29,4 @@ Display Name *(Name in code)* | Type | Property Description
 The Checkout Page is not available in edit view by default. To enable it, go to Admin view > Content type > [Commerce] Checkout Page > Settings and select the **Available in edit view** check box.
 
 ## Preview
-![Gift card](Screenshots/Gift%20Card%20Page%20-%20OPreview.png)
+![Gift card](Screenshots/Gift%20Card%20Page%20-%20Preview.png)
