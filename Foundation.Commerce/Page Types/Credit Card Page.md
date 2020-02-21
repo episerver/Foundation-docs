@@ -1,9 +1,9 @@
 # Credit Card Page
-"This page lets you perform all activities related to credit cards"
+"Manage credit cards"
 
-![Credit card page](Screenshots/Commerce%20credit%20card%20page.png)
+![Credit card page](Screenshots/Credit%20Card%20Page%20-%20icon.png)
 
-This is a page type that...
+This page lets you perform all activities related to credit cards.
 
 
 ## Property List
@@ -13,12 +13,12 @@ Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
 **Main body** *(`MainBody`)* | XhtmlString | Provides an rich-text area for entering formatted content.
 **Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
-**MetaContentType** *(`Content Type`)* | LongString(>255) |
-**Industry** *(`Industry`)* | LongString(>255) |
-**AuthorMetaData** *(`Author`)* | LongString(>255) |
+**MetaContentType** *(`Content Type`)* | LongString(>255) | Available in the Metadata tab
+**Industry** *(`Industry`)* | LongString(>255) | Available in the Metadata tab
+**AuthorMetaData** *(`Author`)* | LongString(>255) | Available in the Metadata tab
 
 ** **
-<img src="Screenshots/Credit%20Card%20Page%20-%20Content%20tab.png?raw=true" alt="Content tab of Credit Card Page" width="50%"/>
+![Credit card page](Screenshots/Credit%20Card%20Page%20-%20Content%20tab.png)width="50%"/>
 
 ## Technical Information
 
@@ -26,10 +26,10 @@ Display Name *(Name in code)* | Type | Property Description
 `Commerce`
 
 ### Inherits
-[FoundationPageData, IDisableOPE](#)
+[FoundationPageData](Foundation%20Page%20Data.md), [IDisableOPE]
 
 ### Restrictions
-* It is not possible to add a credit card page as an editor.
+The Checkout Page is not available in edit view by default. To enable it, go to Admin view > Content type > [Commerce] Checkout Page > Settings and select the **Available in edit view** check box.
 
 ## Preview
 <img src="Screenshots/Credit%20Card%20Page%20-%20OPE.png?raw=true" alt="Preview of Credit Card Page" width="100%"/>
