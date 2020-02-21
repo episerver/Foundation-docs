@@ -1,9 +1,9 @@
 # Gift Card Page
-"description"
+"This page displays all gift cards belonging to an user."
 
-<img src="Screenshots/Gift%20Card%20Page%20-%20icon.png?raw=true" alt="Gift Card Page icon" width="40%" />
+![Gift card](Screenshots/Gift%20Card%20Page%20-%20icon.png)
 
-This is a page type that...
+A page that enables customers to see and manage their gift cards.
 
 
 ## Property List
@@ -15,7 +15,7 @@ Display Name *(Name in code)* | Type | Property Description
 **Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
 
 ** **
-<img src="Screenshots/Gift%20Card%20Page%20-%20Content%20tab.png?raw=true" alt="Content tab of Gift Card Page" width="50%"/>
+![Gift card](Screenshots/Gift%20Card%20Page%20-%20Content%20tab.png)
 
 ## Technical Information
 
@@ -23,10 +23,10 @@ Display Name *(Name in code)* | Type | Property Description
 `Commerce`
 
 ### Inherits
-[Landing Page](#)
+[FoundationPageData](Foundation%20Page%20Data.md)
 
 ### Restrictions
-* none
+The Checkout Page is not available in edit view by default. To enable it, go to Admin view > Content type > [Commerce] Checkout Page > Settings and select the **Available in edit view** check box.
 
 ## Preview
-<img src="Screenshots/Gift%20Card%20Page%20-%20OPE.png?raw=true" alt="Preview of Gift Card Page" width="100%"/>
+![Gift card](Screenshots/Gift%20Card%20Page%20-%20OPreview.png)
