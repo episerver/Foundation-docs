@@ -1,7 +1,7 @@
 # Organization Orders Page
-"Page to manage an organizations's orders"
+"Page to manage an organizations's orders."
 
-<img src="Screenshots/Organization Orders Page%20-%20icon.png?raw=true" alt="Organization Orders Page icon" width="40%" />
+![Organization orders](Screenshots/Organization%20Orders%20Page%20-%20icon.png)
 
 This is a page type that allows for managing all orders of an organization. It pulls together the individual orders of all persons belonging to this organization.
 
@@ -14,7 +14,7 @@ Display Name *(Name in code)* | Type | Property Description
 **Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
 
 ** **
-<img src="Screenshots/Organization Orders Page%20-%20Content%20tab.png?raw=true" alt="Preview of Organization Orders Page" width="50%"/>
+![Organization orders](Screenshots/Organization%20Orders%20Page%20-%20Content%20tab.png)
 
 ## Technical Information
 
@@ -22,11 +22,10 @@ Display Name *(Name in code)* | Type | Property Description
 `Commerce`
 
 ### Inherits
-[Landing Page](#)
+[FoundationPageData](Foundation%20Page%20Data.md), IDisableOPE
 
 ### Restrictions
-* none
-
+The Checkout Page is not available in edit view by default. To enable it, go to Admin view > Content type > [Commerce] Checkout Page > Settings and select the **Available in edit view** check box.
 
 ## Preview
-<img src="Screenshots/Organization Orders Page -%20OPE.png?raw=true" alt="Preview of Organization Orders Page" width="100%"/>
+![Organization orders](Screenshots/Organization%20Orders%20Page%20-%20Preview.png)
