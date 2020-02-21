@@ -13,7 +13,7 @@ Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
 **Main body** *(`MainBody`)* | XhtmlString | Provides an rich-text area for entering formatted content.
 **Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
-**B2B** *(`B2B`)* | Boolean | Available in the Metadata tab
+**B2B** *(`B2B`)* | Boolean | Check box
 **MetaContentType** *(`Content Type`)* | LongString(>255) | Available in the Metadata tab
 **Industry** *(`Industry`)* | LongString(>255) | Available in the Metadata tab
 **AuthorMetaData** *(`Author`)* | LongString(>255) | Available in the Metadata tab
