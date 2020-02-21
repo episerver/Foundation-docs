@@ -1,9 +1,9 @@
-# New Products Page
-"description"
+# Cart Page
+"Page for managing cart."
 
-<img src="Screenshots/Cart%20Page%20-%20icon.png?raw=true" alt="Cart Page icon" width="40%" />
+![Cart page](Screenshots/Cart%20Page%20-%20icon.png)
 
-This is a page type that...
+The cart page lets customers view and edit their shopping cart. You can add blocks or images to make the page more appealing or to improve the user experience.
 
 ## Property List
 The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](./Common%20Page%20Properties.md) list.
@@ -12,10 +12,10 @@ Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
 **Main body** *(`MainBody`)* | XhtmlString | Provides an rich-text area for entering formatted content.
 **Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
-
+**Bottom content area** *(`BottomContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
 
 ** **
-<img src="Screenshots/Cart%20Page%20-%20Content%20tab.png?raw=true" alt="Content tab of Cart Page" width="50%"/>
+![Cart page](Screenshots/Cart%20Page%20-%20Content%20tab.png)
 
 ## Technical Information
 
@@ -23,10 +23,10 @@ Display Name *(Name in code)* | Type | Property Description
 `Commerce`
 
 ### Inherits
-[Landing Page](#)
+[FoundationPageData](Foundation%20Page%20Data.md)
 
 ### Restrictions
-* none
+The Checkout Page is not available in edit view by default. To enable it, go to Admin view > Content type > [Commerce] Checkout Page > Settings and select the Available in edit view check box.
 
 ## Preview
-<img src="Screenshots/Cart%20Page%20-%20OPE.png?raw=true" alt="Preview of Cart Page" width="100%"/>
+![Cart page](Screenshots/Cart%20Page%20-%20Preview.png)
