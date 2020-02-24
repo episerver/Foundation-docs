@@ -13,7 +13,7 @@ Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
 **Main body** *(`MainBody`)* | XhtmlString | Provides an rich-text area for entering formatted content.
 **Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
-**Number of products** *(`XXXXXX`)* | XXXXX | XXXXXXXXX
+**Number of products** *(`XXXXX`)* | Integer | Provides a numeric control for selecting the number of product to show on the Sales Rep page.
 **Number of products per page** *(`XXXXXX`)* | XXXXX | XXXXXXXXX
 **Manual inclusion** *(`XXXXXX`)* | XXXXX | XXXXXXXXX
 **Manual inclusion ordering** *(`XXXXXX`)* | XXXXX | XXXXXXXXX
