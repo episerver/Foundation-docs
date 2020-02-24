@@ -1,9 +1,9 @@
 # Subscription History Page
-"description"
+"Page for customers to view their subscription history"
 
 ![Subscription history](Screenshots/Subscription%20History%20Page%20-%20icon.png)
 
-This is a page type that...
+This page lets customers see the history of their subscription to services of their organization.
 
 
 ## Property List
@@ -24,10 +24,10 @@ Display Name *(Name in code)* | Type | Property Description
 `Commerce`
 
 ### Inherits
-[check](#)
+[FoundationPageData](Foundation%20Page%20Data.md)
 
 ### Restrictions
-* none
+The Checkout Page is not available in edit view by default. To enable it, go to Admin view > Content type > [Commerce] Checkout Page > Settings and select the **Available in edit view** check box.
 
 ## Preview
-![Subscription history](Screenshots/Subscription%20History%20Page%20-%20OPE.png)
+![Subscription history](Screenshots/Subscription%20History%20Page%20-%20Preview.png)
