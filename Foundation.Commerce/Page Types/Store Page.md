@@ -1,5 +1,6 @@
 # Store Page
 "Store locator page."
+
 ![Store](Screenshots/Store%20Page%20-%20icon.png)
 
 This page shows a Bing map with the locations of your organization's stores.
