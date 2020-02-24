@@ -16,7 +16,7 @@ Display Name *(Name in code)* | Type | Property Description
 
 ** **
 
-<img src="Screenshots/Wish%20List%20Page%20-%20Content%20tab.png?raw=true" alt="Content tab of Wish List Page" width="50%"/>
+![Wish list page](Screenshots/Wish%20List%20Page%20-%20Content%20tab.png)
 
 ## Technical Information
 
@@ -24,10 +24,10 @@ Display Name *(Name in code)* | Type | Property Description
 `Commerce`
 
 ### Inherits
-[FoundationPageData](#)
+[FoundationPageData](Foundation%20Page%20Data.md)
 
 ### Restrictions
-* none
+The Checkout Page is not available in edit view by default. To enable it, go to Admin view > Content type > [Commerce] Checkout Page > Settings and select the **Available in edit view** check box.
 
 ## Preview
-<img src="Screenshots/wishlist%20preview.png?raw=true" alt="Preview of Wish List Page" width="100%"/>
+![Wish list page](Screenshots/Wish%20List%20Page%20-%20Preview.png)
