@@ -1,7 +1,7 @@
 # Sales Page
-"description"
+"Show all items on sale."
 
-<img src="Screenshots/Sales%20Page%20-%20icon.png?raw=true" alt="Sales Page icon" width="40%" />
+![Sales](Screenshots/Sales%20Page%20-%20icon.png)
 
 This is a page type that...
 
@@ -13,9 +13,14 @@ Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
 **Main body** *(`MainBody`)* | XhtmlString | Provides an rich-text area for entering formatted content.
 **Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
+**Number of products** *(`XXXXXX`)* | XXXXX | XXXXXXXXX
+**Number of products per page** *(`XXXXXX`)* | XXXXX | XXXXXXXXX
+**Manual inclusion** *(`XXXXXX`)* | XXXXX | XXXXXXXXX
+**Manual inclusion ordering** *(`XXXXXX`)* | XXXXX | XXXXXXXXX
+**Manual exclusion** *(`XXXXXX`)* | XXXXX | XXXXXXXXX
 
 ** **
-<img src="Screenshots/Sales%20Page%20-%20Content%20tab.png?raw=true" alt="Content tab of Sales Page" width="50%"/>
+![Sales](Screenshots/Sales%20Page%20-%20Content%20tab.png)
 
 ## Technical Information
 
@@ -23,10 +28,10 @@ Display Name *(Name in code)* | Type | Property Description
 `Commerce`
 
 ### Inherits
-[check](#)
+BaseInclusionExclusionPage
 
 ### Restrictions
-* none
+This page is not available in edit view by default. To enable it, go to Admin view > Content type > [Commerce] Checkout Page > Settings and select the **Available in edit view** check box.
 
 ## Preview
-<img src="Screenshots/Sales%20Page%20-%20OPE.png?raw=true" alt="Preview of Sales Page" width="100%"/>
+![Sales](Screenshots/Sales%20Page%20-%20Preview.png)
