@@ -1,9 +1,8 @@
 # Store Page
-"description"
+"Store locator page."
+![Store](Screenshots/Store%20Page%20-%20icon.png)
 
-<img src="Screenshots/Store%20Page%20-%20icon.png?raw=true" alt="Store Page icon" width="40%" />
-
-This is a page type that...
+This page shows a Bing map with the locations of your organization's stores.
 
 
 ## Property List
@@ -15,7 +14,7 @@ Display Name *(Name in code)* | Type | Property Description
 **Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
 
 ** **
-<img src="Screenshots/Store%20Page%20-%20Content%20tab.png?raw=true" alt="Content tab of Store Page" width="50%"/>
+![Store](Screenshots/Store%20Page%20-%20Content%20tab.png)
 
 ## Technical Information
 
@@ -23,10 +22,10 @@ Display Name *(Name in code)* | Type | Property Description
 `Commerce`
 
 ### Inherits
-[check](#)
+[FoundationPageData](Foundation%20Page%20Data.md)
 
 ### Restrictions
-* none
+The Checkout Page is not available in edit view by default. To enable it, go to Admin view > Content type > [Commerce] Checkout Page > Settings and select the **Available in edit view** check box.
 
 ## Preview
-<img src="Screenshots/Store%20Page%20-%20OPE.png?raw=true" alt="Preview of Store Page" width="100%"/>
+![Store](Screenshots/Store%20Page%20-%20Preview.png)
