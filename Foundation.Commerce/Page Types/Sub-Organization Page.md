@@ -1,4 +1,4 @@
-# Sub-Organization Page
+# Sub Organization Page
 "Manage a sub organization."
 
 ![Sub Organization](Screenshots/Sub%20Organization%20Page%20-%20icon.png)
