@@ -1,7 +1,7 @@
 # Subscription History Page
 "description"
 
-<img src="Screenshots/Subscription%20History%20Page%20-%20icon.png?raw=true" alt="Subscription History icon" width="40%" />
+![Subscription history](Screenshots/Subscription%20History%20Page%20-%20icon.png)
 
 This is a page type that...
 
@@ -15,7 +15,8 @@ Display Name *(Name in code)* | Type | Property Description
 **Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
 
 ** **
-<img src="Screenshots/Subscription%20History%20Page%20-%20Content%20tab.png?raw=true" alt="Content tab of Subscription History Page" width="50%"/>
+
+![Subscription history](Screenshots/Subscription%20History%20Page%20-%20Content%20tab.png)
 
 ## Technical Information
 
@@ -29,4 +30,4 @@ Display Name *(Name in code)* | Type | Property Description
 * none
 
 ## Preview
-<img src="Screenshots/Subscription%20History%20Page%20-%20OPE.png?raw=true" alt="Preview of Subscription History Page" width="100%"/>
+![Subscription history](Screenshots/Subscription%20History%20Page%20-%20OPE.png)
