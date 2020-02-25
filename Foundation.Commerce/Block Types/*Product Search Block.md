@@ -10,10 +10,18 @@ The following property list includes properties that are unique to this content 
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
-**Main body** *(`MainBody`)* | Xhtmlstring | Allows for inserting a body text describing the RSS block content.
+**Heading** *(`Heading`)* | Xhtmlstring | Headline of the product search page.
+**Search term** *(`SearchTerm`)* | Xhtmlstring | Configure a predefined search term.
+**Number of results** *(`ResultsPerPage`)* | Integer | The number of products to show in the list. Default is 6.
+**Results per row** *(`ItemsPerRow)* | Xhtmlstring | The number of products to show in a row. Default is 3..
+**Catalog categories** *(`Nodes`)* | ContentArea | Root categories to get products from, includes sub categories.
+**Filters** *(`Filters`)* | ContentArea | Filters to apply to the search result.
+**Priority products** *(`PriorityProducts`)* | ContentArea | Products to put first in the list.
+**Minimum price** *(`MinPrice`)* | Integer | The minimum price in the current market currency.
+**Maximum price** *(`MaxPrice`)* | Integer | The maximum price in the current market currency.
 
 ** **
-![Product Search Block](Screenshots/Product%20Search%20Block%20-%20Content%20type.png)
+![Product Search Block](Screenshots/Product%20Search%20Block%20-%20Content%20tab.png)
 
 ## Technical Information
 
