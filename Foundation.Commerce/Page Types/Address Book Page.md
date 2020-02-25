@@ -7,7 +7,7 @@ This page type lets customers manage and edit their billing and shipping address
 
 
 ## Property List
-**Note**: This page type provides technical functionality and cannot be edited in the All properties view. For a list of global properties, view our [*Common Page  Properties*](./Common%20Page%20Properties.md) list.
+**Note**: This page type provides technical functionality and cannot be edited in the **All properties** view. For a list of global properties, view our [*Common Page  Properties*](./Common%20Page%20Properties.md) list.
 
 <!---Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
