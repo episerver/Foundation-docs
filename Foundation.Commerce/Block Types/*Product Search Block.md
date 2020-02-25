@@ -13,7 +13,7 @@ Display Name *(Name in code)* | Type | Property Description
 **Heading** *(`Heading`)* | Xhtmlstring | Headline of the product search page.
 **Search term** *(`SearchTerm`)* | Xhtmlstring | Configure a predefined search term.
 **Number of results** *(`ResultsPerPage`)* | Integer | The number of products to show in the list. Default is 6.
-**Results per row** *(`ItemsPerRow')* | Xhtmlstring | The number of products to show in a row. Default is 3..
+**Results per row** *(`ItemsPerRow`)* | Xhtmlstring | The number of products to show in a row. Default is 3..
 **Catalog categories** *(`Nodes`)* | ContentArea | Root categories to get products from, includes sub categories.
 **Filters** *(`Filters`)* | ContentArea | Filters to apply to the search result.
 **Priority products** *(`PriorityProducts`)* | ContentArea | Products to put first in the list.
