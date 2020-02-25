@@ -10,7 +10,6 @@ The **Main body** in the Content tab cannot be edited in the **All properties** 
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
-<!--**Main body** *(`MainBody`)* | XhtmlString | Provides an rich-text area for entering formatted content.-->
 **Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
 **Bottom content area** *(`BottomContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
 
