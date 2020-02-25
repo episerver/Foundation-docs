@@ -10,7 +10,7 @@ The following property list includes properties that are unique to this content 
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
-**Main body** *(`MainBody`)* | Xhtmlstring | Allows for inserting a body text describing the RSS block content.
+**Main body** *(`MainBody`)* | Xhtmlstring | Allows for inserting a body text describing the Order Histroy Block content.
 
 ** **
 ![Order History Block](Screenshots/Order%20History%20Block%20-%20Content%20tab.png)
