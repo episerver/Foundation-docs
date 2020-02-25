@@ -3,7 +3,7 @@
 
 ![Quick Order Block](Screenshots/Quick%20Order%20Block%20-%20icon.png)
 
-A *Block Type* designed to display a customer's order history.
+A *Block Type* designed to provide a quick and convinient way to order products.
 
 ## Property List
 The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](./Common%20Page%20Properties.md) list.
