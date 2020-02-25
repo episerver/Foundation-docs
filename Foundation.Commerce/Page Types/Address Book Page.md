@@ -9,16 +9,18 @@ This page type lets customers manage and edit their billing and shipping address
 ## Property List
 **Note**: This page type provides mainly technical functionality and cannot be edited in the **All properties** view. For a list of global properties, view our [*Common Page  Properties*](./Common%20Page%20Properties.md) list.
 
-<!---Display Name *(Name in code)* | Type | Property Description
+<!--Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
 **Main body** *(`MainBody`)* | XhtmlString | Provides an rich-text area for entering formatted content.
 **Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
 **MetaContentType** *(`Content Type`)* | LongString(>255) | Available in the Metadata tab
 **Industry** *(`Industry`)* | LongString(>255) | Available in the Metadata tab
 **AuthorMetaData** *(`Author`)* | LongString(>255) | Available in the Metadata tab
---->
+-->
 
 ** **
+
+<!--![Address book page](Screenshots/Address%20Book%20Page%20-%20Content%20tab.png)-->
 
 ## Technical Information
 
