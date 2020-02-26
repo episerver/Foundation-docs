@@ -1,7 +1,7 @@
 # Sales Rep Page
 "Page for sales rep to be able to manage their accounts."
 
-![Sales](Screenshots/Sales%20Rep%20Page%20-%20icon.png)
+![Sales Rep](Screenshots/Sales%20Rep%20Page%20-%20icon.png)
 
 This page type enables sales representatives to manage and edit their accounts.
 
@@ -15,7 +15,7 @@ This page type enables sales representatives to manage and edit their accounts.
 **Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.-->
 
 ** **
-<!--![Sales](Screenshots/Sales%20Rep%20Page%20-%20Content%20tab.png)-->
+<!--![Sales Rep](Screenshots/Sales%20Rep%20Page%20-%20Content%20tab.png)-->
 
 ## Technical Information
 
@@ -29,5 +29,5 @@ This page type enables sales representatives to manage and edit their accounts.
 This page is not available in edit view by default. To enable it, go to Admin view > Content type > [Commerce] Checkout Page > Settings and select the **Available in edit view** check box.
 
 ## Preview
-![Sales](Screenshots/Sales%20Rep%20Page%20-%20Preview.png)
+![Sales Rep](Screenshots/Sales%20Rep%20Page%20-%20Preview.png)
 
