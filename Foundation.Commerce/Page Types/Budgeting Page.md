@@ -7,7 +7,7 @@ This page lets you view, edit and manage budgets for your organization.
 
 
 ## Property List
-This page type provides mainly technical functionality and cannot be edited in the **On-page editing** view. For a list of global properties, view our [*Common Page  Properties*](./Common%20Page%20Properties.md) list.
+This page type cannot be edited in the **On-page editing** view. For a list of global properties, view our [*Common Page  Properties*](./Common%20Page%20Properties.md) list.
 
 <!--Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
