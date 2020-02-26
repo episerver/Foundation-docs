@@ -26,7 +26,7 @@ This page shows a Bing map with the locations of your organization's stores.
 [FoundationPageData](Foundation%20Page%20Data.md)
 
 ### Restrictions
-The Checkout Page is not available in edit view by default. To enable it, go to Admin view > Content type > [Commerce] Checkout Page > Settings and select the **Available in edit view** check box.
+The Store Page is not available in edit view by default. To enable it, go to Admin view > Content type > [Commerce] Checkout Page > Settings and select the **Available in edit view** check box.
 
 ## Preview
 ![Store](Screenshots/Store%20Page%20-%20Preview.png)
