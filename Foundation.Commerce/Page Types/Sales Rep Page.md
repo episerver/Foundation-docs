@@ -23,7 +23,7 @@ This page type enables sales representatives to manage and edit their accounts.
 `Commerce`
 
 ### Inherits
-BaseInclusionExclusionPage
+[FoundationPageData](Foundation%20Page%20Data.md)
 
 ### Restrictions
 This page is not available in edit view by default. To enable it, go to Admin view > Content type > [Commerce] Checkout Page > Settings and select the **Available in edit view** check box.
