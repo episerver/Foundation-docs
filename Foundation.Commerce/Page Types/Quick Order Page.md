@@ -29,4 +29,4 @@ This page type enables customers to order items quick and simple.
 The Quick Order Page is not available in edit view by default. To enable it, go to Admin view > Content type > [Commerce] Checkout Page > Settings and select the **Available in edit view** check box.
 
 ## Preview
-![Quick order](Screenshots/Quick%20Order%20Page%20-%20Preview.png
+![Quick order](Screenshots/Quick%20Order%20Page%20-%20Preview.png)
