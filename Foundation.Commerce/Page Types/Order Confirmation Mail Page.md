@@ -26,7 +26,7 @@ A mail page that confirms an order by providing an overview of all ordered items
 MailBasePage
 
 ### Restrictions
-The Checkout Page is not available in edit view by default. To enable it, go to Admin view > Content type > [Commerce] Checkout Page > Settings and select the **Available in edit view** check box.
+The Order Confirmation Mail Page is not available in edit view by default. To enable it, go to Admin view > Content type > [Commerce] Checkout Page > Settings and select the **Available in edit view** check box.
 
 ## Preview
 ![Order confirmation mail](Screenshots/Order%20Confirmation%20Mail%20Page%20-%20Preview.png)
