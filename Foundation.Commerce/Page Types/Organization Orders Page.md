@@ -1,5 +1,5 @@
 # Organization Orders Page
-"Page to manage an organizations's orders."
+"Page to manage an organizations' orders."
 
 ![Organization orders](Screenshots/Organization%20Orders%20Page%20-%20icon.png)
 
