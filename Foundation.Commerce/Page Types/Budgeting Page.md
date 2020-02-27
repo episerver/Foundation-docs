@@ -7,14 +7,13 @@ This page lets you view, edit and manage budgets for your organization.
 
 
 ## Property List
-**Note**: This page type cannot be edited in the **On-page editing** view. 
->The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](../../Common%20Page%20Properties.md) list.
+**Note**: This page is not editable. 
+<!--The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](../../Common%20Page%20Properties.md) list.-->
 
-Display Name *(Name in code)* | Type | Property Description
+<!--Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
 **Main body** *(`MainBody`)* | XhtmlString | Provides an rich-text area for entering formatted content.
-**Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
-
+**Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.-->
 
 ** **
 <!--![Budgeting Page](Screenshots/Budgeting%20Page%20-%20Content%20tab.png)-->
