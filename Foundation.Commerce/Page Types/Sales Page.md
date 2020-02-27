@@ -3,7 +3,7 @@
 
 ![Sales](Screenshots/Sales%20Page%20-%20icon.png)
 
-This is a page type that...
+This page type shows all items that are on sale. You can define the number of products and which products are to be included or excluded. 
 
 
 ## Property List
