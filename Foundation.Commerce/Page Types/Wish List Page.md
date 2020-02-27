@@ -7,12 +7,12 @@ This page type lets customers manage their wish list.
 
 
 ## Property List
-The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](./Common%20Page%20Properties.md) list.
+**Note**: The **Main content area** in the Content tab cannot be edited in the **All properties** view.<!--The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](./Common%20Page%20Properties.md) list.-->
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
 **Main body** *(`MainBody`)* | XhtmlString | Provides a rich-text area for entering formatted content.
-**Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
+<!--**Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.-->
 
 ** **
 
