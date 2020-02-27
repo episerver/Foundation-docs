@@ -13,11 +13,11 @@ Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
 **Main body** *(`MainBody`)* | XhtmlString | Provides an rich-text area for entering formatted content.
 **Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
-**Number of products** *(`XXXXXX`)* | XXXXX | XXXXXXXXX
-**Number of products per page** *(`XXXXXX`)* | XXXXX | XXXXXXXXX
-**Manual inclusion** *(`XXXXXX`)* | XXXXX | XXXXXXXXX
-**Manual inclusion ordering** *(`XXXXXX`)* | XXXXX | XXXXXXXXX
-**Manual exclusion** *(`XXXXXX`)* | XXXXX | XXXXXXXXX
+**Number of products** *(`NumberOfProducts`)* | Integer | Number of displayed products.
+**Number of products per page** *(`PageSize`)* | Integer | Number of displayed products per page.
+**Manual inclusion** *(`ManualInclusion`)* | IList<ContentReference> | Gets or sets the list of included catalog items (catalogs, categories or entries).
+**Manual inclusion ordering** *(`ManualInclusionOrdering`)* | String | The manual inclusion products based on the Manual Inclusion Ordering.
+**Manual exclusion** *(`ManualExclusion`)* | IList<ContentReference>  | Gets or sets the list of excluded catalog items (catalogs, categories or entries).
 
 ** **
 ![Sales](Screenshots/Sales%20Page%20-%20Content%20tab.png)
