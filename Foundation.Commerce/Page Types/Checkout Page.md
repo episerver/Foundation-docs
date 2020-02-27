@@ -6,7 +6,7 @@
 The Checkout Page shows all items in the customer's shopping cart. It contains detailed information such as price, coupon code, delivery and payment options.
 
 ## Property List
-**Note**: This page type cannot be edited in the **All properties** view. <!--The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](./Common%20Page%20Properties.md) list.-->
+**Note**: This page type cannot be edited in the **All properties** view. <!--The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](../../Common%20Page%20Properties.md) list.-->
 
 <!--Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
@@ -24,7 +24,7 @@ The Checkout Page shows all items in the customer's shopping cart. It contains d
 `Commerce`
 
 ### Inherits
-[FoundationPageData](Foundation%20Page%20Data.md)
+[FoundationPageData](../../Foundation.Cms/Page%20Types/Foundation%20Page%20Data.md)
 
 ### Restrictions
 The Checkout Page is not available in edit view by default. To enable it, go to Admin view > Content type > [Commerce] Checkout Page > Settings and select the **Available in edit view** check box.
