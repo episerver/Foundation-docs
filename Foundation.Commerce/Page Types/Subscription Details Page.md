@@ -7,7 +7,7 @@ This page type lets customers see details about the subscription models they app
 
 
 ## Property List
-**Note**: This page might not be editable in its present state.<!--The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](../../Common%20Page%20Properties.md) list.-->
+**Note**: This page type's content is currently not editable.<!--The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](../../Common%20Page%20Properties.md) list.-->
 
 <!--Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
