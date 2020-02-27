@@ -28,7 +28,7 @@ This page type lets customers manage and edit their billing and shipping address
 `Commerce`
 
 ### Inherits
-[FoundationPageData](../blob/master/Foundation.Cms/Page%20Types/Foundation%20Page%20Data.md)
+[FoundationPageData](../../Foundation.Cms/Page%20Types/Foundation%20Page%20Data.md)
 
 ### Restrictions
 The Address book Page is not available in edit view by default. To enable it, go to Admin view > Content type > [Commerce] Checkout Page > Settings and select the **Available in edit view** check box.
