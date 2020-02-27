@@ -7,7 +7,7 @@ A page that provides an overview over the ordered items.
 
 
 ## Property List
-**Note**: This page type is not editable.<!--The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](../../Common%20Page%20Properties.md) list.-->
+**Note**: This page type is currently not editable.<!--The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](../../Common%20Page%20Properties.md) list.-->
 
 <!--Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
