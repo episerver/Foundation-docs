@@ -7,7 +7,7 @@ This page lets you view, edit and manage budgets for your organization.
 
 
 ## Property List
-**Note**: This page is not editable. 
+**Note**: This page type is not editable. 
 <!--The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](../../Common%20Page%20Properties.md) list.-->
 
 <!--Display Name *(Name in code)* | Type | Property Description
