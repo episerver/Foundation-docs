@@ -29,4 +29,4 @@ This page type lets members of your organization manage their profiles.
 The Checkout Page is not available in edit view by default. To enable it, go to Admin view > Content type > [Commerce] Checkout Page > Settings and select the **Available in edit view** check box.
 
 ## Preview
-![Users](Screenshots/Users%20Page%20-%20OPE.png)
+![Users](Screenshots/Users%20Page%20-%Preview.png)
