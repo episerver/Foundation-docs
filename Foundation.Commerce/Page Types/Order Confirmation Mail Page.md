@@ -7,7 +7,7 @@ A mail page that confirms an order by providing an overview of all ordered items
 
 
 ## Property List
-**Note**: This page type cannot be edited in the **All properties** view.<!--The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](./Common%20Page%20Properties.md) list.-->
+**Note**: This page type cannot be edited in the **All properties** view.<!--The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](../../Common%20Page%20Properties.md) list.-->
 
 <!--Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
