@@ -6,7 +6,7 @@
 The cart page lets customers view and edit their shopping cart. You can add blocks or images to make the page more appealing or to improve the user experience.
 
 ## Property List
-**Note**: The **Main body** in the Content tab cannot be edited in the **All properties** view. For a list of global properties, view our [*Common Page  Properties*](./Common%20Page%20Properties.md) list.
+**Note**: The **Main body** in the Content tab cannot be edited in the **All properties** view. For a list of global properties, view our [*Common Page  Properties*](../../Common%20Page%20Properties.md) list.
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
@@ -22,7 +22,7 @@ Display Name *(Name in code)* | Type | Property Description
 `Commerce`
 
 ### Inherits
-[FoundationPageData](Foundation%20Page%20Data.md)
+[FoundationPageData](../../Foundation.Cms/Page%20Types/Foundation%20Page%20Data.md)
 
 ### Restrictions
 The Cart Page is not available in edit view by default. To enable it, go to Admin view > Content type > [Commerce] Checkout Page > Settings and select the Available in edit view check box.
