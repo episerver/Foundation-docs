@@ -30,4 +30,4 @@ This page lets you view, edit and manage budgets for your organization.
 The Budgeting Page is not available in edit view by default. To enable it, go to Admin view > Content type > [Commerce] Checkout Page > Settings and select the **Available in edit view** check box.
 
 ## Preview
-![Budegting Page](Screenshots/Budgeting%20Page%20-%20OPE.png)
+![Budgeting Page](Screenshots/Budgeting%20Page%20-%20OPE.png)
