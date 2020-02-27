@@ -24,7 +24,7 @@ Display Name *(Name in code)* | Type | Property Description
 `Commerce`
 
 ### Inherits
-[FoundationPageData](Foundation%20Page%20Data.md)
+[FoundationPageData](https://github.com/episerver/Foundation-docs/blob/master/Foundation.Cms/Page%20Types/Foundation%20Page%20Data.md)
 
 ### Restrictions
 The Checkout Page is not available in edit view by default. To enable it, go to Admin view > Content type > [Commerce] Checkout Page > Settings and select the **Available in edit view** check box.
