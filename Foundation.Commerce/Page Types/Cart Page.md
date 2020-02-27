@@ -6,7 +6,7 @@
 The cart page lets customers view and edit their shopping cart. You can add blocks or images to make the page more appealing or to improve the user experience.
 
 ## Property List
-**Note**: The **Main body** in the Content tab cannot be edited in the **All properties** view. For a list of global properties, view our [*Common Page  Properties*](../../Common%20Page%20Properties.md) list.
+**Note**: The **Main body** in the Content tab is currently not editable in the **All properties** view. For a list of global properties, view our [*Common Page  Properties*](../../Common%20Page%20Properties.md) list.
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
