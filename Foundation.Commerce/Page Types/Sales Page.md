@@ -3,11 +3,11 @@
 
 ![Sales](Screenshots/Sales%20Page%20-%20icon.png)
 
-This page type shows all items that are on sale. You can define the number of products and which products are to be included or excluded. 
+This page type shows all items on sale. You can define the number of products and which products are to be included or excluded. 
 
 
 ## Property List
-The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](./Common%20Page%20Properties.md) list.
+The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](../../Common%20Page%20Properties.md) list.
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
