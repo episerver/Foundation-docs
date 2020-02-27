@@ -7,7 +7,7 @@ This page shows a Bing map with the locations of your organization's stores.
 
 
 ## Property List
-**Note**: This page type cannot be edited in the **All properties** view.<!--The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](../../Common%20Page%20Properties.md) list.-->
+**Note**: This page type's content is currently not editable.<!--The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](../../Common%20Page%20Properties.md) list.-->
 
 <!--Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
