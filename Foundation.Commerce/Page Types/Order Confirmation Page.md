@@ -7,7 +7,7 @@ A page that shows up when customers check out from their account.
 
 
 ## Property List
-**Note**: This page type's content is currently not editable.<!--The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](../../Common%20Page%20Properties.md) list.-->
+**Note**: This page type's content is currently not editable in the **All properties** view.<!--The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](../../Common%20Page%20Properties.md) list.-->
 
 <!--Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
