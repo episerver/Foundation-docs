@@ -8,7 +8,7 @@ This is a page type that allows for creating a listing of products marked as "Ne
 <img src="Screenshots/Product%20-%20Content%20tab%20-%20New%20arrival.png?raw=true" alt="New Products Page icon" width="30%" />
 
 ## Property List
-The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](./Common%20Page%20Properties.md) list.
+The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](../../Common%20Page%20Properties.md) list.
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
