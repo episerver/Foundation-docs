@@ -11,7 +11,7 @@ A page that shows up when customers check out from their account.
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
-**Title** *(`Title`)* | String | Provides a text area for entering a title.
+**Title** *(`Title`)* | String | Provides a text field for entering a title.
 **Body text** *(`Body`)* | XhtmlString | Provides an rich-text area for entering formatted content.
 **Main body** *(`MainBody`)* | XhtmlString | Provides an rich-text area for entering formatted content.
 **Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
