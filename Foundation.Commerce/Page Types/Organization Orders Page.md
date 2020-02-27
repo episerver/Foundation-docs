@@ -6,7 +6,7 @@
 This is a page type that allows for managing all orders of an organization. It pulls together the individual orders of all persons belonging to this organization.
 
 ## Property List
-The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](./Common%20Page%20Properties.md) list.
+The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](../../Common%20Page%20Properties.md) list.
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
@@ -22,7 +22,7 @@ Display Name *(Name in code)* | Type | Property Description
 `Commerce`
 
 ### Inherits
-[FoundationPageData](Foundation%20Page%20Data.md), IDisableOPE
+[FoundationPageData](../../Foundation.Cms/Page%20Types/Foundation%20Page%20Data.md), IDisableOPE
 
 ### Restrictions
 The Organization Orders Page is not available in edit view by default. To enable it, go to Admin view > Content type > [Commerce] Checkout Page > Settings and select the **Available in edit view** check box.
