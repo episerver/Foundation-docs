@@ -7,7 +7,7 @@ This page type lets customers manage their wish list.
 
 
 ## Property List
-**Note**: The **Main content area** in the Content tab cannot be edited in the **All properties** view.<!--The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](./Common%20Page%20Properties.md) list.-->
+**Note**: The **Main content area** in the Content tab is currently not editable in the **All properties** view.<!--The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](../../Common%20Page%20Properties.md) list.-->
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
@@ -24,7 +24,7 @@ Display Name *(Name in code)* | Type | Property Description
 `Commerce`
 
 ### Inherits
-[FoundationPageData](https://github.com/episerver/Foundation-docs/blob/master/Foundation.Cms/Page%20Types/Foundation%20Page%20Data.md)
+[FoundationPageData](../../Foundation.Cms/Page%20Types/Foundation%20Page%20Data.md)
 
 ### Restrictions
 The Checkout Page is not available in edit view by default. To enable it, go to Admin view > Content type > [Commerce] Checkout Page > Settings and select the **Available in edit view** check box.
