@@ -31,7 +31,7 @@ Display Name *(Name in code)* | Type | Property Description
 BaseInclusionExclusionPage
 
 ### Restrictions
-This page is not available in edit view by default. To enable it, go to Admin view > Content type > [Commerce] Checkout Page > Settings and select the **Available in edit view** check box.
+* none
 
 ## Preview
 ![Sales](Screenshots/Sales%20Page%20-%20Preview.png)
