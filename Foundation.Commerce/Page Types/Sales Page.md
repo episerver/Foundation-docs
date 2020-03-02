@@ -3,7 +3,7 @@
 
 ![Sales](Screenshots/Sales%20Page%20-%20icon.png)
 
-This page type shows all items on sale. You can define the number of products and which products are to be included or excluded. 
+This page type shows all items on sale. You can define the overall number of products, the number of products to be displayed per page, the products to be included or excluded and your product's order. 
 
 
 ## Property List
@@ -15,6 +15,7 @@ Display Name *(Name in code)* | Type | Property Description
 **Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
 **Number of products** *(`NumberOfProducts`)* | Integer | Number of displayed products.
 **Number of products per page** *(`PageSize`)* | Integer | Number of displayed products per page.
+**Allow paging** *(`AllowPaging`)* | Selected/not selected | Select to allow products to be displayed over multiple pages.
 **Manual inclusion** *(`ManualInclusion`)* | ContentReferenceList | Gets or sets the list of included catalog items (catalogs, categories or entries).
 **Manual inclusion ordering** *(`ManualInclusionOrdering`)* | String | The manual inclusion products based on the Manual Inclusion Ordering.
 **Manual exclusion** *(`ManualExclusion`)* | ContentReferenceList | Gets or sets the list of excluded catalog items (catalogs, categories or entries).
