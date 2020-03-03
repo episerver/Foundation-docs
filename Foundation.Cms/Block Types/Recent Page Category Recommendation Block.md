@@ -1,26 +1,27 @@
 # Recent Page Category Recommendation Block.
-"Displays Twitter feed block"
+"No description available"
 
 ![Recent Page Category Recommendation Block](Screenshots/Recent%20Page%20Category%20Recommendation%20Block%20-%20icon.png)
 
 
-A *Block Type* designed to embed a Twitter feed.
+A *Block Type* designed to recommend recent page categories.
 
 ## Property List
 The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](./Common%20Page%20Properties.md) list.
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
-**Account name** *(`AccountName`)* | String | Provides an area for name of the Twitter account to be embedded. 
-**Number of items** *(`NumberOfItems`)* | Integer | Provides a numeric control for selecting the number of tweets to show on the Twitter Feed block.
+**Number of recommendations** *(`NumberOfRecommendations`)* | String | Provides an area for name of the Twitter account to be embedded. 
+**Filter root** *(`FilterRoot`)* | ContentReference | Select a root file for the filter.
+**Filter types** *(`FilterTypes`)* | String | Select one or multiple check boxes to add a page type to the Recent Page Category Recommendation Block
 
 ** **
-![Twitter Feed Block - Content tab](Screenshots/Twitter%20Feed%20Block%20-%20Content%20tab.png)
+![Recent Page Category Recommendation Block - Content tab](Screenshots/Recent%20Page%20Category%20Recommendation%20Block%20-%20Content%20tab.png)
 
 ## Technical Information
 
 ### Category
-`Social media`
+`Personalization`
 
 ### Inherits
 [FoundationBlockData](#)
@@ -29,5 +30,5 @@ Display Name *(Name in code)* | Type | Property Description
 None
 
 ## Preview
-![Twitter feed block](Screenshots/Twitter%20Feed%20Block%20-%20Preview.png)
+![Recent Page Category Recommendation Block](Screenshots/Recent%20Page%20Category%20Recommendation%20Block%20-%20Preview.png)
 
