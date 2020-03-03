@@ -1,4 +1,4 @@
-# Recent Page Category Recommendation Block.
+# Recent Page Category Recommendation Block
 "No description available"
 
 ![Recent Page Category Recommendation Block](Screenshots/Recent%20Page%20Category%20Recommendation%20Block%20-%20icon.png)
