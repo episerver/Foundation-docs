@@ -12,13 +12,14 @@ The following property list includes properties that are unique to this content 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
 **Main body** *(`MainBody`)* | XhtmlString | Provides an rich-text area for entering formatted content.
-**Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
-**Number of products** *(`NumberOfProducts`)* | Integer | Number of displayed products.
-**Number of products per page** *(`PageSize`)* | Integer | Number of displayed products per page.
-**Allow paging** *(`AllowPaging`)* | Selected/not selected | Select to allow products to be displayed over multiple pages.
-**Manual inclusion** *(`ManualInclusion`)* | ContentReferenceList | Gets or sets the list of included catalog items (catalogs, categories or entries).
-**Manual inclusion ordering** *(`ManualInclusionOrdering`)* | String | The manual inclusion products based on the Manual Inclusion Ordering.
-**Manual exclusion** *(`ManualExclusion`)* | ContentReferenceList | Gets or sets the list of excluded catalog items (catalogs, categories or entries).
+**Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable, drag-and-drop interface for placing media, blocks, or other content on the page.
+**Number of products** *(`NumberOfProducts`)* | Integer | Determines the maximum number of products to show in the list.
+**Number of products per page** *(`PageSize`)* | Integer | Determines the maximum number of products to show per page.
+**Allow paging** *(`AllowPaging`)* | Boolean | If true, adds, if necessary, paging controls to browse products on the page. The paging functionality is used if the value of *Number of products per page* property is less than the value of *Number of products*, and the number of products to show exceeds the *Number of products per page*.
+**Manual inclusion** *(`ManualInclusion`)* | ContentReferenceList | Allows for the manual inclusion of products or product categories in the listing.
+**Manual inclusion ordering** *(`ManualInclusionOrdering`)* | String | Controls where in the list of products the manually included products appear. The options are **Beginning**, **End** and **Random**.
+**Manual exclusion** *(`ManualExclusion`)* | ContentReferenceList | Allows for the manual exclusion of products or product categories from the listing.
+
 
 ** **
 ![Sales](Screenshots/Sales%20Page%20-%20Content%20tab.png)
