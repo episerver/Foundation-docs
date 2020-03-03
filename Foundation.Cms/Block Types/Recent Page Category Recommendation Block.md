@@ -11,9 +11,9 @@ The following property list includes properties that are unique to this content 
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
-**Number of recommendations** *(`NumberOfRecommendations`)* | String | Provides an area for name of the Twitter account to be embedded. 
+**Number of recommendations** *(`NumberOfRecommendations`)* | Integer | Enter the number of displayed recommendations.
 **Filter root** *(`FilterRoot`)* | ContentReference | Select a root file for the filter.
-**Filter types** *(`FilterTypes`)* | String | Select one or multiple check boxes to add a page type to the Recent Page Category Recommendation Block
+**Filter types** *(`FilterTypes`)* | String | Select one or multiple check boxes to add a page type to the Recent Page Category Recommendation Block.
 
 ** **
 ![Recent Page Category Recommendation Block - Content tab](Screenshots/Recent%20Page%20Category%20Recommendation%20Block%20-%20Content%20tab.png)
