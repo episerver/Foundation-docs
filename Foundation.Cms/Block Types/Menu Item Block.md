@@ -17,7 +17,7 @@ Display Name *(Name in code)* | Type | Property Description
 **Label** *(`ButtonText`)* | String | Enter a name for a clickable button.
 **Button link** *(`ButtonLink`)* | Url | Select a page, category, media, catalog content, marketing content, an email address or an external link and the remaining URL the user will be forwarded to when clicking on the button.
 **Main category text** *(`MainCategoryText`)* | String | Enter a headline of the link group that is part of a submenu.
-**Category links** *(`ListCategories`)* | LinkItemCollection | Select a link, the link title and the item the link is linking to. You can enter multiple link to create a link list that is part of the submenu.
+**Category links** *(`ListCategories`)* | LinkItemCollection | Select a link, the link title and the item the link is linking to. You can enter multiple links to create a link list as part of the submenu.
 
 ** **
 ![Menu Item Block - Content tab](Screenshots/Menu%20Item%20Block%20-%20Content%20tab.png)
