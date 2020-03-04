@@ -28,7 +28,7 @@ Display Name *(Name in code)* | Type | Property Description
 ## Technical Information
 
 ### Category
-`Personalization`
+`Content`
 
 ### Inherits
 [FoundationBlockData](#)
