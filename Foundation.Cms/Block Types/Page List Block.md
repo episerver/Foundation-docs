@@ -1,10 +1,10 @@
 # Page List Block
-"A block that lists a bunch of pages"
+"A block that lists a bunch of pages."
 
 ![Page List Block](Screenshots/Page%20List%20Block%20-%20icon.png)
 
 
-A *Block Type* designed to list multiple pages
+A *Block Type* designed to list multiple pages.
 
 ## Property List
 The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](../../Common%20Page%20Properties.md) list.
