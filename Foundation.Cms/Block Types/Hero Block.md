@@ -3,7 +3,7 @@
 
 ![Hero Block](Screenshots/Hero%20Block%20-%20icon.png)
 
-A *Block Type* designed to display content of a Linkedin feed.
+A *Block Type* designed to display an image with an overlaying text.
 
 ## Property List
 The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](../../Common%20Page%20Properties.md) list.
