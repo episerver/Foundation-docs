@@ -15,12 +15,12 @@ Display Name *(Name in code)* | Type | Property Description
 **Root page** *(`RootPage`)* | PageReference | Select the page the navigation is linked to.
 
 ** **
-![Page List Block - Content tab](Screenshots/Navigation%20Block%20-%20Content%20tab.png)
+![Navigation Block - Content tab](Screenshots/Navigation%20Block%20-%20Content%20tab.png)
 
 ## Technical Information
 
 ### Category
-`Personalization`
+`Content`
 
 ### Inherits
 [FoundationBlockData](#)
@@ -29,4 +29,4 @@ Display Name *(Name in code)* | Type | Property Description
 None
 
 ## Preview
-![Page List Block - Preview](Screenshots/Navigation%20Block%20-%20Preview.png)
+![Navigation Block - Preview](Screenshots/Navigation%20Block%20-%20Preview.png)
