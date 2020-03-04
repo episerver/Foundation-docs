@@ -12,7 +12,7 @@ The following property list includes properties that are unique to this content 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
 **Heading** *(`Heading`)* | String | Enter a headline for the navigation block.
-**Root page** *(`RootPage`)* | PageReference | Enter the page that serves as a starting point for the navigation.
+**Root page** *(`RootPage`)* | PageReference | Select the page the navigation is linked to.
 
 ** **
 ![Page List Block - Content tab](Screenshots/Navigation%20Block%20-%20Content%20tab.png)
