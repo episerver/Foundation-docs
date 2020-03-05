@@ -3,7 +3,7 @@
 
 ![Facebook Feed Block](Screenshots/Facebook%20Feed%20Block%20-%20icon.png)
 
-A *Block Type* designed to display content prominently on your website. You can use a predefined icon along with rich text.
+A *Block Type* designed to embed a Facebook feed.
 
 ## Property List
 The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](../../Common%20Page%20Properties.md) list.
