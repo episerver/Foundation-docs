@@ -10,7 +10,7 @@ The following property list includes properties that are unique to this content 
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
-**Account name** *(`AccountName`)* | String | Enter the name of the Linkedin account to be displayed.
+**Account name** *(`AccountName`)* | String | Provides an area for name of the Linkedin account to be embedded.
 
 
 ** **
