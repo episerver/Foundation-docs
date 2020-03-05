@@ -1,7 +1,7 @@
 # Facebook Feed Block
 "Display content from a Facebook feed."
 
-![Facebook Feed Block](Screenshots/Feature%20Box%20Block%20-%20icon.png)
+![Facebook Feed Block](Screenshots/Facebook%20Feed%20Block%20-%20icon.png)
 
 A *Block Type* designed to display content prominently on your website. You can use a predefined icon along with rich text.
 
@@ -13,12 +13,12 @@ Display Name *(Name in code)* | Type | Property Description
 **Account name** *(`AccountName`)* | String | Provides an area for name of the Twitter account to be embedded.
 
 ** **
-![Facebook Feed Block - Content tab](Screenshots/Feature%20Box%20Block%20-%20Content%20tab.png)
+![Facebook Feed Block - Content tab](Screenshots/Facebook%20Feed%20Block%20-%20Content%20tab.png)
 
 ## Technical Information
 
 ### Category
-`Other Block Types`
+`Social Media`
 
 ### Inherits
 [FoundationBlockData](#)
@@ -27,4 +27,4 @@ Display Name *(Name in code)* | Type | Property Description
 None
 
 ## Preview
-![Facebook Feed Block - Preview](Screenshots/Feature%20Box%20Block%20-%20Preview.png)
+![Facebook Feed Block - Preview](Screenshots/Facebook%20Feed%20Block%20-%20Preview.png)
