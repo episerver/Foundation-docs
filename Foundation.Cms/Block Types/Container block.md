@@ -1,5 +1,5 @@
 # Container Block
-"Allow to style individual blocks, as well as groups of blocks."
+"Allows to style individual blocks, as well as groups of blocks."
 
 ![Container Block](Screenshots/Container%20Block%20-%20icon.png)
 
