@@ -3,7 +3,7 @@
 
 ![Container Block](Screenshots/Container%20Block%20-%20icon.png)
 
-A *Block Type* designed to group several blocks into one single block.
+A *Block Type* designed to group several blocks in one block.
 
 ## Property List
 The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](../../Common%20Page%20Properties.md) list.
