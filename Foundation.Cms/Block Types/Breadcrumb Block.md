@@ -11,7 +11,7 @@ The following property list includes properties that are unique to this content 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
 **Destination page** *(`DestinationPage`)* | PageReference | Select the page the breadcrumb navigation references to on the lowest level.
-**Breadcrumb separator** *(`Separator`)* | String | Select a seperator that seperates the page references, that are *Single arrow*, *Forward slash*, *Backward slash*, *Double arrow*, *Pipe* and *Pipe*
+**Breadcrumb separator** *(`Separator`)* | String | Select a seperator that seperates the page references, that are *Single arrow*, *Forward slash*, *Backward slash*, *Double arrow* or two sorts of *Pipe*.
 **Alignment option** *(`Alignment`)* | String | Select where to place the breadcrumb navigation: *Left*, *Right* or *Center*. 
 
 
