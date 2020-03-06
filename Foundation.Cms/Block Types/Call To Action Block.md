@@ -10,10 +10,11 @@ The following property list includes properties that are unique to this content 
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
-**Title** *(`XXXXXXXXX`)* | XXXX | XXXXXXXXXXXXXXXXXXXX
-**Subtext** *(`XXXXXXXXX`)* | XXX | XXXXXXXXXXXXXXXXXXXXXXXXXX
-**Text color** *(`XXXXXXX`)* | XXX | XXXXXXXXXXXXXXXXXXXXXXXXXX
-**Background image**(`XXXXXXXXXX`)* | XXX | XXXXXXXXXXXXXXXXXXXXXXXXXX
+**Title** *(`Title`)* | String | Enter the title that is to be displayed prominently.
+**Subtext** *(`Subtext`)* | xhtmlString | Enter a subtitle.
+**Text color** *(`TextColor`)* | String | Enter a color in hexadecimal code, e.g. #FFFFFF for white.
+**Background image**(`BackgroundImage`)* | ContentReference | Select an image that is to be displayed as backround of the Call To Action Block.
+**Choose image style to fit the block** *(`BackgroundImageSetting`)* | ContentReference | Enter an image style.
 **Categories** *(`XXXXXXXXX`)* | XXX | XXXXXXXXXXXXXXXXXXXXXXXXXX
 **Label** *(`XXXXXXXX`)* | XXX | XXXXXXXXXXXXXXXXXXXXXXXXXX
 **Style** *(`XXXXXXXXX`)* | XXX | XXXXXXXXXXXXXXXXXXXXXXXXXX
