@@ -1,7 +1,7 @@
-# Blog Post Block
+# Blog Comment Block
 "Configures the frontend view properties of a blog comment block."
 
-![Blog Post Block](Screenshots/Blog%20Post%20Block%20-%20icon.png)
+![Blog Post Block](Screenshots/Blog%20Comment%20Block%20-%20icon.png)
 
 A *Block Type* designed to display a blog comment section.
 
@@ -17,7 +17,7 @@ Display Name *(Name in code)* | Type | Property Description
 **Padding left** *(`PaddingLeft`)* | Integer | Define the space to the left.
 
 ** **
-![Blog Post Block - Content tab](Screenshots/Blog%20Post%20Block%20-%20Content%20tab.png)
+![Blog Post Block - Content tab](Screenshots/Blog%20Comment%20Block%20-%20Content%20tab.png)
 
 ## Technical Information
 
@@ -31,4 +31,4 @@ Display Name *(Name in code)* | Type | Property Description
 None
 
 ## Preview
-![Blog Post Block - Preview](Screenshots/Blog%20Post%20Block%20-%20Preview.png)
+![Blog Post Block - Preview](Screenshots/Blog%20Comment%20Block%20-%20Preview.png)
