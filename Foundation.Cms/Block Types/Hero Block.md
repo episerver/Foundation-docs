@@ -20,11 +20,8 @@ Display Name *(Name in code)* | Type | Property Description
 **Background color** *(`BackgroundColor`)* | String | Enter a HTML color name of the content text's background banner, for example *darkorange*. 
 **Background opacity (0 to 1)** *(`CalloutOpacity`)* | Double | Enter a value between 0 and 1 to define the opacity of the colored banner, while 1 is full color without opacity.
 **Callout position** *(`CalloutPosition`)* | String | Define with the four padding parameters where to place the text within the banner.
-**Padding top** *(`Padding`)* | String | XXXXXXXXXXXXXXXXXXXX
-**Padding right** *(`Padding`)* | String | XXXXXXXXXXXXXXXXXXXXXXXXX
-**Padding bottom** *(`Padding`)* | String | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-**Padding left** *(`Padding`)* | String | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+**Padding** *(`Padding`)* | String | Select a postion from the drop-down list.
+**Margin** *(`Margin`)* | String | Select a postion from the drop-down list.
 
 
 ** **
