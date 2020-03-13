@@ -39,7 +39,7 @@ Display Name *(Name in code)* | Type | Property Description
 None
 
 ## Preview
-![Hero Block - Preview](Screenshots/Hero20Block%20-%20Preview.png)
+![Hero Block - Preview](Screenshots/Hero%20Block%20-%20Preview.png)
 
 
 
