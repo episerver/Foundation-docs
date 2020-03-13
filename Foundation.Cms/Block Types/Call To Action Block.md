@@ -15,11 +15,11 @@ Display Name *(Name in code)* | Type | Property Description
 **Text color** *(`TextColor`)* | String | Enter a color in hexadecimal code, e.g. #FFFFFF for white.
 **Background image**(`BackgroundImage`)* | ContentReference | Select an image that is to be displayed as backround of the Call To Action Block.
 **Choose image style to fit the block** *(`BackgroundImageSetting`)* | ContentReference | Enter an image style.
-**Categories** *(`XXXXXXXXX`)* | XXX | XXXXXXXXXXXXXXXXXXXXXXXXXX
+**Categories** *(`XXXXXXXXX`)* | XXX | Select a category.
 **Label** *(`ButtonText`)* | String | Enter a label for the button.
 **Link** *(`ButtonLink`)* | Url | Select a page, category, media, catalog content or marketing content the button is linked to.
 **Style** *(`ButtonStyle`)* | String | Select a style for the button background: *Transparent Black*, *Transparent White*, *Dark* or *White*
-**Reassuring caption** *(`ButtonCaption`)* | String | XXXXXXXXXXXXXXXXXXXXXXXXXX
+**Reassuring caption** *(`ButtonCaption`)* | String | Enter a reassuring caption.
 **Padding** *(`XXXXXXXXX`)* | XXX | Define whether the padding is *None*, *Small*, *Medium* or *Large*
 **Margin** *(`XXXXXXXXX`)* | XXX | Define whether the margin is *None*, *Small*, *Medium* or *Large*
 **Background color** *(`XXXXXXXXX`)* | XXX | Select the background color: *None*, *Black*, *Grey*, *Beige*, *Light Blue* or *Yellow*
