@@ -1,10 +1,10 @@
 # Recent Page Category Recommendation Block
-"No description available"
+"Block that shows recommendations based on selected recent page category."
 
 ![Recent Page Category Recommendation Block](Screenshots/Recent%20Page%20Category%20Recommendation%20Block%20-%20icon.png)
 
 
-A *Block Type* designed to recommend recent page categories.
+A *Block Type* designed to show recommendations based on selected recent page category.
 
 ## Property List
 The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](../../Common%20Page%20Properties.md) list.
