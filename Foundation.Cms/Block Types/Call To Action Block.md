@@ -20,10 +20,10 @@ Display Name *(Name in code)* | Type | Property Description
 **Link** *(`ButtonLink`)* | Url | Select a page, category, media, catalog content or marketing content the button is linked to.
 **Style** *(`ButtonStyle`)* | String | Select a style for the button background: *Transparent Black*, *Transparent White*, *Dark* or *White*
 **Reassuring caption** *(`ButtonCaption`)* | String | XXXXXXXXXXXXXXXXXXXXXXXXXX
-**Top** *(`XXXXXXXXX`)* | XXX | Enter a value to define the space between the button's top border and the text.
-**Right** *(`XXXXXXXXX`)* | XXX | Enter a value to define the space between the button's left border and the right border.
-**Bottom** *(`XXXXXXXXX`)* | XXX | Enter a value to define the space between the button and the buttom border.
-**Left** *(`XXXXXXXXX`)* | XXX | Enter a value to define the space between the button's right border and the left border.
+**Padding** *(`XXXXXXXXX`)* | XXX | Define whether the padding is *None*, *Small*, *Medium* or *Large*
+**Margin** *(`XXXXXXXXX`)* | XXX | Define whether the margin is *None*, *Small*, *Medium* or *Large*
+**Background color** *(`XXXXXXXXX`)* | XXX | Select the background color: *None*, *Black*, *Grey*, *Beige*, *Light Blue* or *Yellow*
+**Block opacity (0 to 1)** *(`XXXXXXXXX`)* | XXX | Enter a value to define the block's opacity, while 0 is fully transperent.
 
 ** **
 ![Call To Action - Content tab](Screenshots/Call%20To%20Action%20Block%20-%20Content%20tab.png)
