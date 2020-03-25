@@ -10,7 +10,7 @@ The following property list includes properties that are unique to this content 
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
-**View as** *(`ViewMode`)* | String | Select the view mode, consiting of *Day*, *Week*, *Month* or *List*.
+**View as** *(`ViewMode`)* | String | Select the view mode, consisting of *Day*, *Week*, *Month* or *List*.
 **Events root** *(`EventsRoot`)* | PageReference | Select the path to your events' folder.
 **Number of events** *(`Count`)* | Integer | Enter the number of events to be displayed.
 **Filter by category**(`CategoryFilter`)* | CategoryList | Select a category for filtering events.
