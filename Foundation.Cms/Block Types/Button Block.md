@@ -13,7 +13,7 @@ Display Name *(Name in code)* | Type | Property Description
 **Label** *(`ButtonText`)* | String | Enter a text for the button.
 **Link** *(`ButtonLink`)* | Url | Select a page, category, media, catalog content or marketing content the button links to.
 **Style** *(`ButtonStyle`)* | String | Select the style of your button containing *Transparent Black*, *Transparent White*, *Dark* or *White*.
-**Reassuring caption**(`ButtonCaption`)* | String | XXXXXXXXXXXXXXXXXXXXX.
+**Reassuring caption**(`ButtonCaption`)* | String | The reassuring caption lets you add an additional text below the button.
 
 
 ** **
