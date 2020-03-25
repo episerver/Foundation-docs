@@ -10,11 +10,11 @@ The following property list includes properties that are unique to this content 
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
-**Comments per page** *(`CommentsPerPage`)* | Integer | Select the number of comments per page.
-**Padding top** *(`PaddingTop`)* | Integer | Define the space to the top.
-**Padding right** *(`PaddingRight`)* | Integer | Define the space to the right. 
-**Padding bottom** *(`PaddingBottom`)* | Integer | Define the space to the bottom.
-**Padding left** *(`PaddingLeft`)* | Integer | Define the space to the left.
+**Comments per page** *(`CommentsPerPage`)* | Integer | Select the number of comments displayed per page. The default number is set to 5.
+**Padding top** *(`PaddingTop`)* | Integer | (Not currently implemented).
+**Padding right** *(`PaddingRight`)* | Integer | (Not currently implemented). 
+**Padding bottom** *(`PaddingBottom`)* | Integer | (Not currently implemented).
+**Padding left** *(`PaddingLeft`)* | Integer | (Not currently implemented).
 
 ** **
 ![Blog Post Block - Content tab](Screenshots/Blog%20Comment%20Block%20-%20Content%20tab.png)
