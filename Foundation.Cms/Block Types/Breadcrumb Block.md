@@ -3,7 +3,7 @@
 
 ![Breadcrumb Block](Screenshots/Breadcrumb%20Block%20-%20icon.png)
 
-A *Block Type* designed to display a breadcrump navigation to a destination page.
+A *Block Type* designed to display a breadcrumb navigation to a destination page.
 
 ## Property List
 The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](../../Common%20Page%20Properties.md) list.
@@ -11,7 +11,7 @@ The following property list includes properties that are unique to this content 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
 **Destination page** *(`DestinationPage`)* | PageReference | Select the page the breadcrumb navigation references to on the lowest level.
-**Breadcrumb separator** *(`Separator`)* | String | Select a seperator that seperates the page references, that are *Single arrow*, *Forward slash*, *Backward slash*, *Double arrow* or two sorts of *Pipe*.
+**Breadcrumb separator** *(`Separator`)* | String | Select a separator that separates the page references, that is, *Single arrow*, *Forward slash*, *Backward slash*, *Double arrow* or one of two sorts of *Pipe*.
 **Alignment option** *(`Alignment`)* | String | Select where to place the breadcrumb navigation: *Left*, *Right* or *Center*. 
 
 
