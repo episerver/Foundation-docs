@@ -1,4 +1,4 @@
-# Linkedin Feed Block
+# Linkedin Company Block
 "Display content of a Linkedin feed."
 
 ![Linkedin Feed Block](Screenshots/Linkedin%20Feed%20Block%20-%20icon.png)
