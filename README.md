@@ -99,9 +99,12 @@ For source code and installation instructions, see the [Episerver Foundation rep
 
 ### Page Types
 - [Address Book Page](Foundation.Commerce/Page%20Types/Address%20Book%20Page.md)
+- [*Base Inclusion Exclusion Page](Foundation.Commerce/Page%20Types/Base%20Inclusion%20Exclusion%20Page.md)
 - [*Budgeting Page](Foundation.Commerce/Page%20Types/Budgeting%20Page.md)
 - [Cart Page](Foundation.Commerce/Page%20Types/Cart%20Page.md)
 - [Checkout Page](Foundation.Commerce/Page%20Types/Checkout%20Page.md)
+- [*Collection Page](Foundation.Commerce/Page%20Types/Collection%20Page.md)
+- [*Commerce Home Page](Foundation.Commerce/Page%20Types/Commerce%20Home%20Page.md)
 - [*Credit Card Page](Foundation.Commerce/Page%20Types/Credict%20Card%20Page.md)
 - [*Gift Card Page](Foundation.Commerce/Page%20Types/Credict%20Card%20Page.md)
 - [New Products Page](Foundation.Commerce/Page%20Types/New%20Products%20Page.md)
@@ -110,10 +113,11 @@ For source code and installation instructions, see the [Episerver Foundation rep
 - [Order Details Page](Foundation.Commerce/Page%20Types/Order%20Details%20Page.md)
 - [*Order History Page](Foundation.Commerce/Page%20Types/Order%History%20Page.md)
 - [*Order Pads Page](Foundation.Commerce/Page%20Types/Order%Pads%20Page.md)
+- [*Orders Page](Foundation.Commerce/Page%20Types/Orders%Page.md)
 - [*Organization Page](Foundation.Commerce/Page%20Types/Organization%20Page.md)
-- [Organization Orders Page](Foundation.Commerce/Page%20Types/Organization%20Orders%20Page.md)
 - [*Quick Order Page](Foundation.Commerce/Page%20Types/Quick%20Order%20Page.md)
 - [Sales Page](Foundation.Commerce/Page%20Types/Sales%20Page.md)
+- [*Sales Rep Page](Foundation.Commerce/Page%20Types/Sales%20Rep%20Page.md)
 - [*Shared Cart Page](Foundation.Commerce/Page%20Types/Shared%20Cart%20Page.md)
 - [Store Page](Foundation.Commerce/Page%20Types/Store%20Page.md)
 - [*Sub-Organization Page](Foundation.Commerce/Page%20Types/Sub-Organization%20Page.md)
@@ -124,8 +128,11 @@ For source code and installation instructions, see the [Episerver Foundation rep
 
 ### Block Types
 - [*Assets Download Links Block](Foundation.Commerce/Block%20Types/Assets%20Download%20Links%20Block.md)
+- [*Category Block](Foundation.Commerce/Block%20Types/Category%20Block.md)
 - [*Elevated Role Block](Foundation.Commerce/Block%20Types/Elevated%20Role%20Block.md)
 - [Order History Block](Foundation.Commerce/Block%20Types/Order%20History%20Block.md)
+- [*Order Search Block](Foundation.Commerce/Block%20Types/Order%20Search%20Block.md)
+- [*Product Hero Block](Foundation.Commerce/Block%20Types/Product%20Hero%20Block.md)
 - [Product Search Block](Foundation.Commerce/Block%20Types/Product%20Search%20Block.md)
 - [Quick Order Block](Foundation.Commerce/Block%20Types/Quick%20Order%20Block.md)
 
