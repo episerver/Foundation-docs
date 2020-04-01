@@ -9,7 +9,7 @@ The following property list includes properties that are unique to this content 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
 **API Key** *(`ApiKey`)* | String | To use an embedded Google Map, you need a unique API key. See Google's [Get an API key](https://developers.google.com/maps/documentation/javascript/get-api-key).
-**Search term** *(`SearchTerm`)* | String | Enter a search term for what should be displayed on the map, for example, "Mosey stores in London".
+**Search term** *(`SearchTerm`)* | String | Enter a search term for what should be displayed on the map, for example, "record stores London, UK".
 **Height** *(`Height`)* | Double | Control the height of the map by setting its max height (in pixels).
 
 ** **
