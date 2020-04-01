@@ -15,8 +15,7 @@ Display Name *(Name in code)* | Type | Property Description
 **Text color** *(`TextColor`)* | String | Enter a color, either by name or hex code. See, for example, [HTML Color Values](https://www.w3schools.com/colors/colors_hex.asp).
 **Background image**(`BackgroundImage`)* | ContentReference | Select an image that is to be displayed as background of the Call To Action Block.
 **Choose image style to fit the block** *(`BackgroundImageSetting`)* | ContentReference | Select one of the predefined image styles.
-**EPiServerCMS_SettingsPanel, Content and Block styling** *(`NA`)* | NA | The properties under Button
-EPiServerCMS_SettingsPanel, Content and Block styling control the button in the Call to Action block and come from the Button Block. See [Button Block](Button%20Block.md) for descriptions of these properties.
+**EPiServerCMS_SettingsPanel, Content and Block styling** *(`NA`)* | NA | The properties under Button EPiServerCMS_SettingsPanel, Content and Block styling control the button in the Call to Action block and come from the Button Block. See [Button Block](Button%20Block.md) for descriptions of these properties.
 
 ** **
 ![Call To Action - Content tab](Screenshots/Call%20To%20Action%20Block%20-%20Content%20tab.png)
