@@ -12,18 +12,11 @@ Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
 **Title** *(`Title`)* | String | Enter the title that is to be displayed prominently.
 **Subtext** *(`Subtext`)* | xhtmlString | Enter a subtitle.
-**Text color** *(`TextColor`)* | String | Enter a color in hexadecimal code, e.g. #FFFFFF for white.
-**Background image**(`BackgroundImage`)* | ContentReference | Select an image that is to be displayed as backround of the Call To Action Block.
-**Choose image style to fit the block** *(`BackgroundImageSetting`)* | ContentReference | Enter an image style.
-**Categories** *(`XXXXXXXXX`)* | XXX | Select a category.
-**Label** *(`ButtonText`)* | String | Enter a label for the button.
-**Link** *(`ButtonLink`)* | Url | Select a page, category, media, catalog content or marketing content the button is linked to.
-**Style** *(`ButtonStyle`)* | String | Select a style for the button background: *Transparent Black*, *Transparent White*, *Dark* or *White*
-**Reassuring caption** *(`ButtonCaption`)* | String | Enter a reassuring caption.
-**Padding** *(`XXXXXXXXX`)* | XXX | Define whether the padding is *None*, *Small*, *Medium* or *Large*
-**Margin** *(`XXXXXXXXX`)* | XXX | Define whether the margin is *None*, *Small*, *Medium* or *Large*
-**Background color** *(`XXXXXXXXX`)* | XXX | Select the background color: *None*, *Black*, *Grey*, *Beige*, *Light Blue* or *Yellow*
-**Block opacity (0 to 1)** *(`XXXXXXXXX`)* | XXX | Enter a value to define the block's opacity, while 0 is fully transperent.
+**Text color** *(`TextColor`)* | String | Enter a color, either by name or hex code. See, for example, [HTML Color Values](https://www.w3schools.com/colors/colors_hex.asp).
+**Background image**(`BackgroundImage`)* | ContentReference | Select an image that is to be displayed as background of the Call To Action Block.
+**Choose image style to fit the block** *(`BackgroundImageSetting`)* | ContentReference | Select one of the predefined image styles.
+**EPiServerCMS_SettingsPanel, Content and Block styling** *(`NA`)* | NA | The properties under Button
+EPiServerCMS_SettingsPanel, Content and Block styling control the button in the Call to Action block and come from the Button Block. See [Button Block](Button%20Block.md) for descriptions of these properties.
 
 ** **
 ![Call To Action - Content tab](Screenshots/Call%20To%20Action%20Block%20-%20Content%20tab.png)
