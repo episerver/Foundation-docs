@@ -3,7 +3,7 @@
 
 ![Button Block](Screenshots/Button%20Block%20-%20icon.png)
 
-A *Block Type* designed to display a button that forwards the user to a designated area. This block can be used independently on a page, but it is also used by, for example, the [Call To Action block](CallToActionBlock.md).
+A *Block Type* designed to display a button that forwards the user to a designated area. This block can be used independently on a page, but it is also used by, for example, the [Call To Action block](Call%20To%20Action%20Block.md).
 
 ## Property List
 The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](../../Common%20Page%20Properties.md) list.
