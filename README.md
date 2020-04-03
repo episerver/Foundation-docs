@@ -8,6 +8,8 @@ Including as of now projects for CMS, Commerce, Personalisation, Find and Social
 
 For source code and installation instructions, see the [Episerver Foundation repository: https://github.com/episerver/Foundation](https://github.com/episerver/Foundation).
 
+> **_NOTE:_**  This documentation is still WORK-IN-PROGRESS. Any contributions are very much appreciated. 
+
 ---
 
 ## Table of Contents
