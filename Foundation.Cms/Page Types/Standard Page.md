@@ -14,8 +14,9 @@ Display Name *(Name in code)* | Type | Property Description
 **Main content area** *(`MainContentArea`)* | ContentArea | Provides a configurable drag-and-drop interface for placing media, blocks, or other content onto the page.
 **Title color** *(`TitleColor`)* | String | Allows for setting the title color. 
 **Background color** *(`BackgroundColor`)* | String | Allows for setting a background color on the block. 
-**Title opacity (0 to 1)** *(`BackgroundOpacity`)* | Double | Allows for setting an opacity of the background color. The value has to be between 0 and 1, where 0 means that there is no background color visible, and 1 means that the background is 100% solid. 
-**Background video** *(`BackgroundVideo`)* | ContentReference | Allows for inserting a video clip that plays as the background of the page. **Note:** if nothing is provided here, the *Image* from the Teaser tab will be used as the background instead.
+**Title opacity (0 to 1)** *(`BackgroundOpacity`)* | Double | Allows for setting an opacity of the background color. The value has to be between 0 and 1, where 0 means that there is no background color visible, and 1 means that the background is 100% solid.
+**Background image** *(`BackgroundImage`)* | ContentReference | Allows for inserting a background image. If you add both a background color, with opacity set to for example 0.5, and a background image, the image will be displayed behind a semi-transparent color layer.
+**Background video** *(`BackgroundVideo`)* | ContentReference | Allows for inserting a video clip that plays as the background of the page.
 **Top padding mode** *(`TopPaddingMode`)* | String | Determines the way in which the background image or video is positioned on the page. The options are: **None**, **Half** or **Full**.
 
 ## Technical Information
