@@ -29,7 +29,7 @@ Display Name *(Name in code)* | Type | Property Description
 `Other Block Types`
 
 ### Inherits
-[BlockData](#)
+BlockData
 
 ### Restrictions
 None
