@@ -1,9 +1,5 @@
 # Foundation Block Data Block
-"NA"
-
-![Foundation Block Data Block](Screenshots/Foundation%20Block%20Data%20Block-%20icon.png)
-
-A *Block Type* designed to xxx.
+A *Block Type* designed to hold content used by other blocks. It cannot be used on its own and it cannot be displayed in edit view.
 
 ## Property List
 The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](../../Common%20Page%20Properties.md) list.
@@ -18,7 +14,6 @@ Display Name *(Name in code)* | Type | Property Description
 
 
 ** **
-![Foundation Block Data Block - Content tab](Screenshots/Foundation%20Block%20Data%20Block-%20Content%20tab.png)
 
 ## Technical Information
 
@@ -26,10 +21,10 @@ Display Name *(Name in code)* | Type | Property Description
 `NA`
 
 ### Inherits
-[BlockData](#)
+BlockData
 
 ### Restrictions
 None
 
 ## Preview
-![Foundation Block Data - Preview](Screenshots/Foundation%20Block%20Data%20Block-%20Preview.png)
+`NA`
