@@ -26,7 +26,7 @@ Display Name *(Name in code)* | Type | Property Description
 `Content`
 
 ### Inherits
-[FoundationBlockData](#)
+[FoundationBlockData](Foundation%20Block%20Data%20Block.md)
 
 ### Restrictions
 None
