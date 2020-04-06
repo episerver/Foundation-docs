@@ -23,7 +23,7 @@ Display Name *(Name in code)* | Type | Property Description
 `Social media`
 
 ### Inherits
-[FoundationBlockData](#)
+[FoundationBlockData](Foundation%20Block%20Data%20Block.md)
 
 ### Restrictions
 None
