@@ -25,7 +25,7 @@ Display Name *(Name in code)* | Type | Property Description
 `Blog`
 
 ### Inherits
-[BlockData](#)
+BlockData
 
 ### Restrictions
 None
