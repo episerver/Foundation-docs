@@ -3,10 +3,10 @@
 
 <img src="Screenshots/Profile%20Page%20-%20icon.png?raw=true" alt="Profile Page icon" width="40%"/>
 
-Profile Page is designed for a... Consists of a background image or video, a main body element and a main content area.
+Profile Page is a page type designed for user profile information. Consists of a background image or video, a main body element and a main content area.
 
 ## Property List
-The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](./Common%20Page%20Properties.md) list.
+The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](../../Common%20Page%20Properties.md) list.
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
