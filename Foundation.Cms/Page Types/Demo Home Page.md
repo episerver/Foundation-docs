@@ -10,7 +10,7 @@ An open-format *Page Type* designed to act as the home page or root of your webs
 <img src="Screenshots/Demo%20Home%20Page%20-%20OPE%20-%20Explained.png?raw=true" alt="Demo Home Page" width="100%" />
 
 ## Property List
-The following property list includes properties that are unique to this content type. For a list of shared properties, view our [*Common Page Properties*](./Common%20Page%20Properties.md) list.
+The following property list includes properties that are unique to this content type. For a list of shared properties, view our [*Common Page Properties*](../../Common%20Page%20Properties.md) list.
 
 ### Content tab
 
