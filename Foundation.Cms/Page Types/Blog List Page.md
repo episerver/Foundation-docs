@@ -6,7 +6,7 @@
 The *Blog List Page* acts as a entry point to blog items ([Blog Item Page](./Blog%20Item%20Page.md)). There are controls for determining the appearance and order of the blog items on the *Blog List Page*.
 
 ## Property List
-The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](./Common%20Page%20Properties.md) list.
+The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](../../Common%20Page%20Properties.md) list.
 
 ### Content tab
 
