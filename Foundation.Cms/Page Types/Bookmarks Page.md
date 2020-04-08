@@ -6,7 +6,7 @@ The Bookmarks Page is used for storing a logged-in user's bookmarks; pages that 
 <img src="Screenshots/Bookmarks%20Page%20-%20Bookmark%20selection.png?raw=true" alt="Bookmark selection on a page" width="50%"/>
 
 ## Property List
-The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](./Common%20Page%20Properties.md) list.
+The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](../../Common%20Page%20Properties.md) list.
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
@@ -21,7 +21,7 @@ Display Name *(Name in code)* | Type | Property Description
 ## Technical Information
 
 ### Category
-``
+`NA`
 
 ### Inherits
 [FoundationPageData](Foundation%20Page%20Data.md)
