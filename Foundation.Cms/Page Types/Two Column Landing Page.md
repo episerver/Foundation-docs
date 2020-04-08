@@ -6,7 +6,7 @@
 An open-format *Page Type* designed for a variety of page types including marketing landing pages, product promotion pages, etc. Consists of a top content area, main body, main content area and right content area.
 
 ## Property List
-The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](./Common%20Page%20Properties.md) list.
+The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](../../Common%20Page%20Properties.md) list.
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
@@ -27,10 +27,10 @@ Display Name *(Name in code)* | Type | Property Description
 `Content`
 
 ### Inherits
-[Landing Page](#)
+[Landing Page](Landing&20Page.md)
 
 ### Restrictions
-* The combined column width of *Left column* and *Right column* must equal 12. The default valu for each column width is 6.
+* The combined column width of *Left column* and *Right column* must equal 12. The default value for each column width is 6.
 
 ## Preview
 <img src="Screenshots/Two%20Column%20Landing%20Page%20-%20OPE.png?raw=true" alt="Preview of Two Column Landing Page" width="100%"/>
