@@ -1,12 +1,12 @@
 # Three Column Landing Page
-"Three column landing page with properties to determin column size"
+"Three column landing page with properties to determine column size"
 
 <img src="Screenshots/Three%20Column%20Landing%20Page%20-%20icon.png?raw=true" alt="Three Column Landing Page icon" width="40%" />
 
 An open-format *Page Type* designed for a variety of page types including marketing landing pages, product promotion pages, etc. Consists of a top content area, main body, left content area, main content area and right content area.
 
 ## Property List
-The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](./Common%20Page%20Properties.md) list.
+The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](../../Common%20Page%20Properties.md) list.
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
@@ -29,10 +29,10 @@ Display Name *(Name in code)* | Type | Property Description
 `Content`
 
 ### Inherits
-[Landing Page](#)
+[Landing Page](Landing%20Page.md)
 
 ### Restrictions
-* The combined column width of *Left column*, *Center column* and *Right column* must equal 12. The default valu for each column width is 4.
+* The combined column width of *Left column*, *Center column* and *Right column* must equal 12. The default value for each column width is 4.
 
 ## Preview
 <img src="Screenshots/Three%20Column%20Landing%20Page%20-%20OPE.png?raw=true" alt="Preview of Three Column Landing Page" width="100%"/>
