@@ -6,7 +6,7 @@
 A page for displaying the results of a search on the site. Properties included are top content area, main body, and main content area.
 
 ## Property List
-The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](./Common%20Page%20Properties.md) list.
+The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page  Properties*](../../Common%20Page%20Properties.md) list.
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
