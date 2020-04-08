@@ -6,7 +6,7 @@
 This page type is used for creating a calendar event, complete with the start and end dates, the location of the event and other properties for enriching the event.
 
 ## Property List
-The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](./Common%20Page%20Properties.md) list.
+The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](../../Common%20Page%20Properties.md) list.
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
