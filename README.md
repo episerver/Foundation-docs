@@ -56,7 +56,7 @@ For source code and installation instructions, see the [Episerver Foundation rep
 - [Reset Password Page](Foundation.Cms/Page%20Types/Reset%20Password%20Page.md)
 - [Search Results Page](Foundation.Cms/Page%20Types/Search%20Results%20Page.md)
 - [Standard Page](Foundation.Cms/Page%20Types/Standard%20Page.md)
-- [Tag Page](Foundation.Cms/Page%20Types/Tag%20Page.md)
+- [Tags Page](Foundation.Cms/Page%20Types/Tags%20Page.md)
 - [Three Column Landing Page](Foundation.Cms/Page%20Types/Three%20Column%20Landing%20Page.md)
 - [Two Column Landing Page](Foundation.Cms/Page%20Types/Two%20Column%20Landing%20Page.md)
 
