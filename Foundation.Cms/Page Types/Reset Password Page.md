@@ -1,10 +1,9 @@
 # Reset Password Page
-"Reset Password Page"
 
 The Reset Password page is for resetting one's password. The page consists of a main body element and a main content area.
 
 ## Property List
-The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](./Common%20Page%20Properties.md) list.
+The following property list includes properties that are unique to this content type. For a list of global properties, view our [*Common Page Properties*](../../Common%20Page%20Properties.md) list.
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
@@ -19,13 +18,13 @@ Display Name *(Name in code)* | Type | Property Description
 ## Technical Information
 
 ### Category
-``
+`NA`
 
 ### Inherits
 [FoundationPageData](Foundation%20Page%20Data.md)
 
 ### Restrictions
-* One can only get to the Reset Password Page by clicking the "Forgot your password?" link in the login area as shown below.
+* You can only get to the Reset Password Page by clicking the "Forgot your password?" link in the login area as shown below.
 
 <img src="Screenshots/Reset%20Password%20Page%20-%20Forgot%20password.png?raw=true" alt="Forgot password link in the login area." width="50%"/>
 
