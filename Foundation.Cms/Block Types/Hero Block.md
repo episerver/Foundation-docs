@@ -10,7 +10,7 @@ The following property list includes properties that are unique to this content 
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
-**Block ratio (width-height)** *(`BlockRatio`)* | String | Select the appropriate ratio (the proportional relationship) between the width and height of the block.
+**Block ratio (width:height)** *(`BlockRatio`)* | String | Select the appropriate ratio (the proportional relationship) between the width and height of the block.
 **Image** *(`BackgroundImage`)* | ContentReference | Upload an image to be displayed as background.
 **Video** *(`MainBackgroundVideo`)* | ContentReference | Upload a video to be displayed as background.
 **Link** *(`Link`)* | Url | Select where to forward users clicking on the hero block's content.
