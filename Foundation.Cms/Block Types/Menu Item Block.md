@@ -10,7 +10,7 @@ The following property list includes properties that are unique to this content 
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
-**Name in menu** *(`Name`)* | String | Enter the displayed name of the menu item.
+**Name** *(`Name`)* | String | Enter the displayed name of the menu item.
 **Link** *(`Link`)* | Url | Select a page, category, media, catalog content, marketing content, an email address or an external link and the remaining URL that the user will be forwarded to when clicking on the menu item's name.
 **Menu item image** *(`MenuImage`)* | ContentReference | Select an image that will be added to this menu item's sub menu.
 **Teaser text** *(`TeaserText`)* | XhtmlString | A text that teasers the content of the menu item.
