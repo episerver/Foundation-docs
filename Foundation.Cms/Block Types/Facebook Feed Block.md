@@ -10,8 +10,9 @@ The following property list includes properties that are unique to this content 
 
 Display Name *(Name in code)* | Type | Property Description
 --------------|------|---------------
-**Account name** *(`AccountName`)* | String | Provides an area for name of the Twitter account to be embedded.
-
+**Account name** *(`AccountName`)* | String | Provides an area for name of the Facebook account to be embedded.
+**Width** *(`Width`)* | Number | Allows for entering the width of the listing in number of pixels.
+**Height** *(`Height`)* | Number | Allows for entering the height of the listing in number of pixels.
 ** **
 ![Facebook Feed Block - Content tab](Screenshots/Facebook%20Feed%20Block%20-%20Content%20tab.png)
 
