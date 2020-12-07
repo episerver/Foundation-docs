@@ -69,14 +69,14 @@ For source code and installation instructions, see the [Episerver Foundation rep
 - [*Carousel Block](Foundation.Cms/Block%20Types/Carousel%20Block.md)
 - [Container Block](Foundation.Cms/Block%20Types/Container%20Block.md)
 - [Facebook Feed Block](Foundation.Cms/Block%20Types/Facebook%20Feed%20Block.md)
-- [FoundationBlockData](Foundation.Cms/Block%20Types/Foundation%20Block%20Data.md)
+<!-- - [FoundationBlockData](Foundation.Cms/Block%20Types/Foundation%20Block%20Data.md) -->
 - [Google Maps Block](Foundation.Cms/Block%20Types/Google%20Maps%20Block.md)
 - [Hero Block](Foundation.Cms/Block%20Types/Hero%20Block.md)
 - [Linkedin Feed Block](Foundation.Cms/Block%20Types/Linkedin%20Feed%20Block.md)
 - [Menu Item Block](Foundation.Cms/Block%20Types/Menu%20Item%20Block.md)
 - [Navigation Block](Foundation.Cms/Block%20Types/Navigation%20Block.md)
 - [Page List Block](Foundation.Cms/Block%20Types/Page%20List%20Block.md)
-- [Recent Page Category Recommendation Block](Foundation.Cms/Block%20Types/Recent%20Page%20Category%20Recommendation%20Block.md)
+<!-- - [Recent Page Category Recommendation Block](Foundation.Cms/Block%20Types/Recent%20Page%20Category%20Recommendation%20Block.md) -->
 - [RSS Reader Block](Foundation.Cms/Block%20Types/RSS%20Reader%20Block.md)
 - [Teaser Block](Foundation.Cms/Block%20Types/Teaser%20Block.md)
 - [Text Block](Foundation.Cms/Block%20Types/Text%20Block.md)
