@@ -48,11 +48,10 @@ For source code and installation instructions, see the [Episerver Foundation rep
 - [Home Page](Foundation.Cms/Page%20Types/Home%20Page.md)
 - [Folder Page](Foundation.Cms/Page%20Types/Folder%20Page.md)
 - [FoundationPageData](Foundation.Cms/Page%20Types/Foundation%20Page%20Data.md)
-- [*Location Item Page](Foundation.Cms/Page%20Types/Location%20Item%20Page.md)
-- [*Mail Base Page](Foundation.Cms/Page%20Types/Mail%20Base%20Page.md)
-- [*Profile Page](Foundation.Cms/Page%20Types/Profile%20Base%20Page.md)
-- [*Reset Password Mail Page](Foundation.Cms/Page%20Types/Reset%20Password%20Mail%20Page.md)
-- [Reset Password Page](Foundation.Cms/Page%20Types/Reset%20Password%20Page.md)
+<!-- - [*Mail Base Page](Foundation.Cms/Page%20Types/Mail%20Base%20Page.md) -->
+<!-- - [*Profile Page](Foundation.Cms/Page%20Types/Profile%20Base%20Page.md) -->
+<!-- - [*Reset Password Mail Page](Foundation.Cms/Page%20Types/Reset%20Password%20Mail%20Page.md) -->
+<!-- - [Reset Password Page](Foundation.Cms/Page%20Types/Reset%20Password%20Page.md) -->
 - [Search Results Page](Foundation.Cms/Page%20Types/Search%20Results%20Page.md)
 - [Single Column Landing Page](Foundation.Cms/Page%20Types/Single%20Column%20Landing%20Page.md)
 - [Standard Page](Foundation.Cms/Page%20Types/Standard%20Page.md)
@@ -105,32 +104,32 @@ For source code and installation instructions, see the [Episerver Foundation rep
 
 ### Page Types
 - [Address Book Page](Foundation.Commerce/Page%20Types/Address%20Book%20Page.md)
-- [*Base Inclusion Exclusion Page](Foundation.Commerce/Page%20Types/Base%20Inclusion%20Exclusion%20Page.md)
-- [*Budgeting Page](Foundation.Commerce/Page%20Types/Budgeting%20Page.md)
-- [Cart Page](Foundation.Commerce/Page%20Types/Cart%20Page.md)
+<!-- - [*Base Inclusion Exclusion Page](Foundation.Commerce/Page%20Types/Base%20Inclusion%20Exclusion%20Page.md) -->
+<!-- - [*Budgeting Page](Foundation.Commerce/Page%20Types/Budgeting%20Page.md)j -->
+- [Cart Page](Foundation.Commerce/Page%20Types/Cart%20Page.md) 
 - [Checkout Page](Foundation.Commerce/Page%20Types/Checkout%20Page.md)
 - [*Collection Page](Foundation.Commerce/Page%20Types/Collection%20Page.md)
-- [*Commerce Home Page](Foundation.Commerce/Page%20Types/Commerce%20Home%20Page.md)
-- [*Credit Card Page](Foundation.Commerce/Page%20Types/Credict%20Card%20Page.md)
-- [*Gift Card Page](Foundation.Commerce/Page%20Types/Credict%20Card%20Page.md)
+<!-- - [*Commerce Home Page](Foundation.Commerce/Page%20Types/Commerce%20Home%20Page.md) -->
+<!-- - [*Credit Card Page](Foundation.Commerce/Page%20Types/Credict%20Card%20Page.md) -->
+<!-- - [*Gift Card Page](Foundation.Commerce/Page%20Types/Credict%20Card%20Page.md) -->
 - [New Products Page](Foundation.Commerce/Page%20Types/New%20Products%20Page.md)
 - [Order Confirmation Mail Page](Foundation.Commerce/Page%20Types/Order%20Confirmation%20Mail%20Page.md)
-- [*Order Confirmation Page](Foundation.Commerce/Page%20Types/Order%20Confirmation%20Page.md)
+<!-- - [*Order Confirmation Page](Foundation.Commerce/Page%20Types/Order%20Confirmation%20Page.md) -->
 - [Order Details Page](Foundation.Commerce/Page%20Types/Order%20Details%20Page.md)
-- [*Order History Page](Foundation.Commerce/Page%20Types/Order%History%20Page.md)
-- [*Order Pads Page](Foundation.Commerce/Page%20Types/Order%Pads%20Page.md)
-- [*Orders Page](Foundation.Commerce/Page%20Types/Orders%Page.md)
-- [*Organization Page](Foundation.Commerce/Page%20Types/Organization%20Page.md)
-- [*Quick Order Page](Foundation.Commerce/Page%20Types/Quick%20Order%20Page.md)
+<!-- - [*Order History Page](Foundation.Commerce/Page%20Types/Order%History%20Page.md) -->
+<!-- - [*Order Pads Page](Foundation.Commerce/Page%20Types/Order%Pads%20Page.md) -->
+<!-- - [*Orders Page](Foundation.Commerce/Page%20Types/Orders%Page.md)-->
+<!-- - [*Organization Page](Foundation.Commerce/Page%20Types/Organization%20Page.md)-->
+<!-- - [*Quick Order Page](Foundation.Commerce/Page%20Types/Quick%20Order%20Page.md) -->
 - [Sales Page](Foundation.Commerce/Page%20Types/Sales%20Page.md)
-- [*Sales Rep Page](Foundation.Commerce/Page%20Types/Sales%20Rep%20Page.md)
-- [*Shared Cart Page](Foundation.Commerce/Page%20Types/Shared%20Cart%20Page.md)
-- [Store Page](Foundation.Commerce/Page%20Types/Store%20Page.md)
-- [*Sub-Organization Page](Foundation.Commerce/Page%20Types/Sub-Organization%20Page.md)
-- [*Subscription Details Page](Foundation.Commerce/Page%20Types/Subscription%20Details%20Page.md)
-- [Subscription History Page](Foundation.Commerce/Page%20Types/Subscription%20History%20Page.md)
-- [*Users Page](Foundation.Commerce/Page%20Types/Users%20Page.md)
-- [*Wish List Page](Foundation.Commerce/Page%20Types/Wish%20List%20Page.md)
+<!-- - [*Sales Rep Page](Foundation.Commerce/Page%20Types/Sales%20Rep%20Page.md) -->
+<!-- - [*Shared Cart Page](Foundation.Commerce/Page%20Types/Shared%20Cart%20Page.md) -->
+<!-- - [Store Page](Foundation.Commerce/Page%20Types/Store%20Page.md) -->
+<!-- - [*Sub-Organization Page](Foundation.Commerce/Page%20Types/Sub-Organization%20Page.md) -->
+<!-- - [*Subscription Details Page](Foundation.Commerce/Page%20Types/Subscription%20Details%20Page.md) -->
+<!-- - [Subscription History Page](Foundation.Commerce/Page%20Types/Subscription%20History%20Page.md) -->
+<!-- - [*Users Page](Foundation.Commerce/Page%20Types/Users%20Page.md) -->
+<!-- - [*Wish List Page](Foundation.Commerce/Page%20Types/Wish%20List%20Page.md) -->
 
 ### Block Types
 - [*Assets Download Links Block](Foundation.Commerce/Block%20Types/Assets%20Download%20Links%20Block.md)
@@ -187,7 +186,7 @@ For source code and installation instructions, see the [Episerver Foundation rep
 ### Page Types
 
 - [*Community Page](Foundation.Social/Page%20Types/Community%20Page.md)
-- [*Social Profile Page](Foundation.Social/Page%20Types/Social%20Profile%20Page.md)
+<!-- - [*Social Profile Page](Foundation.Social/Page%20Types/Social%20Profile%20Page.md) -->
 
 
 ### Block Types
