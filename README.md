@@ -18,14 +18,14 @@ For source code and installation instructions, see the [Episerver Foundation rep
 - [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
 - [Foundation.Cms](#foundationcms)
-- [Foundation.Cms.Personalization](#foundationcommercepersonalization)
+<!--- [Foundation.Cms.Personalization](#foundationcmspersonalization)-->
 - [Foundation.Commerce](#foundationcommerce)
-- [Foundation.Commerce.Personalization](#foundationcommercepersonalization)
+<!--- [Foundation.Commerce.Personalization](#foundationcommercepersonalization)-->
 - [Foundation.Find.Cms](#foundationfindcms)
-- [Foundation.Find.Commerce](#foundationfindcommerce)
+<!--- [Foundation.Find.Commerce](#foundationfindcommerce)-->
 - [Foundation.Social](#foundationsocial)
-- [Foundation.Campaign](#foundationcampaign)
-- [Foundation.Demo](#foundationdemo)
+<!--- [Foundation.Campaign](#foundationcampaign)
+- [Foundation.Demo](#foundationdemo) -->
 - [Contributing](#contributing)
 
 ---
@@ -69,11 +69,11 @@ For source code and installation instructions, see the [Episerver Foundation rep
 - [Call to Action Block](Foundation.Cms/Block%20Types/Call%20To%20Action%20Block.md)
 - [*Carousel Block](Foundation.Cms/Block%20Types/Carousel%20Block.md)
 - [Container Block](Foundation.Cms/Block%20Types/Container%20Block.md)
-- [Facebook Block](Foundation.Cms/Block%20Types/Facebook%20Feed%20Block.md)
+- [Facebook Feed Block](Foundation.Cms/Block%20Types/Facebook%20Feed%20Block.md)
 - [FoundationBlockData](Foundation.Cms/Block%20Types/Foundation%20Block%20Data.md)
-- [Google Maps Embed Block](Foundation.Cms/Block%20Types/Google%20Maps%20Embed%20Block.md)
+- [Google Maps Block](Foundation.Cms/Block%20Types/Google%20Maps%20Block.md)
 - [Hero Block](Foundation.Cms/Block%20Types/Hero%20Block.md)
-- [Linkedin Company Block](Foundation.Cms/Block%20Types/Linkedin%20Company%20Block.md)
+- [Linkedin Feed Block](Foundation.Cms/Block%20Types/Linkedin%20Feed%20Block.md)
 - [Menu Item Block](Foundation.Cms/Block%20Types/Menu%20Item%20Block.md)
 - [Navigation Block](Foundation.Cms/Block%20Types/Navigation%20Block.md)
 - [Page List Block](Foundation.Cms/Block%20Types/Page%20List%20Block.md)
@@ -86,11 +86,11 @@ For source code and installation instructions, see the [Episerver Foundation rep
 - [Vimeo Block](Foundation.Cms/Block%20Types/Vimeo%20Block.md)
 - [YouTube Block](Foundation.Cms/Block%20Types/YouTube%20Block.md)
 
-### Other Information
+<!-- ### Other Information -->
 
 ---
 
-## Foundation.Cms.Personalization
+<!-- ## Foundation.Cms.Personalization
 
 ### Page Types
 
@@ -99,7 +99,7 @@ For source code and installation instructions, see the [Episerver Foundation rep
 
 ### Other Information
 
----
+--- -->
 
 ## Foundation.Commerce
 
@@ -142,11 +142,11 @@ For source code and installation instructions, see the [Episerver Foundation rep
 - [Product Search Block](Foundation.Commerce/Block%20Types/Product%20Search%20Block.md)
 - [Quick Order Block](Foundation.Commerce/Block%20Types/Quick%20Order%20Block.md)
 
-### Other Information
+<!-- ### Other Information -->
 
 ---
 
-## Foundation.Commerce.Personalization
+<!--## Foundation.Commerce.Personalization
 
 ### Page Types
 
@@ -154,7 +154,7 @@ For source code and installation instructions, see the [Episerver Foundation rep
 
 ### Other Information
 
----
+--- -->
 
 ## Foundation.Find.Cms
 
@@ -168,11 +168,11 @@ For source code and installation instructions, see the [Episerver Foundation rep
 - [*Filter Distances Block](Foundation.Find.Cms/Block%20Types/Filter%20Distances%20Block.md)
 - [*Filter Temperatures Block](Foundation.Find.Cms/Block%20Types/Filter%20Temperatures%20Block.md)
 
-### Other Information
+<!-- ### Other Information -->
 
 ---
 
-## Foundation.Find.Commerce
+<!-- ## Foundation.Find.Commerce
 
 ### Page Types
 
@@ -180,7 +180,7 @@ For source code and installation instructions, see the [Episerver Foundation rep
 
 ### Other Information
 
----
+--- -->
 
 ## Foundation.Social
 
@@ -203,11 +203,11 @@ For source code and installation instructions, see the [Episerver Foundation rep
 
 
 
-### Other Information
+<!-- ### Other Information -->
 
 ---
 
-## Foundation.Campaign
+<!-- ## Foundation.Campaign
 
 ### Page Types
 
@@ -225,7 +225,7 @@ For source code and installation instructions, see the [Episerver Foundation rep
 
 ### Other Information
 
----
+--- -->
 
 ## Contributing
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)

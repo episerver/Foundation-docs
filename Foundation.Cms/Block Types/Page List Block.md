@@ -16,12 +16,17 @@ Display Name *(Name in code)* | Type | Property Description
 **Include teaser text** *(`IncludeTeaserText`)* | Boolean | Select whether to show the teaser text on each listed page.
 **Number of results** *(`Count`)* | Integer | Enter the number of listed pages to be displayed.
 **Sort order** *(`SortOrder`)* | FilterSortOrder | Define the sort order: *According to creation date (latest first/oldest first)*, *Alphabetical*, *According to sort index*, *According to change date (latest first)* or *According to start publish date (oldest first/latest first)*.
-**Root** *(`Root`)* | PageReference | Select the root folder for the Page List Block.
+**Roots** *(`Root`)* | PageReference | Select the root folder for the Page List Block.
 **Filter by page type** *(`PageTypeFilter`)* | PageType | Select whether to include specified page types only.
 **Filter by category** *(`CategoryListFilter`)* | IList | Categories to filter the list on.
 **Include all levels** *(`Recursive`)* | Boolean | Select whether to show pages of the same level only.
-**Template of pages listing** *(`Template`)* | String | Define the layout: *Grid*, *Image on the left*, *Image on the top* or *No image*.
-**Preview option (not available in the Grid template)** *(`PreviewOption`)* | String | If you selected *Image on the left* or *Image on the top*, you can define the preview size to be *One third width*, *Half width* or *Full width*.
+**Template of pages listing** *(`Template`)* | String | Define the layout: **Grid**, **Image on the left**, **Image on the top**, **No image**, **Highlight panel**, **Card** or **Insight**.
+**Preview option (not available in the Grid, Card, Insight templates)** *(`PreviewOption`)* | String | If you selected **Image on the top**, you can define the preview size to be *One third width*, *Half width* or *Full width*.
+
+**Overlay color (hex or rgba)**
+
+**Overlay text color (hex or rgba)**
+
 
 ** **
 ![Page List Block - Content tab](Screenshots/Page%20List%20Block%20-%20Content%20tab.png)

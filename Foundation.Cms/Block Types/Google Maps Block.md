@@ -1,4 +1,4 @@
-# Google Maps Embed Block
+# Google Maps Block
 "Display Google Maps Embed."
 
 A *Block Type* designed to display an embedded Google map.
