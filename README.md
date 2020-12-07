@@ -8,7 +8,7 @@ Including as of now projects for CMS, Commerce, Personalisation, Find and Social
 
 For source code and installation instructions, see the [Episerver Foundation repository: https://github.com/episerver/Foundation](https://github.com/episerver/Foundation).
 
-> **_NOTE:_**  This documentation is still WORK-IN-PROGRESS. Any contributions are very much appreciated. 
+> **_NOTE:_**  This documentation is still WORK-IN-PROGRESS. Any contributions are very much appreciated. The entries preceeded by an asterisk (*) are not done documented yet.
 
 ---
 
@@ -44,17 +44,17 @@ For source code and installation instructions, see the [Episerver Foundation rep
 - [Blog List Page](Foundation.Cms/Page%20Types/Blog%20List%20Page.md)
 - [Bookmarks Page](Foundation.Cms/Page%20Types/Bookmarks%20Page.md)
 - [Calendar Event Page](Foundation.Cms/Page%20Types/Calendar%20Event%20Page.md)
-- [*Cms Home Page](Foundation.Cms/Page%20Types/Cms%20Home%20Page.md)
-- [Demo Home Page](Foundation.Cms/Page%20Types/Demo%20Home%20Page.md)
+<!-- - [*Cms Home Page](Foundation.Cms/Page%20Types/Cms%20Home%20Page.md) -->
+- [Home Page](Foundation.Cms/Page%20Types/Home%20Page.md)
 - [Folder Page](Foundation.Cms/Page%20Types/Folder%20Page.md)
 - [FoundationPageData](Foundation.Cms/Page%20Types/Foundation%20Page%20Data.md)
-- [*Landing Page](Foundation.Cms/Page%20Types/Landing%20Page.md)
 - [*Location Item Page](Foundation.Cms/Page%20Types/Location%20Item%20Page.md)
 - [*Mail Base Page](Foundation.Cms/Page%20Types/Mail%20Base%20Page.md)
 - [*Profile Page](Foundation.Cms/Page%20Types/Profile%20Base%20Page.md)
 - [*Reset Password Mail Page](Foundation.Cms/Page%20Types/Reset%20Password%20Mail%20Page.md)
 - [Reset Password Page](Foundation.Cms/Page%20Types/Reset%20Password%20Page.md)
 - [Search Results Page](Foundation.Cms/Page%20Types/Search%20Results%20Page.md)
+- [Single Column Landing Page](Foundation.Cms/Page%20Types/Single%20Column%20Landing%20Page.md)
 - [Standard Page](Foundation.Cms/Page%20Types/Standard%20Page.md)
 - [Tags Page](Foundation.Cms/Page%20Types/Tags%20Page.md)
 - [Three Column Landing Page](Foundation.Cms/Page%20Types/Three%20Column%20Landing%20Page.md)
