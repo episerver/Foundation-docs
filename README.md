@@ -72,7 +72,6 @@ For source code and installation instructions, see the [Episerver Foundation rep
 <!-- - [FoundationBlockData](Foundation.Cms/Block%20Types/Foundation%20Block%20Data.md) -->
 - [Google Maps Block](Foundation.Cms/Block%20Types/Google%20Maps%20Block.md)
 - [Hero Block](Foundation.Cms/Block%20Types/Hero%20Block.md)
-- [Linkedin Feed Block](Foundation.Cms/Block%20Types/Linkedin%20Feed%20Block.md)
 - [Menu Item Block](Foundation.Cms/Block%20Types/Menu%20Item%20Block.md)
 - [Navigation Block](Foundation.Cms/Block%20Types/Navigation%20Block.md)
 - [Page List Block](Foundation.Cms/Block%20Types/Page%20List%20Block.md)
