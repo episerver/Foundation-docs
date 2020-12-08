@@ -14,19 +14,21 @@ For source code and installation instructions, see the [Episerver Foundation rep
 
 ## Table of Contents
 
-- [Foundation Editor Documentation](#foundation-editor-documentation)
-- [Table of Contents](#table-of-contents)
+<!--- [Foundation Editor Documentation](#foundation-editor-documentation)
+- [Table of Contents](#table-of-contents)-->
 - [Introduction](#introduction)
 - [Foundation.Cms](#foundationcms)
-<!--- [Foundation.Cms.Personalization](#foundationcmspersonalization)-->
 - [Foundation.Commerce](#foundationcommerce)
-<!--- [Foundation.Commerce.Personalization](#foundationcommercepersonalization)-->
 - [Foundation.Find.Cms](#foundationfindcms)
-<!--- [Foundation.Find.Commerce](#foundationfindcommerce)-->
 - [Foundation.Social](#foundationsocial)
+- [Contributing](#contributing)
+<!-- [Foundation.Cms.Personalization](#foundationcmspersonalization)-->
+<!--- [Foundation.Commerce.Personalization](#foundationcommercepersonalization)-->
+<!--- [Foundation.Find.Commerce](#foundationfindcommerce)-->
+
 <!--- [Foundation.Campaign](#foundationcampaign)
 - [Foundation.Demo](#foundationdemo) -->
-- [Contributing](#contributing)
+
 
 ---
 
@@ -44,20 +46,22 @@ For source code and installation instructions, see the [Episerver Foundation rep
 - [Blog List Page](Foundation.Cms/Page%20Types/Blog%20List%20Page.md)
 - [Bookmarks Page](Foundation.Cms/Page%20Types/Bookmarks%20Page.md)
 - [Calendar Event Page](Foundation.Cms/Page%20Types/Calendar%20Event%20Page.md)
-<!-- - [*Cms Home Page](Foundation.Cms/Page%20Types/Cms%20Home%20Page.md) -->
 - [Home Page](Foundation.Cms/Page%20Types/Home%20Page.md)
 - [Folder Page](Foundation.Cms/Page%20Types/Folder%20Page.md)
 - [FoundationPageData](Foundation.Cms/Page%20Types/Foundation%20Page%20Data.md)
-<!-- - [*Mail Base Page](Foundation.Cms/Page%20Types/Mail%20Base%20Page.md) -->
-<!-- - [*Profile Page](Foundation.Cms/Page%20Types/Profile%20Base%20Page.md) -->
-<!-- - [*Reset Password Mail Page](Foundation.Cms/Page%20Types/Reset%20Password%20Mail%20Page.md) -->
-<!-- - [Reset Password Page](Foundation.Cms/Page%20Types/Reset%20Password%20Page.md) -->
 - [Search Results Page](Foundation.Cms/Page%20Types/Search%20Results%20Page.md)
 - [Single Column Landing Page](Foundation.Cms/Page%20Types/Single%20Column%20Landing%20Page.md)
 - [Standard Page](Foundation.Cms/Page%20Types/Standard%20Page.md)
 - [Tags Page](Foundation.Cms/Page%20Types/Tags%20Page.md)
 - [Three Column Landing Page](Foundation.Cms/Page%20Types/Three%20Column%20Landing%20Page.md)
 - [Two Column Landing Page](Foundation.Cms/Page%20Types/Two%20Column%20Landing%20Page.md)
+<!-- - [*Cms Home Page](Foundation.Cms/Page%20Types/Cms%20Home%20Page.md) -->
+
+<!-- - [*Mail Base Page](Foundation.Cms/Page%20Types/Mail%20Base%20Page.md) -->
+<!-- - [*Profile Page](Foundation.Cms/Page%20Types/Profile%20Base%20Page.md) -->
+<!-- - [*Reset Password Mail Page](Foundation.Cms/Page%20Types/Reset%20Password%20Mail%20Page.md) -->
+<!-- - [Reset Password Page](Foundation.Cms/Page%20Types/Reset%20Password%20Page.md) -->
+
 
 ### Block Types
 
@@ -69,13 +73,11 @@ For source code and installation instructions, see the [Episerver Foundation rep
 - [*Carousel Block](Foundation.Cms/Block%20Types/Carousel%20Block.md)
 - [Container Block](Foundation.Cms/Block%20Types/Container%20Block.md)
 - [Facebook Feed Block](Foundation.Cms/Block%20Types/Facebook%20Feed%20Block.md)
-<!-- - [FoundationBlockData](Foundation.Cms/Block%20Types/Foundation%20Block%20Data.md) -->
 - [Google Maps Block](Foundation.Cms/Block%20Types/Google%20Maps%20Block.md)
 - [Hero Block](Foundation.Cms/Block%20Types/Hero%20Block.md)
 - [Menu Item Block](Foundation.Cms/Block%20Types/Menu%20Item%20Block.md)
 - [Navigation Block](Foundation.Cms/Block%20Types/Navigation%20Block.md)
 - [Page List Block](Foundation.Cms/Block%20Types/Page%20List%20Block.md)
-<!-- - [Recent Page Category Recommendation Block](Foundation.Cms/Block%20Types/Recent%20Page%20Category%20Recommendation%20Block.md) -->
 - [RSS Reader Block](Foundation.Cms/Block%20Types/RSS%20Reader%20Block.md)
 - [Teaser Block](Foundation.Cms/Block%20Types/Teaser%20Block.md)
 - [Text Block](Foundation.Cms/Block%20Types/Text%20Block.md)
@@ -83,6 +85,9 @@ For source code and installation instructions, see the [Episerver Foundation rep
 - [Video Block](Foundation.Cms/Block%20Types/Video%20Block.md)
 - [Vimeo Block](Foundation.Cms/Block%20Types/Vimeo%20Block.md)
 - [YouTube Block](Foundation.Cms/Block%20Types/YouTube%20Block.md)
+<!-- - [FoundationBlockData](Foundation.Cms/Block%20Types/Foundation%20Block%20Data.md) -->
+<!-- - [Recent Page Category Recommendation Block](Foundation.Cms/Block%20Types/Recent%20Page%20Category%20Recommendation%20Block.md) -->
+
 
 <!-- ### Other Information -->
 
@@ -103,24 +108,25 @@ For source code and installation instructions, see the [Episerver Foundation rep
 
 ### Page Types
 - [Address Book Page](Foundation.Commerce/Page%20Types/Address%20Book%20Page.md)
-<!-- - [*Base Inclusion Exclusion Page](Foundation.Commerce/Page%20Types/Base%20Inclusion%20Exclusion%20Page.md) -->
-<!-- - [*Budgeting Page](Foundation.Commerce/Page%20Types/Budgeting%20Page.md)j -->
 - [Cart Page](Foundation.Commerce/Page%20Types/Cart%20Page.md) 
 - [Checkout Page](Foundation.Commerce/Page%20Types/Checkout%20Page.md)
 - [*Collection Page](Foundation.Commerce/Page%20Types/Collection%20Page.md)
+- [New Products Page](Foundation.Commerce/Page%20Types/New%20Products%20Page.md)
+- [Order Confirmation Mail Page](Foundation.Commerce/Page%20Types/Order%20Confirmation%20Mail%20Page.md)
+- [Order Details Page](Foundation.Commerce/Page%20Types/Order%20Details%20Page.md)
+- [Sales Page](Foundation.Commerce/Page%20Types/Sales%20Page.md)
+<!-- - [*Base Inclusion Exclusion Page](Foundation.Commerce/Page%20Types/Base%20Inclusion%20Exclusion%20Page.md) -->
+<!-- - [*Budgeting Page](Foundation.Commerce/Page%20Types/Budgeting%20Page.md)j -->
 <!-- - [*Commerce Home Page](Foundation.Commerce/Page%20Types/Commerce%20Home%20Page.md) -->
 <!-- - [*Credit Card Page](Foundation.Commerce/Page%20Types/Credict%20Card%20Page.md) -->
 <!-- - [*Gift Card Page](Foundation.Commerce/Page%20Types/Credict%20Card%20Page.md) -->
-- [New Products Page](Foundation.Commerce/Page%20Types/New%20Products%20Page.md)
-- [Order Confirmation Mail Page](Foundation.Commerce/Page%20Types/Order%20Confirmation%20Mail%20Page.md)
 <!-- - [*Order Confirmation Page](Foundation.Commerce/Page%20Types/Order%20Confirmation%20Page.md) -->
-- [Order Details Page](Foundation.Commerce/Page%20Types/Order%20Details%20Page.md)
 <!-- - [*Order History Page](Foundation.Commerce/Page%20Types/Order%History%20Page.md) -->
 <!-- - [*Order Pads Page](Foundation.Commerce/Page%20Types/Order%Pads%20Page.md) -->
 <!-- - [*Orders Page](Foundation.Commerce/Page%20Types/Orders%Page.md)-->
 <!-- - [*Organization Page](Foundation.Commerce/Page%20Types/Organization%20Page.md)-->
 <!-- - [*Quick Order Page](Foundation.Commerce/Page%20Types/Quick%20Order%20Page.md) -->
-- [Sales Page](Foundation.Commerce/Page%20Types/Sales%20Page.md)
+
 <!-- - [*Sales Rep Page](Foundation.Commerce/Page%20Types/Sales%20Rep%20Page.md) -->
 <!-- - [*Shared Cart Page](Foundation.Commerce/Page%20Types/Shared%20Cart%20Page.md) -->
 <!-- - [Store Page](Foundation.Commerce/Page%20Types/Store%20Page.md) -->
@@ -158,7 +164,7 @@ For source code and installation instructions, see the [Episerver Foundation rep
 
 ### Page Types
 - [Location Item Page](Foundation.Find.Cms/Page%20Types/Location%20Item%20Page.md)
-- [Locations List Page](Foundation.Find.Cms/Page%20Types/Locations%20List%20Page.md)
+- [Location List Page](Foundation.Find.Cms/Page%20Types/Location%20List%20Page.md)
 
 ### Block Types
 - [*Filter Activities Block](Foundation.Find.Cms/Block%20Types/Filter%20Activities%20Block.md)

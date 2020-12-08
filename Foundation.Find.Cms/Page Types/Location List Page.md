@@ -1,5 +1,5 @@
-# Locations List Page
-"Used to disploay of list of all locations"
+# Location List Page
+"Used to display a list of all locations"
 
 <img src="Screenshots/Locations%20List%20Page%20-%20icon.png?raw=true" alt="<PAGETYPE> icon" width="40%" />
 
